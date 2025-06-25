@@ -49,7 +49,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="国际频道",美国 Xplore
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="央视频道", CCTV1综合
 http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #http://39.134.65.106/PLTV/88888888/224/3221226119/1.m3u8
@@ -305,8 +304,6 @@ https://stream1.freetv.fun/637ceff2dfb72b24ad6929da061ccf235af38b9469ba999c577b1
 https://stream1.freetv.fun/29adfafbafdff79d9feed6dd7ee053b99f4cef416258aa0829550e14d9eac5f4.m3u8
 #EXTINF:-1 group-title="台湾频道",TW 年代新闻 hd =1
 https://stream1.freetv.fun/d3a2ad1c4c0508f1b3e37d56a959a6ab83d3e60da97e6aaf2b9334442dc1e2f7.m3u8
-#EXTINF:-1 group-title="台湾频道",TW 台湾国会议会直播
-https://stream1.freetv.fun/512cd4edeb7160ca02542585a638ec0508c099008368e203dd41c0d924ff6e78.m3u8
 #EXTINF:-1 group-title="电影频道",HK 千禧经典
 http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 #http://php.jdshipin.com/smt.php?id=Tvbclassic
