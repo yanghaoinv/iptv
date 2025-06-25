@@ -215,6 +215,8 @@ https://stream1.freetv.fun/9372d5d53589816008f331a4592de1cdf0e5eb37cd47a052d60a7
 https://stream1.freetv.fun/5820e487e8d8a390c149c1197fbec044d733def9f7ca1a1e1d7914a46db67787.m3u8
 #EXTINF:-1 group-title="香港澳门",HK Viutv
 https://stream1.freetv.fun/566447a554a11bb540e5e37ea32162caa2959fefd3707625f70de6ac96255364.m3u8
+#EXTINF:-1 group-title="香港澳门",MC 澳视资讯
+http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 group-title="香港澳门",MC 莲花卫视
 http://8.138.7.223/tv/lotustv.m3u8
 #EXTINF:-1 group-title="香港澳门",MC 莲花卫视
@@ -307,6 +309,12 @@ https://stream1.freetv.fun/5fe3cb2358c4e355059b3dcc97b64685b5fc5e8ee264f54624bd4
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="儿童频道",新动漫
 http://nas.hssvm.com:8888/udp/225.1.1.216:5002
+#EXTINF:-1 group-title="数字频道",CHC影迷电影
+http://www.douzhicloud.site:35455/mgtv/952383261.m3u8
+#EXTINF:-1 group-title="数字频道",CHC动作电影
+http://www.douzhicloud.site:35455/mgtv/644368714.m3u8
+#EXTINF:-1 group-title="数字频道",CHC家庭影院
+http://www.douzhicloud.site:35455/mgtv/644368373.m3u8
 #EXTINF:-1 group-title="数字频道",黑莓电影
 http://39.134.65.106/PLTV/88888888/224/3221225681/1.m3u8
 #EXTINF:-1 group-title="数字频道",黑莓电影
