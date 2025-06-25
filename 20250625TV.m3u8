@@ -414,9 +414,9 @@ http://39.134.65.106/PLTV/88888888/224/3221226027/1.m3u8
 #http://39.134.65.106/PLTV/88888888/224/3221225895/1.m3u8
 #EXTINF:-1 group-title="数字频道",晴彩竞技
 http://39.134.65.106/PLTV/88888888/224/3221225897/1.m3u8
-#EXTINF:-1 group-title="备用频道",西游记续集
+#EXTINF:-1 group-title="电影频道",西游记续集
 http://zzy789.xyz/douyu1.php?id=3113309
-#EXTINF:-1 group-title="备用频道",小鬼华语影院
+#EXTINF:-1 group-title="电影频道",小鬼华语影院
 http://tc-tct.douyucdn2.cn/dyliveflv1a/3928r9p0BHMDG_2000.xs?wsAuth=3c48b706fe90d736d90b5622adfc09d2&token=web-h5-0-3928-15d95fcfde11a749199abfc5ac7bdee6727c6402febadfb8&logo=0&expire=0&did=24482b48b98804f2b0a5b17400041701
 #EXTINF:-1 group-title="地方卫视",东南卫视
 http://39.134.65.106/PLTV/88888888/224/3221225950/1.m3u8
