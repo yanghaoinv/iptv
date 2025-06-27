@@ -1,4 +1,5 @@
 #EXTM3U
+#国际频道
 #EXTINF:-1 group-title="国际频道",英国 ABC News Live
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 group-title="国际频道",英国 ABC
@@ -11,6 +12,16 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 group-title="国际频道",美国 CBN News
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",英国 Real Wild
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",美国 GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",美国 Trace Urban
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",美国 Motorvision.TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",美国 Xplore
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 #EXTINF:-1 group-title="国际频道",美国 CNN
 https://jmp2.uk/sam-GBBD8000016N.m3u8
 #EXTINF:-1 group-title="国际频道",美国 Fox LiveNow
@@ -41,16 +52,10 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="国际频道",巴西 [BD]ric plus
 https://stream1.freetv.fun/7ad21338860fe295e090d166163d0a1881eb006b2d84f887ba867b5d13751711.m3u8
-#EXTINF:-1 group-title="国际频道",英国 Real Wild
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",美国 GB News
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",美国 Trace Urban
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",美国 Motorvision.TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",美国 Xplore
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",朝鲜恩情台
+https://s2.m16tv.cfd/aktv3/CH-0/AKTV.m3u8
+
+#央视频道
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="央视频道", CCTV1综合
 http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #http://39.134.65.106/PLTV/88888888/224/3221226119/1.m3u8
@@ -199,6 +204,10 @@ http://39.134.65.106/PLTV/88888888/224/3221226081/1.m3u8
 #https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 group-title="央视频道",环球电视
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
+
+#香港澳门
+#EXTINF:-1 group-title="香港澳门",HK Animax
+https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
 #EXTINF:-1 group-title="香港澳门",HK TVB明珠台
 https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.ctv
 #http://php.jdshipin.com/TVOD/iptv.php?id=mzt
@@ -234,13 +243,16 @@ https://s2.m16tv.cfd/aktv/CH-1/AKTV.m3u8
 #EXTINF:-1 group-title="香港澳门",HK 香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="香港澳门",HK 凤凰香港
-http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
+#http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 group-title="香港澳门",HK 凤凰中文
-https://stream1.freetv.fun/a3cfcb6f4429baaa2f182afaf1ab55003d71ca680ca0afd61968d36b33f26f03.m3u8
+https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
+#https://stream1.freetv.fun/a3cfcb6f4429baaa2f182afaf1ab55003d71ca680ca0afd61968d36b33f26f03.m3u8
 #http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 group-title="香港澳门",HK 凤凰资讯
-https://stream1.freetv.fun/bd6353b3b7788e2290c3f5064f9e9d1c8aa1b7ed2aae5b433276b3ca95a62fde.m3u8
+https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
 #http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+#https://stream1.freetv.fun/bd6353b3b7788e2290c3f5064f9e9d1c8aa1b7ed2aae5b433276b3ca95a62fde.m3u8
 #EXTINF:-1 group-title="香港澳门",HK 港台电视 31
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 #https://stream1.freetv.fun/9d329ece816bf018e27f1af986e467d2a6d52301609d4f945cb12ed6e82296d5.ctv
@@ -267,6 +279,12 @@ http://8.138.7.223/tv/lotustv.m3u8
 #http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 #EXTINF:-1 group-title="香港澳门",MC 澳视澳门
 http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
+
+#台湾频道
+#EXTINF:-1 group-title="台湾频道",TW Channel 8 HD
+https://s1.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 group-title="台湾频道",TW Channel U HD
+https://s1.m16tv.cfd/aktv/channeluhd/AKTV.m3u8
 #EXTINF:-1 group-title="台湾频道",TW 龙华电影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 group-title="台湾频道",TW 龙华经典
@@ -316,8 +334,12 @@ https://stream1.freetv.fun/637ceff2dfb72b24ad6929da061ccf235af38b9469ba999c577b1
 https://stream1.freetv.fun/29adfafbafdff79d9feed6dd7ee053b99f4cef416258aa0829550e14d9eac5f4.m3u8
 #EXTINF:-1 group-title="台湾频道",TW 年代新闻 hd =1
 https://stream1.freetv.fun/d3a2ad1c4c0508f1b3e37d56a959a6ab83d3e60da97e6aaf2b9334442dc1e2f7.m3u8
-#EXTINF:-1 group-title="电影频道",TW 緯來體育台
+#EXTINF:-1 group-title="台湾频道",TW 緯來體育台
 https://s2.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
+
+#电影频道
+#EXTINF:-1 group-title="电影频道",AXN
+https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
 #EXTINF:-1 group-title="电影频道",TW 東森電影
 https://s2.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
 #EXTINF:-1 group-title="电影频道",美国 HBO
@@ -350,6 +372,12 @@ http://43.138.0.72:35455/yy/1354889019
 http://tc-tct.douyucdn2.cn/dyliveflv1a/85894rmovieChow_4000.xs?wsAuth=ba1c90644d5727f7eff2d821807aceb6&token=web-h5-90270207-85894-853ec75fcb0c6ecaca17aa65580152fde64a0f1c44c269f0&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=hw
 #EXTINF:-1 group-title="电影频道",神乐欧美影院
 http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 group-title="电影频道",西游记续集
+http://zzy789.xyz/douyu1.php?id=3113309
+#EXTINF:-1 group-title="电影频道",小鬼华语影院
+http://tc-tct.douyucdn2.cn/dyliveflv1a/3928r9p0BHMDG_2000.xs?wsAuth=3c48b706fe90d736d90b5622adfc09d2&token=web-h5-0-3928-15d95fcfde11a749199abfc5ac7bdee6727c6402febadfb8&logo=0&expire=0&did=24482b48b98804f2b0a5b17400041701
+
+#儿童频道
 #EXTINF:-1 group-title="儿童频道",哈哈炫动
 http://39.134.65.106/PLTV/88888888/224/3221225534/1.m3u8
 #EXTINF:-1 group-title="儿童频道",卡酷少儿
@@ -366,6 +394,8 @@ https://stream1.freetv.fun/5fe3cb2358c4e355059b3dcc97b64685b5fc5e8ee264f54624bd4
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="儿童频道",新动漫
 http://nas.hssvm.com:8888/udp/225.1.1.216:5002
+
+#数字频道
 #EXTINF:-1 group-title="数字频道",CHC影迷电影
 http://www.douzhicloud.site:35455/mgtv/952383261.m3u8
 #EXTINF:-1 group-title="数字频道",CHC动作电影
@@ -435,10 +465,8 @@ http://39.134.65.106/PLTV/88888888/224/3221226027/1.m3u8
 #http://39.134.65.106/PLTV/88888888/224/3221225895/1.m3u8
 #EXTINF:-1 group-title="数字频道",晴彩竞技
 http://39.134.65.106/PLTV/88888888/224/3221225897/1.m3u8
-#EXTINF:-1 group-title="电影频道",西游记续集
-http://zzy789.xyz/douyu1.php?id=3113309
-#EXTINF:-1 group-title="电影频道",小鬼华语影院
-http://tc-tct.douyucdn2.cn/dyliveflv1a/3928r9p0BHMDG_2000.xs?wsAuth=3c48b706fe90d736d90b5622adfc09d2&token=web-h5-0-3928-15d95fcfde11a749199abfc5ac7bdee6727c6402febadfb8&logo=0&expire=0&did=24482b48b98804f2b0a5b17400041701
+
+#地方卫视
 #EXTINF:-1 group-title="地方卫视",东南卫视
 http://39.134.65.106/PLTV/88888888/224/3221225950/1.m3u8
 #http://39.134.65.106/PLTV/88888888/224/3221225500/1.m3u8
