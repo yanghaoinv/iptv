@@ -30,7 +30,9 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="国际频道",新加坡 CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际频道",新加坡 CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8.
+#EXTINF:-1 group-title="国际频道",日本 ANN News
+https://s2.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
 #EXTINF:-1 group-title="国际频道",俄罗斯 RT Documentary（英语纪录）
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际频道",俄罗斯 RT News（英语国际）
@@ -202,7 +204,8 @@ https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218
 #http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 #http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 #EXTINF:-1 group-title="香港澳门",HK 明珠台
-https://stream1.freetv.fun/4db377997e788111dc3a7a47fec67132e36bd8221c27f01f0d14ae82d86bc4ff.ctv
+https://s2.m16tv.cfd/aktv/CH-2/AKTV.m3u8
+#https://stream1.freetv.fun/4db377997e788111dc3a7a47fec67132e36bd8221c27f01f0d14ae82d86bc4ff.ctv
 #EXTINF:-1 group-title="香港澳门",HK TVB J1 翡翠综合台
 http://cdn3.163189.xyz/live/j1/stream.m3u8
 #EXTINF:-1 group-title="香港澳门",HK TVB华丽翡翠台
@@ -224,7 +227,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 group-title="台湾频道",TW 美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="香港澳门",HK TVB 无线新闻
-http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+https://s2.m16tv.cfd/aktv/CH-1/AKTV.m3u8
+#http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 #https://stream1.freetv.fun/ccba0351b8318bedd9168ef7a76e3b2e9a0bee295e05694b0feb45aa0916b97d.ctv
 #http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 group-title="香港澳门",HK 香港卫视
@@ -246,6 +250,8 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 group-title="香港澳门",HK 千禧经典
 http://php.jdshipin.com/smt.php?id=Tvbclassic
 #http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 group-title="香港澳门",HK TVB Plus
+https://s2.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 group-title="香港澳门",HK 亚洲电视
 https://stream1.freetv.fun/29a6a177ae45ff9aed3821d33892a2779fe55e485578ab82f4e3520d43b5efac.ctv
 #EXTINF:-1 group-title="香港澳门",HK 耀才财经
@@ -277,6 +283,8 @@ https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 #EXTINF:-1 group-title="台湾频道",TW 人间卫视 Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 group-title="台湾频道",TW TVBS
+https://s1.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
 #EXTINF:-1 group-title="台湾频道",TW TVBS-Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="台湾频道",TW FTV News
@@ -296,6 +304,10 @@ https://stream1.freetv.fun/ed79f0e0b3239f6d400bab53fb259f7f53b13c4621dfb82f35647
 #EXTINF:-1 group-title="台湾频道",TW 台视新闻
 https://stream1.freetv.fun/952de5f6c6b137213851db573554b0a143a058f3843c42fc3bb31795d46094ec.m3u8
 #https://stream1.freetv.fun/6d45c852234adf9247cfc6eb9b1682de0defb8f84183c6dcf6a39bb24c07af32.m3u8
+#EXTINF:-1 group-title="台湾频道",TW 民視
+https://s1.m16tv.cfd/taiwan/CH-1/AKTV.m3u8
+#EXTINF:-1 group-title="台湾频道",TW 民視第一台
+https://s1.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
 #EXTINF:-1 group-title="台湾频道",TW 民視新聞
 https://stream1.freetv.fun/53ca0a5de7a07569cee0fb25ff84d53241cdef34fb8ebb2d90ba4151881afb36.ctv
 #EXTINF:-1 group-title="台湾频道",TW 华视
@@ -304,6 +316,14 @@ https://stream1.freetv.fun/637ceff2dfb72b24ad6929da061ccf235af38b9469ba999c577b1
 https://stream1.freetv.fun/29adfafbafdff79d9feed6dd7ee053b99f4cef416258aa0829550e14d9eac5f4.m3u8
 #EXTINF:-1 group-title="台湾频道",TW 年代新闻 hd =1
 https://stream1.freetv.fun/d3a2ad1c4c0508f1b3e37d56a959a6ab83d3e60da97e6aaf2b9334442dc1e2f7.m3u8
+#EXTINF:-1 group-title="电影频道",TW 緯來體育台
+https://s2.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
+#EXTINF:-1 group-title="电影频道",TW 東森電影
+https://s2.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
+#EXTINF:-1 group-title="电影频道",美国 HBO
+https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
+#EXTINF:-1 group-title="电影频道",HK 天映电影
+https://s1.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
 #EXTINF:-1 group-title="电影频道",HK 千禧经典
 http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 #http://php.jdshipin.com/smt.php?id=Tvbclassic
@@ -315,7 +335,8 @@ https://stream1.freetv.fun/68b1246ebb6ebb9be45a97042d751c9f214ed4baa3ecd11827101
 #EXTINF:-1 group-title="电影频道",TW 美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="电影频道",HK 美亚电影 [HD]
-https://stream1.freetv.fun/42b1fc4ec1e503820acd3e2c367e0c00b12fcf08340ec5674fa22b0c8260581c.ctv
+https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8
+#https://stream1.freetv.fun/42b1fc4ec1e503820acd3e2c367e0c00b12fcf08340ec5674fa22b0c8260581c.ctv
 #http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 #EXTINF:-1 group-title="电影频道",TW 爱尔达影剧355
 https://stream1.freetv.fun/8b1ef976b314ce76f7a659b187e36fb6feabe376e2b9fd05c682f386092e487c.m3u8
