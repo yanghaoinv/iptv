@@ -404,10 +404,6 @@ https://stream1.freetv.fun/7ca3e0416fbc870dc30f42890b5c85646ae58cf47edb362652222
 https://stream1.freetv.fun/b5145507cf4ca357be01b3196cb35f22b355225e901eed2b3a7483daefccb26d.m3u8
 #EXTINF:-1 group-title="其它",[BD]pet club tv
 https://stream1.freetv.fun/08fd35f18cd1a26fe08be8595efdb627fea3a00f1915d5c68472525eccc3a739.m3u8
-#EXTINF:-1 group-title="综艺",[BD]rock entertainment *wj
-https://stream1.freetv.fun/d5c639beb7796f92c1a29026b14cb86336828d478f535879e48e6da9f602bfe9.ctv
-#EXTINF:-1 group-title="综艺",[BD]rock entertainment *e[geo-blocked]
-https://stream1.freetv.fun/a3e49f66a23132559f4633925b528febfccfd56f5a5fd10e0860bcaa34ee0067.ctv
 #EXTINF:-1 group-title="综合",[HD]folklore tv
 https://stream1.freetv.fun/98c53bd59bc155d0fac8237f383bddf9815371d239302047e61be96841044d7f.m3u8
 #EXTINF:-1 group-title="知识",[SD]smithsonian channel selects
@@ -793,8 +789,6 @@ https://stream1.freetv.fun/28b449d5dea5ed77fd26c1305a87979442a27b746e6ddcd7b6461
 https://stream1.freetv.fun/82b3b5d8a546ef5883bd4b19e425b0b5b8a5133c36aba32abe0230a36d448b50.m3u8
 #EXTINF:-1 group-title="电影",[BD]channel 8
 https://stream1.freetv.fun/810d506d45bac86c654d113bc57e3047f4dfb304db2376c67a47180507bdc7b6.m3u8
-#EXTINF:-1 group-title="Entertainment",[BD]channel u
-https://stream1.freetv.fun/3303ba34b6316e04ed6f52b7e41fcdc200a1a2f84947337d91efae5b0ca2bd7f.m3u8
 #EXTINF:-1 group-title="电影",[HD]hits 电影 *e[geo-blocked]
 https://stream1.freetv.fun/9679f114ba6ac1aa61c957c45e84d49afe4cc0fcec4544a87da5bc55fbc269b0.ctv
 #EXTINF:-1 group-title="电影",[SD]hits 电影 *s[geo-blocked]
@@ -835,15 +829,10 @@ https://stream1.freetv.fun/3ccccd1d1b321b87cc11e57bfd03f41efb7bac96144c16c1acca5
 https://stream1.freetv.fun/ec5abcee4ac751e184362443f03e3cb33b96233b0377350fb5c3e35d1340225e.m3u8
 #EXTINF:-1 group-title="电影",[VGA]thrill *wj
 https://stream1.freetv.fun/291c0041926ab496203584dbaf27bed56dfb64b90012c954ae3ad70a4ab4d749.ctv
-#EXTINF:-1 group-title="Entertainment",[HD]tlc singapore *e[geo-blocked]
-https://stream1.freetv.fun/7d09589da34fd953e065bc4ddb9642b53a39e66a911cdf3a9ed8f9ef40ddea9a.ctv
 #EXTINF:-1 group-title="综合",[BD]vasantham =1
 https://stream1.freetv.fun/4ae3597b06aeee7ccd4617a445ef25335975061a198fc01d5aedbcd9f6420669.m3u8
 #EXTINF:-1 group-title="综合",[BD]vasantham *wj
 https://stream1.freetv.fun/5cf4732b7476fe66cdf18c3212a52e699a4df264ebe805945e752e43a62b0e6b.ctv
-#EXTINF:-1 group-title="其他",[HD]亞洲美食 *wj
-https://stream1.freetv.fun/2bf81af5e20154e39a66e77b99689e9f1a529952d9a95d86c8c0820d29ee2557.ctv
-
 #EXTINF:-1 group-title="电影",[HD]astro aod
 https://stream1.freetv.fun/5116dfb07094845e2ce7e76921800a2bccacf3212b48e6585163f2a45735aa84.ctv
 #EXTINF:-1 group-title="电影",[HD]astro aod *wj
@@ -888,8 +877,6 @@ https://stream1.freetv.fun/93fa4e5bae97194556c9f9842032c05c7971a1a156750a26a311c
 https://stream1.freetv.fun/8331168002eada5e4727cacb2b2d6acde669b6680b43c8991c6b8cce28d18b83.ctv
 #EXTINF:-1 group-title="综合",[HD]astro rania *e[geo-blocked]
 https://stream1.freetv.fun/ccfb2d824055cb9800005827344b7f2bb27b41a1b5fe445c880a5f56e46c0c60.ctv
-#EXTINF:-1 group-title="Entertainment",[HD]astro ria *b[geo-blocked]
-https://stream1.freetv.fun/660295c6576adce4c9e068da2308ad9ac53784ad17f2d53ee47c29b2d1d1a295.ctv
 #EXTINF:-1 group-title="综合",[HD]astro华丽 =1
 https://stream1.freetv.fun/600eacfa3368a8a574499f9ee626917b24fbb2f6402a0ead52f000f309ce5f74.m3u8
 #EXTINF:-1 group-title="综合",[HD]astro華麗 *wj
@@ -998,8 +985,6 @@ https://stream1.freetv.fun/8a108fd146b379caeb0291af6c7e3aac72a773741bc850d793eb8
 https://stream1.freetv.fun/565fec8e769522a08af5d921598062a3083c11dd355380652d0004123c1840f9.m3u8
 #EXTINF:-1 group-title="儿童",[HD]disney xd
 https://stream1.freetv.fun/bda81b9a5a4ad17550cea41800e671722e6bb4e970199d7e1eafafd66c0369f1.m3u8
-#EXTINF:-1 group-title="Entertainment",[HD]jim
-https://stream1.freetv.fun/bd17c561729128a2ce48663bd3e41b986972d001556265a02c477122094a6591.m3u8
 #EXTINF:-1 group-title="新闻",[HD]maah tv
 https://stream1.freetv.fun/0bcb5d9b19383c41b0439fadaacd7dd0fd3d239202bfc544f1e7e2b57ef7f748.m3u8
 #EXTINF:-1 group-title="其他",[BD]marina tv
