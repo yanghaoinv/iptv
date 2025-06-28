@@ -11,7 +11,7 @@ http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV4
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV5
 http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV5
 #EXTINF:-1 tvg-name="CCTV5p" tvg-logo="https://live.fanmingming.cn/tv/CCTV5p.png" group-title="央视频道",CCTV5+
-http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV5+
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV5p
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV6
 http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV6
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV7
@@ -29,7 +29,7 @@ http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV12
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视频道",CCTV13
 http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV13
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV14
-http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV14
+http://api.mytv666.top/api/qwt.php?t=少儿频道&id=CCTV少儿
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道",CCTV15
 http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV15
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV16
