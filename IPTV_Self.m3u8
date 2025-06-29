@@ -46,20 +46,27 @@ https://jmp2.uk/sam-GBBB1500004LG.m3u8
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="国际频道",美国 PBS MPT Baltimore MD (WMPB) (1080p)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+
 #EXTINF:-1 group-title="国际频道",美国 Yahoo! Finance (1080p)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+
 #EXTINF:-1 group-title="国际频道",南非 Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+
 #EXTINF:-1 group-title="国际频道",印度 WionNews
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+
 #EXTINF:-1 group-title="国际频道",新加坡 CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际频道",新加坡 CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
 #EXTINF:-1 group-title="国际频道",日本 ANN News
 https://s2.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
+
 #EXTINF:-1 group-title="国际频道",俄罗斯 RT Documentary（英语纪录）
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+
 #EXTINF:-1 group-title="国际频道",俄罗斯 RT News（英语国际）
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际频道",法国 Trace Sports
