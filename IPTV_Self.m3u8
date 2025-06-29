@@ -413,14 +413,17 @@ http://39.134.65.106/PLTV/88888888/224/3221225957/1.m3u8
 #香港澳门
 #EXTINF:-1 group-title="香港澳门",HK 天映电影
 https://s1.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
+
 #EXTINF:-1 group-title="香港澳门",HK 千禧经典
 http://php.jdshipin.com/smt.php?id=Tvbclassic
 #EXTINF:-1 group-title="香港澳门",HK 千禧经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 group-title="香港澳门",HK 千禧经典
 http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
+
 #EXTINF:-1 group-title="香港澳门",HK 亚洲电视
 https://stream1.freetv.fun/29a6a177ae45ff9aed3821d33892a2779fe55e485578ab82f4e3520d43b5efac.ctv
+
 #EXTINF:-1 group-title="香港澳门",HK 经典电影
 https://stream1.freetv.fun/68b1246ebb6ebb9be45a97042d751c9f214ed4baa3ecd11827101243551b5fdc.ctv
 
@@ -439,43 +442,42 @@ https://s2.m16tv.cfd/aktv/CH-2/AKTV.m3u8
 #https://stream1.freetv.fun/4db377997e788111dc3a7a47fec67132e36bd8221c27f01f0d14ae82d86bc4ff.ctv
 #https://stream1.freetv.fun/b49f11a7e68a76202daba76fb5c90eb8ef1c34d977c5e9eac0825112f74f87d3.ctv
 
-#EXTINF:-1 group-title="香港澳门",翡翠
-https://stream1.freetv.fun/ec738c8f8b5d5706670eb42e4fe79edc5d6f471ba93d0eb20dff4c372efef4db.ctv
-#EXTINF:-1 group-title="香港澳门",HK TVB翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 #EXTINF:-1 group-title="香港澳门",HK TVB翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-#EXTINF:-1 group-title="香港澳门",HK TVB翡翠台
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 group-title="香港澳门",HK TVB翡翠台
-http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-#EXTINF:-1 group-title="香港澳门",HK TVB翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-#EXTINF:-1 group-title="香港澳门",HK TVB翡翠台
+#http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#https://stream1.freetv.fun/ec738c8f8b5d5706670eb42e4fe79edc5d6f471ba93d0eb20dff4c372efef4db.ctv
+#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
+
+#EXTINF:-1 group-title="香港澳门",HK TVB翡翠台（美食新闻）
 https://stream1.freetv.fun/2d6d5de01dfd6fdcaaf4fe4b5ab0188eb1849a91fee22cc73276e6737ce055a8.m3u8
+
 #EXTINF:-1 group-title="香港澳门",HK TVB J1 翡翠综合台
 http://cdn3.163189.xyz/live/j1/stream.m3u8
+
 #EXTINF:-1 group-title="香港澳门",HK TVB华丽翡翠台
 http://php.jdshipin.com/smt.php?id=Tvbjade
-#EXTINF:-1 group-title="香港澳门",HK TVB华丽翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-#EXTINF:-1 group-title="香港澳门",HK TVB华丽翡翠台
+#http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+
+#EXTINF:-1 group-title="香港澳门",HK TVB华丽翡翠台（儿童）
 http://php.jdshipin.com:8880/iptv.php?id=mzt
+
 #EXTINF:-1 group-title="香港澳门",HK TVB星河
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-#EXTINF:-1 group-title="香港澳门",HK TVB星河
-http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
+#http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 
 #EXTINF:-1 group-title="香港澳门",HK TVB娱乐新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 group-title="香港澳门",HK TVB 无线新闻
-https://s2.m16tv.cfd/aktv/CH-1/AKTV.m3u8
-#EXTINF:-1 group-title="香港澳门",HK TVB 无线新闻
-http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-#EXTINF:-1 group-title="香港澳门",HK TVB 无线新闻
-http://php.jdshipin.com:8880/smt.php?id=inews_twn
+
 #EXTINF:-1 group-title="香港澳门",HK TVB 无线新闻
 https://stream1.freetv.fun/ccba0351b8318bedd9168ef7a76e3b2e9a0bee295e05694b0feb45aa0916b97d.ctv
+
+#EXTINF:-1 group-title="香港澳门",HK TVB 无线新闻
+https://s2.m16tv.cfd/aktv/CH-1/AKTV.m3u8
+#http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+#EXTINF:-1 group-title="香港澳门",HK TVB 无线新闻
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
 #EXTINF:-1 group-title="香港澳门",HK 香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -562,16 +564,19 @@ http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct
 https://stream1.freetv.fun/8b1ef976b314ce76f7a659b187e36fb6feabe376e2b9fd05c682f386092e487c.m3u8
 
 
-#EXTINF:-1 group-title="香港澳门",TW 台視新聞
+#EXTINF:-1 group-title="台湾频道",TW 台視新聞
 https://stream1.freetv.fun/d96ca80f2e6d7eb1a1737aaf17284caded271210e4432dfb4378a9ab6d8ef7b2.m3u8
 #EXTINF:-1 group-title="台湾频道",TW 台視新聞
 https://stream1.freetv.fun/ffa3a8fc52b4834c300b3587a667310b5eb8a46d000498709791be4bd1799514.m3u8
 #EXTINF:-1 group-title="台湾频道",TW 台视新聞
 https://stream1.freetv.fun/9e87c84976d8ad7ce1dac1ba154da29c85371dffd4a6c00a3dfde2bf1fed5735.m3u8
+
 #EXTINF:-1 group-title="台湾频道",TW Channel 8 HD
 https://s1.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
+
 #EXTINF:-1 group-title="台湾频道",TW Channel U HD
 https://s1.m16tv.cfd/aktv/channeluhd/AKTV.m3u8
+
 #EXTINF:-1 group-title="台湾频道",TW 龙华电影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 group-title="台湾频道",TW 龙华经典
@@ -586,7 +591,7 @@ https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 #EXTINF:-1 group-title="台湾频道",TW 龙华洋片
 https://cdn8.163189.xyz/live/lhyp/stream.m3u8
-#EXTINF:-1 group-title="台湾频道",TW 人间卫视 Beautiful Life TV
+#EXTINF:-1 group-title="台湾频道",TW 人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 group-title="台湾频道",TW TVBS
 https://s1.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
