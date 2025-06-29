@@ -415,9 +415,9 @@ http://39.134.65.106/PLTV/88888888/224/3221225957/1.m3u8
 https://s1.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
 
 #EXTINF:-1 group-title="香港澳门",HK 千禧经典
-http://php.jdshipin.com/smt.php?id=Tvbclassic
+http://php.jdshipin.com/smt.php?id=TvbClassic
 #http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-#http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
+#http://cdn9.163189.xyz/smt3.1.1.php?id=TvbClassic
 
 #EXTINF:-1 group-title="香港澳门",HK 亚洲电视
 https://stream1.freetv.fun/29a6a177ae45ff9aed3821d33892a2779fe55e485578ab82f4e3520d43b5efac.ctv
@@ -474,6 +474,7 @@ https://stream1.freetv.fun/ccba0351b8318bedd9168ef7a76e3b2e9a0bee295e05694b0feb4
 #EXTINF:-1 group-title="香港澳门",HK TVB 无线新闻
 https://s2.m16tv.cfd/aktv/CH-1/AKTV.m3u8
 #http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+
 #EXTINF:-1 group-title="香港澳门",HK TVB 无线新闻
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
@@ -496,10 +497,10 @@ https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
 
 #EXTINF:-1 group-title="香港澳门",HK 凤凰中文
 https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
-http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-https://stream1.freetv.fun/a3cfcb6f4429baaa2f182afaf1ab55003d71ca680ca0afd61968d36b33f26f03.m3u8
-https://stream1.freetv.fun/a46f52861e9ace633f2259316777ba8dbeeaffc6dc31608c64a6b0896cb10839.m3u8
-https://stream1.freetv.fun/653363b4a3d6b0c5850c53b115d02d5e5e57d7d4c2954ef7c4163640e2cdd991.m3u8
+#http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+#https://stream1.freetv.fun/a3cfcb6f4429baaa2f182afaf1ab55003d71ca680ca0afd61968d36b33f26f03.m3u8
+#https://stream1.freetv.fun/a46f52861e9ace633f2259316777ba8dbeeaffc6dc31608c64a6b0896cb10839.m3u8
+#https://stream1.freetv.fun/653363b4a3d6b0c5850c53b115d02d5e5e57d7d4c2954ef7c4163640e2cdd991.m3u8
 
 #EXTINF:-1 group-title="香港澳门",HK 凤凰资讯
 https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
@@ -767,7 +768,7 @@ http://zzy789.xyz/douyu1.php?id=3113309
 #EXTINF:-1 group-title="电影",小鬼华语影院
 http://tc-tct.douyucdn2.cn/dyliveflv1a/3928r9p0BHMDG_2000.xs?wsAuth=3c48b706fe90d736d90b5622adfc09d2&token=web-h5-0-3928-15d95fcfde11a749199abfc5ac7bdee6727c6402febadfb8&logo=0&expire=0&did=24482b48b98804f2b0a5b17400041701
 
-#EXTINF:-1 group-title="电影",AXN
+#EXTINF:-1 group-title="电影",AXN Sports
 https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
 
 #EXTINF:-1 group-title="电影",美国 HBO
@@ -776,89 +777,78 @@ https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
 #EXTINF:-1 group-title="电影",印度 宝莱坞Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
-#EXTINF:-1 group-title="电影",[SD]movie movie==
+#EXTINF:-1 group-title="电影",[SD]Movie 001
 https://stream1.freetv.fun/822472620e1a8c15f76d97d7c7a5f0a28e5cc7a8377e3b64e124c519a31837d2.ctv
 
-#EXTINF:-1 group-title="电影",[HD]celestial movies *wj
-https://stream1.freetv.fun/614de5afc73063bbb39d849a4f2b4e268cc8ae751338ac7cef130f05d6e26916.ctv
-#EXTINF:-1 group-title="电影",[SD]celestial movies *wj
-https://stream1.freetv.fun/d2a1a678a5f62ade33b768105ee11fcc654f443e99d5d0b5f00b171aec9884c8.ctv
-#EXTINF:-1 group-title="电影",[HD]celestial movies *b
-https://stream1.freetv.fun/ad0b450dab10da42c7d69ed5efc4a5f8203c3de2b533735201a4866bd867f469.ctv
-#EXTINF:-1 group-title="电影",[HD]celestial movies *b
-https://stream1.freetv.fun/269c004653180fa75ab6ba439e8b13cdaa981caf14157565bc46f3af4ba78257.ctv
-#EXTINF:-1 group-title="电影",[HD]celestial movies *e
+#EXTINF:-1 group-title="电影",[HD]天映频道 Celestial Movies e
 https://stream1.freetv.fun/9a99817c35097078d86913b4fdd8fae692c9b517b429f1dd6e1c16ff7cf9af60.ctv
-#EXTINF:-1 group-title="电影",[SD]celestial movies =1
+
+#EXTINF:-1 group-title="电影",[SD]Celestial Movies =1
 https://stream1.freetv.fun/226b412bfdeef100d39a3a86bfebe3dd88a6c1f9dc12d5df3d5cbc24c2c5e6dd.m3u8
-#EXTINF:-1 group-title="电影",channel 8
+
+#EXTINF:-1 group-title="电影",Channel 8
 https://stream1.freetv.fun/82b3b5d8a546ef5883bd4b19e425b0b5b8a5133c36aba32abe0230a36d448b50.m3u8
-#EXTINF:-1 group-title="电影",channel 8
+#EXTINF:-1 group-title="电影",Channel 8
 https://stream1.freetv.fun/810d506d45bac86c654d113bc57e3047f4dfb304db2376c67a47180507bdc7b6.m3u8
-#EXTINF:-1 group-title="电影",cinemax action *e
-https://stream1.freetv.fun/c6b01fa0ce328fe2bcabfc8451f2b2df36b2d2524e243c0ca1663fb748ece1db.ctv
-#EXTINF:-1 group-title="电影",cinemax moviemax east *s
+
+#EXTINF:-1 group-title="电影",Cinemax moviemax east *s
 https://stream1.freetv.fun/9688d1b574cdd431a871ad3a2b6fce97073a816f01b2bac131ac15279907d291.m3u8
-#EXTINF:-1 group-title="电影",[HD]cinemax moviemax east *e
+
+#EXTINF:-1 group-title="电影",[HD]Cinemax moviemax east *e
 https://stream1.freetv.fun/584560d046586ef25b3db8c66cccb43cb8e31119e1c018a96817e4178c915d87.ctv
-#EXTINF:-1 group-title="电影",[HD]cinemax thrillermax *e
+
+#EXTINF:-1 group-title="电影",[HD]Cinemax Thriller max
 https://stream1.freetv.fun/c2966b4706b40a9e23ab21976e69f508efdb808997e9cd122c27fca759dc7c83.ctv
-#EXTINF:-1 group-title="电影",cinemax thrillermax==
-https://stream1.freetv.fun/ba16f740bc5a0476921217cfb346d866f1b15dfb919ed250d14e2772815cdc48.ctv
-#EXTINF:-1 group-title="电影",cinemax thrillermax=
-https://stream1.freetv.fun/16ab51f0f6d7f230e6fbcd60dc58d3577a0f7468f38f274478c56d28b74fe13e.ctv
-#EXTINF:-1 group-title="电影",cinemax(usa) *s
+#https://stream1.freetv.fun/ba16f740bc5a0476921217cfb346d866f1b15dfb919ed250d14e2772815cdc48.ctv
+#https://stream1.freetv.fun/16ab51f0f6d7f230e6fbcd60dc58d3577a0f7468f38f274478c56d28b74fe13e.ctv
+
+#EXTINF:-1 group-title="电影",Cinemax(usa) *s
 https://stream1.freetv.fun/0f7bf5ba2074a022665ffa9df666733d0c98a2c7fd251a0bb0c6ca485ce85117.m3u8
-#EXTINF:-1 group-title="电影",cinemax(usa) =1
+
+#EXTINF:-1 group-title="电影",Cinemax(usa) =1
 https://stream1.freetv.fun/84ae6f9dbcfb22fd637834c48615a90590fe593024ccbcecdba15285c8d237ba.m3u8
-#EXTINF:-1 group-title="电影",cinemax *wj
-https://stream1.freetv.fun/e7ae3b470b678c09dff367bf30b8d8931a66f9c74e949eba78a9d970beaa8128.ctv
-#EXTINF:-1 group-title="电影",[HD]cinemax *wj
-https://stream1.freetv.fun/1f8f7054407943b0026196c7de092eb30e5ed5fd0482c8a6586db52d53c89597.ctv
-#EXTINF:-1 group-title="电影",[HD]cinemax *b
-https://stream1.freetv.fun/1f29731fd1fec9699db38360042aa3cab4601a08dd15a7c421f1103bbb183a29.ctv
-#EXTINF:-1 group-title="电影",[VGA]cinemax *b
-https://stream1.freetv.fun/0b4c80483b2a6f558ad600e4e7d2ef1430df13e1df7cd43ca1997729f272959c.ctv
-#EXTINF:-1 group-title="电影",[HD]cinemax *b
-https://stream1.freetv.fun/ebb57107f076b9b37f95f5fc48cfe4891e50802adba1b9de203c4d5e08a76a02.ctv
-#EXTINF:-1 group-title="电影",[HD]cinemax(usa) *e
+
+#EXTINF:-1 group-title="电影",[HD]Cinemax(usa) *e
 https://stream1.freetv.fun/9d76342b634fcfee5ef6f69f7f4b6efd82aae4870208286fde2390859829e14c.ctv
-#EXTINF:-1 group-title="电影",[HD]cinemax *e
+
+#EXTINF:-1 group-title="电影",[HD]Cinemax *e
 https://stream1.freetv.fun/3ba7fe7fe5776f9722a67a3134a2465aa351e19b3a4e48b240f6ef3325bfdaaf.ctv
-#EXTINF:-1 group-title="电影",cinemax(usa)=
+#EXTINF:-1 group-title="电影",Cinemax(usa)=
 https://stream1.freetv.fun/dd7f451f701ce63aa905e91bd8f3938a8febece9e8fb36b3f615beeecdbfd312.ctv
-#EXTINF:-1 group-title="电影",cinemax(usa)==
-https://stream1.freetv.fun/0f52ca9d5d26a11f649d48ee20fce7234460a7016dc4972f1cd748c8679c9e46.ctv
-#EXTINF:-1 group-title="电影",cinemax
+#https://stream1.freetv.fun/0f52ca9d5d26a11f649d48ee20fce7234460a7016dc4972f1cd748c8679c9e46.ctv
+
+#EXTINF:-1 group-title="电影",Cinemax
 https://stream1.freetv.fun/c944096a4f8db852073f1772f425dd13306be63198cfbf26c5e3e7c7ca8f5cc9.ctv
-#EXTINF:-1 group-title="电影",[SD]cinemax
+#EXTINF:-1 group-title="电影",[SD]Cinemax
 https://stream1.freetv.fun/2522bc434f72688e402ec958f524a78291b7f29b043df92a19ba77f1a711f882.m3u8
-#EXTINF:-1 group-title="电影",classic movies=
+
+#EXTINF:-1 group-title="电影",Classic Movies=
 https://stream1.freetv.fun/1ca84f4af4ca00b6bf54b6db1d9f8e1a3b8e3abcf79671ce46d11fb39e67744e.ctv
-#EXTINF:-1 group-title="电影",classic movies==
-https://stream1.freetv.fun/9ad3916e6191ea6484118fce325200d0ecef6251f28b0021f361b822f242c44a.ctv
-#EXTINF:-1 group-title="电影",[SD]pluto tv classic movies
+#https://stream1.freetv.fun/9ad3916e6191ea6484118fce325200d0ecef6251f28b0021f361b822f242c44a.ctv
+
+#EXTINF:-1 group-title="电影",[SD]pluto tv Classic Movies
 https://stream1.freetv.fun/a4ffd305a0f2e9afe30f674a2c375c2b899fa18a0aaf74ccb3ca1a7513a74e68.m3u8
-#EXTINF:-1 group-title="电影",[SD]classic movies channel
+#EXTINF:-1 group-title="电影",[SD]Classic Movies Channel
 https://stream1.freetv.fun/1ab557587c77c291c99570d2e0d61f48ada1396de6f7505ac64c9c3366c4e805.m3u8
-#EXTINF:-1 group-title="电影",[SD]classic movies
-https://stream1.freetv.fun/35a1ecc06240321eca915d01d7750a5605d2002a92d3cca483592a1a0e8c45d0.m3u8
-#EXTINF:-1 group-title="电影",[SD]celestial classic movies *e
+#https://stream1.freetv.fun/35a1ecc06240321eca915d01d7750a5605d2002a92d3cca483592a1a0e8c45d0.m3u8
+
+#EXTINF:-1 group-title="电影",[SD]Celestial Classic Movies *e
 https://stream1.freetv.fun/46548b192d8d62dfbff211d0b3d3a179c90b7fb6afe8a90e124a94d7d4346d58.ctv
-#EXTINF:-1 group-title="电影",[SD]pluto tv comedy movies
+#EXTINF:-1 group-title="电影",[SD]pluto tv comedy Movies
 https://stream1.freetv.fun/66b5ede067b9fa6020e515a7756040185135d147acfb17de09f2dc8b710db0a1.m3u8
-#EXTINF:-1 group-title="电影",osn movies comedy *e
+#EXTINF:-1 group-title="电影",osn Movies comedy *e
 https://stream1.freetv.fun/4eb1d9f581d9515a8c0641184562f8b9683bf4e9b8ae344fe3417d5707ecc0a0.ctv
-#EXTINF:-1 group-title="电影",court tv
-https://stream1.freetv.fun/2104ae6466368098e9428e0e581681041a00b0f7d44a95ff3adec0cb14bc63b8.m3u8
-#EXTINF:-1 group-title="电影",[HD]court tv
+
+#EXTINF:-1 group-title="电影",[HD]court TV
 https://stream1.freetv.fun/f877abfa515ab25c05ddfe64fc6cd50d28c364724d0cda0afec8e3e8513a344c.m3u8
+
 #EXTINF:-1 group-title="电影",[SD].sci-fi
 https://stream1.freetv.fun/d1660c97a8defa33daf9d762e624af813cc4bcf99b29d64b2e95956171fa5277.m3u8
+
 #EXTINF:-1 group-title="电影",dizimax sci-fi trk=
 https://stream1.freetv.fun/27607537181a50866c610dd65cba168c47108c8bbf08aba083a267a8b114691a.ctv
-#EXTINF:-1 group-title="电影",dizimax sci-fi trk==
-https://stream1.freetv.fun/7927b2fc0ebd1c2b3c83bd06c70a2574d2ef853f5aa8bd0f08b782f8959da1e0.ctv
+#https://stream1.freetv.fun/7927b2fc0ebd1c2b3c83bd06c70a2574d2ef853f5aa8bd0f08b782f8959da1e0.ctv
+
 #EXTINF:-1 group-title="电影",[HD]eye tv戏剧 =1
 https://stream1.freetv.fun/c8e57b78d7336ce8dd5f47b1ba0b42d04ba930272482cbf4735fbe1dc2310d90.m3u8
 #EXTINF:-1 group-title="电影",[VGA]fx
@@ -873,7 +863,7 @@ https://stream1.freetv.fun/c4f5beae0b10f3f2af542b28adef9ddac055ea694013fcfbca51a
 https://stream1.freetv.fun/d7414190efa14aabe9860b77dc53e16090ead07c83fdefdea7037f13c84b8ba1.m3u8
 #EXTINF:-1 group-title="电影",[HD]fx==
 https://stream1.freetv.fun/b479180fb5caa4cb67af63214dc4a789493fcfb6c8b1e1723abdcad3dfad4bda.ctv
-#EXTINF:-1 group-title="电影",[SD]axn asia
+#EXTINF:-1 group-title="电影",[SD]AXN asia
 https://stream1.freetv.fun/a3beb85abae4f3a6a1d1662c4f1f6c3cdd33d75c125a075aa0ec195e8c180ed6.m3u8
 #EXTINF:-1 group-title="电影",[HD]fxm
 https://stream1.freetv.fun/417942fdec7af69490903b3628ea29cdd0c8f83bdba21a615198d41f5f130e0f.m3u8
@@ -881,135 +871,122 @@ https://stream1.freetv.fun/417942fdec7af69490903b3628ea29cdd0c8f83bdba21a615198d
 https://stream1.freetv.fun/b3c6952fece603207e88f574a3aaf1c8375fac475fdd16cb49a16b3db48d9565.ctv
 #EXTINF:-1 group-title="电影",[HD]fxm==
 https://stream1.freetv.fun/8c09f5418b046495793605e2d7e54d9cdaa861d9a55233bba3a2104ba0225ac1.ctv
-#EXTINF:-1 group-title="电影",[HD]fxm=
-https://stream1.freetv.fun/cd94d1c2909e8c54f9a54250bced62abda50ebf1d96fde19634c767d3de9188a.ctv
+#https://stream1.freetv.fun/cd94d1c2909e8c54f9a54250bced62abda50ebf1d96fde19634c767d3de9188a.ctv
+
 #EXTINF:-1 group-title="电影",film 1 premiere netherlands=
 https://stream1.freetv.fun/d07ea4257ab1d93962a3b1a3e95a07ca3ac6d9835415ae1203a63b0448991dc7.ctv
-#EXTINF:-1 group-title="电影",film 1 premiere netherlands==
-https://stream1.freetv.fun/b7827e30867a7c13580ce7e55520cb08eccc9a7538509c64ddbc03e55b4f9ba8.ctv
-#EXTINF:-1 group-title="电影",film4 uk=
+#https://stream1.freetv.fun/b7827e30867a7c13580ce7e55520cb08eccc9a7538509c64ddbc03e55b4f9ba8.ctv
+
+#EXTINF:-1 group-title="电影",Film4 UK
 https://stream1.freetv.fun/539c5446337ed88b265b2a85ca391febef9ff68fdc20130508db39a9be02ec5d.ctv
-#EXTINF:-1 group-title="电影",film4 uk==
-https://stream1.freetv.fun/2e55600c7e52ac43ab3b7e179a808aa535eb8f627f1da0a44a7d45bffbe4b541.ctv
-#EXTINF:-1 group-title="电影",film4 uk===
-https://stream1.freetv.fun/ee26b64031ce863b35afcdeb8d346f23e49ec789b05a1ff8dd84a625623ecc1a.ctv
+#https://stream1.freetv.fun/2e55600c7e52ac43ab3b7e179a808aa535eb8f627f1da0a44a7d45bffbe4b541.ctv
+#https://stream1.freetv.fun/ee26b64031ce863b35afcdeb8d346f23e49ec789b05a1ff8dd84a625623ecc1a.ctv
+
 #EXTINF:-1 group-title="电影",[HD]filmzie
 https://stream1.freetv.fun/859551a66a351aa2700c0f78203ae48a9d70afc65a64d4a0abd17c3a516a4d68.m3u8
-#EXTINF:-1 group-title="电影",galaxy *e
-https://stream1.freetv.fun/d49a52b98ffbf4e95b0a5d3e6c07e8cce9b8bf5a657596a80ee049fb7799b45c.ctv
-#EXTINF:-1 group-title="电影",great! movies
+
+#EXTINF:-1 group-title="电影",Great! Movies
 https://stream1.freetv.fun/647f5df012e0874827751b8bd1d0ea03e9254ac2e73762d35388b5ee64312d9c.m3u8
-#EXTINF:-1 group-title="电影",[SD]hbo
-https://stream1.freetv.fun/7e154d3ba0994a6d902f0a03ae0ac260fd826712e7b1b5077b3d086c8fc7cb8e.ctv
-#EXTINF:-1 group-title="电影",[SD]hbo
-https://stream1.freetv.fun/419f7c8de2912e89d3b53b7f943c0c82a076fdf6846327e4911e8af9b5fd1d18.ctv
-#EXTINF:-1 group-title="电影",[VGA]hbo 2
-https://stream1.freetv.fun/fe78f3f5d27b1d79b6078eb7a74314b523b84057046babe4ad5808ef8364c072.ctv
-#EXTINF:-1 group-title="电影",comedy shows
+
+#EXTINF:-1 group-title="电影",Comedy Shows
 https://stream1.freetv.fun/73b7a5bb1acb8c5cdc73b46a389d1d621f8800001b7490d017adfac71a615b91.m3u8
-#EXTINF:-1 group-title="电影",[SD]hbo comedy=
+#EXTINF:-1 group-title="电影",[SD]HBO Comedy
 https://stream1.freetv.fun/e77cdd73c9ce324ed8c2ee2cbc6e73249bcaf2ace61b8b02df1ba8ef4b01a5f6.ctv
-#EXTINF:-1 group-title="电影",[SD]hbo comedy===
-https://stream1.freetv.fun/690186d989ad3aa39dc21479b49053fb9c6b0bcba2aef0ae0a9d8d3d4bd97ea3.ctv
-#EXTINF:-1 group-title="电影",[SD]hbo comedy==
-https://stream1.freetv.fun/fb514a39d6b2b6b8262c6d4dc487ad7421752b7580d32562d42a40f9588d98f6.ctv
-#EXTINF:-1 group-title="电影",hbo east *e
-https://stream1.freetv.fun/fb4f2afa6a1ac274a3d82d6d20edf0f938f9b6aa8c1602204dff413cf8bdebd6.ctv
-#EXTINF:-1 group-title="电影",hbo east=
+#https://stream1.freetv.fun/690186d989ad3aa39dc21479b49053fb9c6b0bcba2aef0ae0a9d8d3d4bd97ea3.ctv
+#https://stream1.freetv.fun/fb514a39d6b2b6b8262c6d4dc487ad7421752b7580d32562d42a40f9588d98f6.ctv
+#https://stream1.freetv.fun/fb4f2afa6a1ac274a3d82d6d20edf0f938f9b6aa8c1602204dff413cf8bdebd6.ctv
+
+#EXTINF:-1 group-title="电影",HBO East=
 https://stream1.freetv.fun/55e40cfb059e9f75909ffdb51aa3a67c8196fe633453312e5e82cd544cbd307a.ctv
-#EXTINF:-1 group-title="电影",hbo east==
-https://stream1.freetv.fun/27644797c969ce8e7461859f1b532a32549df1c1e480b63f10bc769e7c44da43.ctv
-#EXTINF:-1 group-title="电影",hbo family(usa)=
+#https://stream1.freetv.fun/27644797c969ce8e7461859f1b532a32549df1c1e480b63f10bc769e7c44da43.ctv
+
+#EXTINF:-1 group-title="电影",HBO Family(usa)=
 https://stream1.freetv.fun/c75dcb6848446c48a214002cedfeee6a6ec88c7ad78d88a982a551c53bcf1527.ctv
-#EXTINF:-1 group-title="电影",hbo family *wj
-https://stream1.freetv.fun/f0969e884573127067408a189ec7f69123339fd04bff2bc2f43829a2dcfc21e5.ctv
-#EXTINF:-1 group-title="电影",[HD]hbo family *wj
-https://stream1.freetv.fun/856b1234a81246a2a961ce0afb932c9fc32ebdd094157965043fbcb6ad937dce.ctv
-#EXTINF:-1 group-title="电影",[HD]hbo family *b
-https://stream1.freetv.fun/621779d9d822b0eab925f5422e8dcf0c7de94430761fd029852a94d403518e53.ctv
-#EXTINF:-1 group-title="电影",[VGA]hbo family *b
-https://stream1.freetv.fun/aa14bbb5a5c264348168ab99ed7bc246db6f64ef1a4ab15c1bfb8e4a444cd3cc.ctv
-#EXTINF:-1 group-title="电影",hbo family(usa) *e
+
+#EXTINF:-1 group-title="电影",HBO Family(usa) *e
 https://stream1.freetv.fun/c8cbad26c7f26bf07f465ca6036be526410ab13d1f4a85e483596c2f0b8d02ad.ctv
-#EXTINF:-1 group-title="电影",[HD]hbo family(sg) *e
+
+#EXTINF:-1 group-title="电影",[HD]HBO Family(sg) *e
 https://stream1.freetv.fun/cf61107fa2e489430d45a66eeb6c0b1b42252942b2b94e50842a11abd73c7a2d.ctv
-#EXTINF:-1 group-title="电影",[SD]hbo family
+
+#EXTINF:-1 group-title="电影",[SD]HBO Family
 https://stream1.freetv.fun/4d82dff8d8c26ffd0c8f26021172b79e874f4507d5961741c3fda54f889445b9.m3u8
-#EXTINF:-1 group-title="电影",hbo family(usa)==
+
+#EXTINF:-1 group-title="电影",HBO Family(usa)==
 https://stream1.freetv.fun/207005511f3bd7c7467147bf4fa0dc5306d637ad4c36dac81b2f62c91682542e.ctv
-#EXTINF:-1 group-title="电影",[HD]hbo famliy
+#EXTINF:-1 group-title="电影",[HD]HBO Famliy
 https://stream1.freetv.fun/104efb34664427832e9ec017c706b0709037742a404a968d6b6f8dd5b04179b6.m3u8
-#EXTINF:-1 group-title="电影",[HD]hbo hits
+#EXTINF:-1 group-title="电影",[HD]HBO Hits
 https://stream1.freetv.fun/a949bab19a504c3d0bf89009533afbaa4f8ef90377669e21d052e02a1c1e6d0a.m3u8
-#EXTINF:-1 group-title="电影",hbo hits *wj
-https://stream1.freetv.fun/6db0e2e0e5c4e3c66968652a8561850a537a519243f790f0062eed346f790c38.ctv
-#EXTINF:-1 group-title="电影",[SD]hbo signature(usa)===
+
+#EXTINF:-1 group-title="电影",[SD]HBO Signature(usa)
 https://stream1.freetv.fun/f47b1ea2710ccf0777ef1385fff2d4872f078e52de220dea98a903084d4357e0.ctv
-#EXTINF:-1 group-title="电影",[SD]hbo signature(usa)==
-https://stream1.freetv.fun/cdc3d62e7a74a1100dc1aa2873c4bf54993fc0f1c7138839a7604a8ad80edb8c.ctv
-#EXTINF:-1 group-title="电影",hbo signature *e
+#https://stream1.freetv.fun/cdc3d62e7a74a1100dc1aa2873c4bf54993fc0f1c7138839a7604a8ad80edb8c.ctv
+#https://stream1.freetv.fun/c7684b00514701f512177dff4b1c245672b3385b0a4c7f63fcec2968708fda51.ctv
+
+#EXTINF:-1 group-title="电影",HBO Signature
 https://stream1.freetv.fun/23bc1498d99ca376e2f3f23e12517e9d1fd7de1ba6578efc32e87609a837b50a.ctv
-#EXTINF:-1 group-title="电影",[SD]hbo signature(usa)=
-https://stream1.freetv.fun/c7684b00514701f512177dff4b1c245672b3385b0a4c7f63fcec2968708fda51.ctv
-#EXTINF:-1 group-title="电影",hbo signature
-https://stream1.freetv.fun/92159ef7a39b14d915d8f9b3d9a9410be48b2ab013280ae8b4f581cf6abf6471.m3u8
-#EXTINF:-1 group-title="电影",hbo west *e
+#https://stream1.freetv.fun/92159ef7a39b14d915d8f9b3d9a9410be48b2ab013280ae8b4f581cf6abf6471.m3u8
+
+#EXTINF:-1 group-title="电影",HBO West
 https://stream1.freetv.fun/97c4750de67c9afeaf1251fa23a16de8271231fbff59a6936dc311d2d03a6219.ctv
-#EXTINF:-1 group-title="电影",[HD]hbo zone *e
+
+#EXTINF:-1 group-title="电影",[HD]HBO Zone
 https://stream1.freetv.fun/d59f276e02a0376ee24ca407adb4b9e2734f614266189d70de58da5dccefa494.ctv
-#EXTINF:-1 group-title="电影",hbo zone
-https://stream1.freetv.fun/845345c0283e5974160f797550723855245dba003abecdd406f19562165f9308.m3u8
-#EXTINF:-1 group-title="电影",[SD]hbo zone=
-https://stream1.freetv.fun/c02094496bb61d4f3284fc231e6dbef540a543a65fbe6e6ebb3a6b5d7e1369a2.ctv
-#EXTINF:-1 group-title="电影",[SD]hbo zone==
-https://stream1.freetv.fun/152962c0f3b9057ba741c8927679b176267a4c32425d98b68efcad00800c275e.ctv
-#EXTINF:-1 group-title="电影",hbo
-https://stream1.freetv.fun/2b33669806966fba2753197a3760b6796e882b878b4fc5186ba607dc31e62ae7.m3u8
-#EXTINF:-1 group-title="电影",[SD]hbo-
+#https://stream1.freetv.fun/845345c0283e5974160f797550723855245dba003abecdd406f19562165f9308.m3u8
+#https://stream1.freetv.fun/c02094496bb61d4f3284fc231e6dbef540a543a65fbe6e6ebb3a6b5d7e1369a2.ctv
+#https://stream1.freetv.fun/152962c0f3b9057ba741c8927679b176267a4c32425d98b68efcad00800c275e.ctv
+
+#EXTINF:-1 group-title="电影",[SD]HBO
 https://stream1.freetv.fun/55c203bfeec192644919194ed6ad475bfb74024570654f512d87b2ccd5075838.ctv
-#EXTINF:-1 group-title="电影",[SD]hbo(tw)===
+
+#EXTINF:-1 group-title="电影",[SD]HBO(TW)
 https://stream1.freetv.fun/58f13f6cbd939341681adbd51000e173ee0d37c732e4af89b16a7c35b478c9d2.ctv
-#EXTINF:-1 group-title="电影",[SD]hbo(tw)==
-https://stream1.freetv.fun/fe6f627c19f38072c142af9e1359846269f0278d16ba2a975f6c457e7fa36b2e.ctv
-#EXTINF:-1 group-title="电影",[VGA]cms hbo
+#https://stream1.freetv.fun/fe6f627c19f38072c142af9e1359846269f0278d16ba2a975f6c457e7fa36b2e.ctv
+
+#EXTINF:-1 group-title="电影",[VGA]CMS HBO
 https://stream1.freetv.fun/4904bb1d54cda00d4b146c3b5265cadb6d12c6e11d9761851e0ae2cd51022bcb.m3u8
-#EXTINF:-1 group-title="电影",hbo *wj
-https://stream1.freetv.fun/80302d35f6721993896acd9a086fcbcec8ef63903179d2e6a884904ef2ce87a2.ctv
-#EXTINF:-1 group-title="电影",[HD]hbo *wj
-https://stream1.freetv.fun/05b654bdb805701d5a810f4fd9deaa5c78fe397f36b575a161cf835a79617072.ctv
-#EXTINF:-1 group-title="电影",[HD]hbo(sg) *e
+
+#EXTINF:-1 group-title="电影",[HD]hbo(SG) 
 https://stream1.freetv.fun/b79f23afc2af74e9e45bc703304d2083c671dbd57b3a633649b65cc4698111b5.ctv
+
 #EXTINF:-1 group-title="电影",[HD]HBO
 https://stream1.freetv.fun/f6b785b4f3cd787cadc0a426700657c61be3622c009ad6a7a1987e841208963d.m3u8
-#EXTINF:-1 group-title="电影",[VGA]hbo 1
+
+#EXTINF:-1 group-title="电影",[VGA]HBO 1
 https://stream1.freetv.fun/2d4513e519ddc5c18adf3e194d682c35355850136387a44da6f3b31033d77fea.ctv
-#EXTINF:-1 group-title="电影",[SD]hbo--
+#EXTINF:-1 group-title="电影",[SD]HBO--
 https://stream1.freetv.fun/ebc73a94ad8355026b398423a2f667beb5096295209b8cc89bb1d9fbb4dbdcc7.ctv
-#EXTINF:-1 group-title="电影",[SD]hbo =
-https://stream1.freetv.fun/adf9fc3f5e30d672b7aa00536016cc18eeed6af3967579239d83388cf0b93657.ctv
-#EXTINF:-1 group-title="电影",[SD]hbo ==
-https://stream1.freetv.fun/da7485cd70c21f5c24793cd8af2462d5bd0fc0419c247586576de51fd9ed69d1.ctv
+#https://stream1.freetv.fun/adf9fc3f5e30d672b7aa00536016cc18eeed6af3967579239d83388cf0b93657.ctv
+#https://stream1.freetv.fun/da7485cd70c21f5c24793cd8af2462d5bd0fc0419c247586576de51fd9ed69d1.ctv
+
 #EXTINF:-1 group-title="电影",[HD]HBO
 https://stream1.freetv.fun/ec48048272b524c0b58ce4c02391959f568907ed98f662ca965caa2122b4bcad.m3u8
+
 #EXTINF:-1 group-title="电影",[HD]HBO
 https://stream1.freetv.fun/6da9d008c04b2e2be48b03628b91a5951f65194546c39a0da383c94e19f06660.m3u8
-#EXTINF:-1 group-title="电影",[HD]HBO
+
+#EXTINF:-1 group-title="电影",HBO HD
 https://stream1.freetv.fun/a41fba637dc9a9a518d05cc0ddaad24d47985c8bafdeae4b252ee47f13c3e258.ctv
+
 #EXTINF:-1 group-title="电影",[HD]HBO2
 https://stream1.freetv.fun/a9510410b3b867738e9cc782ae359adeba5cb0ded713d834a4ae520a16fbfd28.m3u8
-#EXTINF:-1 group-title="电影",[HD]hits movies *e
+
+#EXTINF:-1 group-title="电影",[HD]Hits Movies *e
 https://stream1.freetv.fun/9679f114ba6ac1aa61c957c45e84d49afe4cc0fcec4544a87da5bc55fbc269b0.ctv
+
 #EXTINF:-1 group-title="电影",[HD]hallmark channel east
 https://stream1.freetv.fun/76cbf7e1b6ed8641e8cfb45e452fbaf7bcaacab70dc8de9470041ae98a39864f.m3u8
-#EXTINF:-1 group-title="电影",hallmark channel *e
-https://stream1.freetv.fun/7884b8a80bc61172163ccac07fba433541b87ea1c8da07464b990e5354f4b516.ctv
-#EXTINF:-1 group-title="电影",[HD]hallmark channel east
-https://stream1.freetv.fun/e09b995d7c80ddfd0fd67c76b1cbf10e797b36a17b1c051dfda934b1bc7ef44b.m3u8
-#EXTINF:-1 group-title="电影",[HD]hallmark
-https://stream1.freetv.fun/7a1fd14045048ace4d4e8ea852aa207f9223ae6fc9971638f9b4f35d4f621942.m3u8
-#EXTINF:-1 group-title="电影",[SD]hallmark movies more *e
+
+#EXTINF:-1 group-title="电影",[HD]hallmark channel e
+#https://stream1.freetv.fun/7884b8a80bc61172163ccac07fba433541b87ea1c8da07464b990e5354f4b516.ctv
+#https://stream1.freetv.fun/e09b995d7c80ddfd0fd67c76b1cbf10e797b36a17b1c051dfda934b1bc7ef44b.m3u8
+#https://stream1.freetv.fun/7a1fd14045048ace4d4e8ea852aa207f9223ae6fc9971638f9b4f35d4f621942.m3u8
+
+#EXTINF:-1 group-title="电影",[SD]hallmark Movies more *e
 https://stream1.freetv.fun/e0c6bc868abecc52873ae90c0ed9128e275f96baf6e3def10783465f0b938ff6.ctv
-#EXTINF:-1 group-title="电影",[HD]hallmark movies more
+
+#EXTINF:-1 group-title="电影",[HD]hallmark Movies more
 https://stream1.freetv.fun/d85f6a02778050e7501dd62f4ebae43ae70591161501940a226a304220bc3faf.m3u8
 #EXTINF:-1 group-title="电影",hits(tw)=
 https://stream1.freetv.fun/9479da7ea360453c418a6d40629e032b46487583bec39bcddc5e9fc12b68cb2e.ctv
@@ -1017,72 +994,85 @@ https://stream1.freetv.fun/9479da7ea360453c418a6d40629e032b46487583bec39bcddc5e9
 https://stream1.freetv.fun/d09eb3772441c84356384883f15a5bce144b3615c5d9a90e37b71b6434bc0fd6.m3u8
 #EXTINF:-1 group-title="电影",[SD]hits(tw) *s
 https://stream1.freetv.fun/9bc7d3ee7ba87d65b00dc7b79530265df044e72e8bb8bf5638f2d2a6285ff7a6.m3u8
-#EXTINF:-1 group-title="电影",sky hits *e
+
+#EXTINF:-1 group-title="电影",Sky Hits *e
 https://stream1.freetv.fun/b2d70cb023b7be9016b801729306189f6927ce427959f0e95069951637e56469.ctv
-#EXTINF:-1 group-title="电影",[HD]hits *e
+#EXTINF:-1 group-title="电影",[HD]Hits *e
 https://stream1.freetv.fun/23d10bec1b283796b3ac233f2633d12e30c4fd8b127bc2c470e066dfd6f4e518.ctv
-#EXTINF:-1 group-title="电影",[HD]hbo hits(sg) *e
+
+#EXTINF:-1 group-title="电影",[HD]HBO Hits(SG) *e
 https://stream1.freetv.fun/9ddc91658b86bbd6008fc3d8c58edb84b98918d997015a4808ee5a1262750b93.ctv
+
 #EXTINF:-1 group-title="电影",hits电影
 https://stream1.freetv.fun/a71e9b459bf02ee9f74a0b36511854d649ff8051a37f34658bc62399187e95ce.m3u8
-#EXTINF:-1 group-title="电影",[HD]hollywire
+
+#EXTINF:-1 group-title="电影",[HD]Hollywire
 https://stream1.freetv.fun/cb6f4241099d903080214efe241f463e39c1d9314b4d02087fb8f3b0e9235ccc.m3u8
-#EXTINF:-1 group-title="电影",young hollywood
+#EXTINF:-1 group-title="电影",Young Hollywood
 https://stream1.freetv.fun/b4071bf8e755cc3de63150e1668117c38f0e9a1b820f1e303e79df2dc6bf94b8.m3u8
+https://stream1.freetv.fun/18720f11dd7c68ada93f44505d36f38eb9c84db63030b27752b60ca0481c33d8.m3u8
+
 #EXTINF:-1 group-title="电影",[HD]made in hollywood
 https://stream1.freetv.fun/bbbf21ee4afc58dbfcbaa98da54bb3aadd14c2649207295e4e247e98f2e90d90.m3u8
-#EXTINF:-1 group-title="电影",[SD]hollywood
+
+#EXTINF:-1 group-title="电影",[SD]Hollywood
 https://stream1.freetv.fun/4f1224450a344f842cfe4c403593b22a393dc6791e6f469e45c1a24365d08bf5.m3u8
-#EXTINF:-1 group-title="电影",young hollywood
-https://stream1.freetv.fun/18720f11dd7c68ada93f44505d36f38eb9c84db63030b27752b60ca0481c33d8.m3u8
-#EXTINF:-1 group-title="电影",wion
+
+#EXTINF:-1 group-title="电影",Wion
 https://stream1.freetv.fun/9b4811f60f163e860f10caced98e080bee47b6512d0f4e4e4b642293680a88d2.m3u8
-#EXTINF:-1 group-title="电影",[HD]oik tv
+
+#EXTINF:-1 group-title="电影",[HD]Oik tv
 https://stream1.freetv.fun/06b3cc7235f597452227f6c0d4e407290c7c709d8a986cbb439255f23d3bb630.m3u8
-#EXTINF:-1 group-title="电影",[HD]kbs world *wj
-https://stream1.freetv.fun/3c9df8227f03fafd69ae46419439832987e1d5d7d56ff786de325d03f2862a7a.ctv
-#EXTINF:-1 group-title="电影",[HD]kbs world *e
+
+#EXTINF:-1 group-title="电影",[HD]KBS World *e
 https://stream1.freetv.fun/3dad7ecb4a5855083e5de1ef82c4479ce91de8dfa341614683463164c8dfbe7d.ctv
-#EXTINF:-1 group-title="电影",[VGA]pbs ket world
+
+#EXTINF:-1 group-title="电影",[VGA]Pbs ket world
 https://stream1.freetv.fun/fd5cdd2948cada304d7539c14ec114607551f6233d2f151c2d62615fab19a6e8.m3u8
-#EXTINF:-1 group-title="电影",[SD]kino tv
+
+#EXTINF:-1 group-title="电影",[SD]Kino tv
 https://stream1.freetv.fun/247360bb471d6e30b4d79050cc52b754bb389980b89512f394f9b046efc3110f.m3u8
-#EXTINF:-1 group-title="电影",mma-tv
+
+#EXTINF:-1 group-title="电影",Mma-tv
 https://stream1.freetv.fun/2571a2692f9d37090fc0bba4a6ec9df5830a95c6ed094ce5535ad90e9ff1058c.m3u8
+
 #EXTINF:-1 group-title="电影",[VGA]makkal tv
 https://stream1.freetv.fun/1d9df0178b645ae0cb96f3ec47c4b7b4710e9f8b4d00e383827343a398f53b78.m3u8
+
 #EXTINF:-1 group-title="电影",mbc drama ksa
 https://stream1.freetv.fun/e92fec669139458917c58dcdec2b859e6c17f581fcfab25b39f3199b820aaf1b.m3u8
-#EXTINF:-1 group-title="电影",mbc drama usa
-https://stream1.freetv.fun/2855f9ceddf3cb6c3e6e0499e64992842693d5ed01c62797da8426e362e4ab7a.m3u8
-#EXTINF:-1 group-title="电影",[SD]bbc drama
+#https://stream1.freetv.fun/2855f9ceddf3cb6c3e6e0499e64992842693d5ed01c62797da8426e362e4ab7a.m3u8
+
+#EXTINF:-1 group-title="电影",[SD]BBC Drama
 https://stream1.freetv.fun/29d9cd989e3d57ab50d527e42b73589d525ce00b52c343244885a5b5c523d840.m3u8
 #EXTINF:-1 group-title="电影",[HD]msg
 https://stream1.freetv.fun/46b3046eb6d46175f1223b02f62b3ecb77a61a724c69f25bf7796629dc2cfb58.m3u8
-#EXTINF:-1 group-title="电影",[HD]msg
-https://stream1.freetv.fun/aea4a4a8481f9ab900934b366324426925182cca72a322d2f5e22472f251fc3a.m3u8
-#EXTINF:-1 group-title="电影",cowboy movie channel
+#https://stream1.freetv.fun/aea4a4a8481f9ab900934b366324426925182cca72a322d2f5e22472f251fc3a.m3u8
+
+#EXTINF:-1 group-title="电影",Cowboy movie channel
 https://stream1.freetv.fun/7a4deeaeab423899108cfcb341e35aba022c411ff0a975375daa008ef1d24cd5.m3u8
+
 #EXTINF:-1 group-title="电影",[VGA]gospel movie tv
 https://stream1.freetv.fun/efba2c88bd91f4419122444932a4f42d8a93878dfc7ab5f25948d43a62b980c4.m3u8
+
 #EXTINF:-1 group-title="电影",mytime movie network
 https://stream1.freetv.fun/c8e95c800f2f34c6c707f8b240a88dc0e87c3f28b17754b0922b48d5cde7bb7a.m3u8
-#EXTINF:-1 group-title="电影",mytime movie network
-https://stream1.freetv.fun/698f2d616fd2ea6905d0afd4c9e3f45ef155742bad18f6158e9cf540c046f6bb.m3u8
-#EXTINF:-1 group-title="电影",mytime movie network
-https://stream1.freetv.fun/4dcfe6b94315e523fdc36c33af599d211682761d528521f889ff25a32659ef44.m3u8
-#EXTINF:-1 group-title="电影",[VGA]movies!
+#https://stream1.freetv.fun/698f2d616fd2ea6905d0afd4c9e3f45ef155742bad18f6158e9cf540c046f6bb.m3u8
+#https://stream1.freetv.fun/4dcfe6b94315e523fdc36c33af599d211682761d528521f889ff25a32659ef44.m3u8
+
+#EXTINF:-1 group-title="电影",[VGA]Movies!
 https://stream1.freetv.fun/c9c0ae927ecbeb4d1e241daade733ac04f296ddfc089329f5897c6d6ccb03961.m3u8
+
 #EXTINF:-1 group-title="电影",[SD]kids movie club
 https://stream1.freetv.fun/e4259fc9b98e1912f3588634282ffdcac01d0a8a5fdb05b1bb6f7e9e7e9b7e2b.m3u8
 #EXTINF:-1 group-title="电影",[SD]paramount movie channel
 https://stream1.freetv.fun/f8c094c073007a655bcbce95b57d395085bc049e719d350446fc2d4efc9c0753.m3u8
-#EXTINF:-1 group-title="电影",[SD]movie movie===
+
+#EXTINF:-1 group-title="电影",[SD]Movie Movie
 https://stream1.freetv.fun/d8621ea58227b93ae02809dbb681ca5d083bab1c03f4f637d99426f060f3f3e5.ctv
-#EXTINF:-1 group-title="电影",[SD]movie movie==
-https://stream1.freetv.fun/822472620e1a8c15f76d97d7c7a5f0a28e5cc7a8377e3b64e124c519a31837d2.ctv
-#EXTINF:-1 group-title="电影",[SD]movie movie=
-https://stream1.freetv.fun/e74c68086d598f73fafa407f8ecc915eff5f00b61a579be59c90a223183712ca.ctv
+#https://stream1.freetv.fun/822472620e1a8c15f76d97d7c7a5f0a28e5cc7a8377e3b64e124c519a31837d2.ctv
+#https://stream1.freetv.fun/e74c68086d598f73fafa407f8ecc915eff5f00b61a579be59c90a223183712ca.ctv
+
 #EXTINF:-1 group-title="电影",[VGA]cms game movie
 https://stream1.freetv.fun/f70cf331c009863363e78278a2aafc4c4ce1d31f3d463db6828d36b4751c6e93.m3u8
 #EXTINF:-1 group-title="电影",[SD]paramount movie channel
@@ -1095,160 +1085,166 @@ https://stream1.freetv.fun/141f07133aa4803196087b63fd11e88d843351405878057911f08
 https://stream1.freetv.fun/46781d8f6a172c8d31f00e83e697e48c6b2ce98e2328df4f660a72b2de1946ba.m3u8
 #EXTINF:-1 group-title="电影",[HD]mondo tv
 https://stream1.freetv.fun/cf778676b5ba410e314ee028ebfc6feae30e379e74e36fae2b0ef05f3658dfe5.m3u8
-#EXTINF:-1 group-title="电影",moviemax tv trk=
+
+#EXTINF:-1 group-title="电影",Moviemax TV Trk
 https://stream1.freetv.fun/945c575b5c66ccbce925dbcb2b8e03c832462d36fc72a148d185f08b6eb43d9c.ctv
-#EXTINF:-1 group-title="电影",moviemax tv trk==
-https://stream1.freetv.fun/6ebd06ac77f675b9c522b5f26160d912ec36b70edd0de1ede3f7e70cddac4c6b.ctv
-#EXTINF:-1 group-title="电影",[HD]24 hour free movies
+#https://stream1.freetv.fun/6ebd06ac77f675b9c522b5f26160d912ec36b70edd0de1ede3f7e70cddac4c6b.ctv
+
+#EXTINF:-1 group-title="电影",[HD]24 Hour Free Movies
 https://stream1.freetv.fun/505ed1034fbb979d2841ed09b354a147b00789fb7825b23dbd28bd29127586da.m3u8
 #EXTINF:-1 group-title="电影",mystery science theater 3000==
 https://stream1.freetv.fun/035dd17d1f1fa905af425963895f00f108e2371bd07747d17bf9ada6441b5a7a.ctv
 #EXTINF:-1 group-title="电影",mystery science theater 3000=
 https://stream1.freetv.fun/704b73d1c4ffb1c23f570f7943eae3ef8f1c2a07a68dfc88dac812afad268955.ctv
-#EXTINF:-1 group-title="电影",nile comedy=
+
+#EXTINF:-1 group-title="电影",Nile Comedy
 https://stream1.freetv.fun/7c1f5a18ce9cfa919ece2e03a8ba64575b49419439ec919092ed3cae84c62ba0.ctv
-#EXTINF:-1 group-title="电影",nile comedy==
-https://stream1.freetv.fun/c575b56d3c70127d200620d8d8203e783522d3e75873d35d16da4a4004f5c550.ctv
-#EXTINF:-1 group-title="电影",nile family=
+#https://stream1.freetv.fun/c575b56d3c70127d200620d8d8203e783522d3e75873d35d16da4a4004f5c550.ctv
+
+#EXTINF:-1 group-title="电影",Nile Family
 https://stream1.freetv.fun/c334ddc74e4aca06e7458d845ac890fa92a194ecdc22e9699f4d0a23f5aaeb1e.ctv
-#EXTINF:-1 group-title="电影",nile family==
-https://stream1.freetv.fun/2a2f0383d4f275e444581429a4592795f86863c7a57467f964429d6d7700d3ff.ctv
-#EXTINF:-1 group-title="电影",action hollywood movies
+#https://stream1.freetv.fun/2a2f0383d4f275e444581429a4592795f86863c7a57467f964429d6d7700d3ff.ctv
+
+#EXTINF:-1 group-title="电影",Action Hollywood Movies
 https://stream1.freetv.fun/bf529206899f27d9d138875f2bad01423bebc6c628db8432d90efadb0b464cbf.m3u8
-#EXTINF:-1 group-title="电影",[HD]action hollywood movies
-https://stream1.freetv.fun/665c90bb8edf254c4d86e8d0677b035ba4641c11b17df3f2b05b47ec64461fba.m3u8
-#EXTINF:-1 group-title="电影",mbc movies
+#https://stream1.freetv.fun/665c90bb8edf254c4d86e8d0677b035ba4641c11b17df3f2b05b47ec64461fba.m3u8
+
+#EXTINF:-1 group-title="电影",mbc Movies
 https://stream1.freetv.fun/8fffaa79bb9facdbd029ed8bb74dcd5b978c2f4e3b03c33679ea7cbc91d640c7.m3u8
 #EXTINF:-1 group-title="电影",[HD]sony movie
 https://stream1.freetv.fun/3bf6c2424a67d74000f84e4b7515e7bbd97cbc414bae08aaa5895507f8b7fac6.m3u8
-#EXTINF:-1 group-title="电影",mbc movies action
+#EXTINF:-1 group-title="电影",mbc Movies action
 https://stream1.freetv.fun/77f885269c5315a05b66bb559a2c766cfab3ed533893d64a2d121918c7062cb3.m3u8
-#EXTINF:-1 group-title="电影",osn movies action *e
+#EXTINF:-1 group-title="电影",osn Movies action *e
 https://stream1.freetv.fun/490d896315dc95ab6506595efca38084638810547aabc4671e040936fe9abc60.ctv
 #EXTINF:-1 group-title="电影",[SD]crimetime
 https://stream1.freetv.fun/7962fa0b230c52ed6b447a8a789e38c698a7137b171d93933f948608ee3a2fab.m3u8
+
 #EXTINF:-1 group-title="电影",roya action
 https://stream1.freetv.fun/6f1037e2237d24ee9a97c3e3a4ffcfba6574244dae8bb34339bc57d899bf5add.m3u8
+
 #EXTINF:-1 group-title="电影",rock action
 https://stream1.freetv.fun/1060c60d9bbb1d33de512d316d681a11a1dd5b6364a1e83e1afb18ac9219fa1d.m3u8
-#EXTINF:-1 group-title="电影",rock actions *wj
-https://stream1.freetv.fun/699d5be4acfc3f8fd6a0faf99f80507510f8b72c9ca38bd8b5e5e86d6561f420.ctv
-#EXTINF:-1 group-title="电影",rock action *e
-https://stream1.freetv.fun/b148cccc1e5501997ccd2a8ebfec673e42e1bbfacceaa7ab61ba3d05e1152de8.ctv
+#https://stream1.freetv.fun/b148cccc1e5501997ccd2a8ebfec673e42e1bbfacceaa7ab61ba3d05e1152de8.ctv
+
 #EXTINF:-1 group-title="电影",rotana m plus
 https://stream1.freetv.fun/5da60b95f02b55732d860b539c670beeb486188d2653833a8d42b0deab999c67.m3u8
 #EXTINF:-1 group-title="电影",rotana cinema ksa
 https://stream1.freetv.fun/a0b263dcfc20bd778685409e60f8beacca8353fd5032b9d308d3413844a187a9.m3u8
-#EXTINF:-1 group-title="电影",rotana classic
+#EXTINF:-1 group-title="电影",rotana Classic
 https://stream1.freetv.fun/1298324852ed848c5d9c48be3817593643c4113ad349712928b4e7b33f5a0b91.m3u8
 #EXTINF:-1 group-title="电影",[HD]star channel
 https://stream1.freetv.fun/dd542ce4f5371efc72eb63a964482da43de1d800f87010b0b0b2080c4ad737d6.m3u8
-#EXTINF:-1 group-title="电影",[SD]star movies india
+#EXTINF:-1 group-title="电影",[SD]star Movies india
 https://stream1.freetv.fun/aaaaea36cad9b9b3b01ae45e8f6ffaa256624813bd8d676129f6d4744a78023b.m3u8
-#EXTINF:-1 group-title="电影",star movies *wj
+#EXTINF:-1 group-title="电影",star Movies *wj
 https://stream1.freetv.fun/e2e3fefeeb6e372392f6ce22584f025a15e12331d35704e7a8d440a995ca227e.ctv
-#EXTINF:-1 group-title="电影",[HD]star movies *e
+#EXTINF:-1 group-title="电影",[HD]star Movies *e
 https://stream1.freetv.fun/f292a7e7ce881d37c5915e15fc92fd804ed487b07c0245688936ebfecedb481c.ctv
 #EXTINF:-1 group-title="电影",show tv
 https://stream1.freetv.fun/4dc219d3eed83a8079465908c6375d0aa01e83fc581b0338336013cfb357a6f4.m3u8
-#EXTINF:-1 group-title="电影",[HD]showcase movies==
+#EXTINF:-1 group-title="电影",[HD]Showcase Movies==
 https://stream1.freetv.fun/a9e44587519300324904f92b0642574b54454f068b2df33b0fa80a5f222cde53.ctv
-#EXTINF:-1 group-title="电影",[HD]showcase movies *e
+#EXTINF:-1 group-title="电影",[HD]Showcase Movies *e
 https://stream1.freetv.fun/837324b445ab9189c22d5bf695380581e25f0be3bdb8878593be6a73a2f2d349.ctv
-#EXTINF:-1 group-title="电影",[HD]showcase movies=
+#EXTINF:-1 group-title="电影",[HD]Showcase Movies=
 https://stream1.freetv.fun/2a41f1b23f403d3c032aaac56ff1a231928bf9876bb4348add0c0df42d805745.ctv
-#EXTINF:-1 group-title="电影",[HD]classic arts showcase
+#EXTINF:-1 group-title="电影",[HD]Classic Arts Showcase
 https://stream1.freetv.fun/d8499811c9dae5fc9b0fb5e730b3d4dc7da4b6b65edddf5ddc6aa5d8e4b850da.m3u8
-#EXTINF:-1 group-title="电影",showtime east
+
+#EXTINF:-1 group-title="电影",Showtime east
 https://stream1.freetv.fun/6198307d7c28b069c9a7a26ce333b2660b05d0556819f39b282b8560acf6f625.m3u8
-#EXTINF:-1 group-title="电影",[HD]showtime=
+
+#EXTINF:-1 group-title="电影",[HD]Showtime=
 https://stream1.freetv.fun/a4f44945378d889da80b6519d4b824d0a7d8cab5b6dbfe34ecd877b663768248.ctv
-#EXTINF:-1 group-title="电影",[HD]showtime==
-https://stream1.freetv.fun/7d606e435eb999ae25d85eb4d80b0056f25fd307327efbbbc8e90052cf1e2193.ctv
-#EXTINF:-1 group-title="电影",showtime---
+#https://stream1.freetv.fun/7d606e435eb999ae25d85eb4d80b0056f25fd307327efbbbc8e90052cf1e2193.ctv
+
+#EXTINF:-1 group-title="电影",Showtime---
 https://stream1.freetv.fun/24f3a0cb2b558c8bcb53a713895863dbd311a655bef1568207a7b7a8e7a682dd.ctv
-#EXTINF:-1 group-title="电影",showtime----
-https://stream1.freetv.fun/fab272b74c422fe721144b8ac7e3df28004eaaa532e84e321a8c76593d15f365.ctv
-#EXTINF:-1 group-title="电影",[SD]showtime next==
+#https://stream1.freetv.fun/fab272b74c422fe721144b8ac7e3df28004eaaa532e84e321a8c76593d15f365.ctv
+
+#EXTINF:-1 group-title="电影",[SD]Showtime Next==
 https://stream1.freetv.fun/3c2e2904ba07b0946dd0347e6b7ab19ee99cd34ea59c68a282a3b66a084e509a.ctv
-#EXTINF:-1 group-title="电影",[SD]showtime next=
-https://stream1.freetv.fun/037b612ff230eef95249eb1920721ec184d4c16b59182b678e50de13da2cb1d8.ctv
-#EXTINF:-1 group-title="电影",[SD]showtime *s
+#https://stream1.freetv.fun/037b612ff230eef95249eb1920721ec184d4c16b59182b678e50de13da2cb1d8.ctv
+
+#EXTINF:-1 group-title="电影",[SD]Showtime *s
 https://stream1.freetv.fun/70a0d036b08322c1aa68e86304c49657c57e3f11723774369467ea7c72ba8fae.m3u8
-#EXTINF:-1 group-title="电影",showtime--
-https://stream1.freetv.fun/9d33698aa9ea2a436fe289841f58041ce5beabc0bade919c84c724281b9b622f.ctv
-#EXTINF:-1 group-title="电影",showtime-
-https://stream1.freetv.fun/47ce83ab43683f16f8651da9e5162bc4aa23f81d3243e3d20ee254f9c883e891.ctv
-#EXTINF:-1 group-title="电影",showtime *e
-https://stream1.freetv.fun/9502e196718cc49c751044e4690e23592a1c64f29916208910aa32909bd8f88e.ctv
-#EXTINF:-1 group-title="电影",showtime *p
-https://stream1.freetv.fun/550e424255fa0488d239995e7d5de5c0a5d3ae008a0cc29873ea7d7b11f6ca88.ctv
+#https://stream1.freetv.fun/9d33698aa9ea2a436fe289841f58041ce5beabc0bade919c84c724281b9b622f.ctv
+#https://stream1.freetv.fun/47ce83ab43683f16f8651da9e5162bc4aa23f81d3243e3d20ee254f9c883e891.ctv
+#https://stream1.freetv.fun/9502e196718cc49c751044e4690e23592a1c64f29916208910aa32909bd8f88e.ctv
+#https://stream1.freetv.fun/550e424255fa0488d239995e7d5de5c0a5d3ae008a0cc29873ea7d7b11f6ca88.ctv
+
 #EXTINF:-1 group-title="电影",showtime west
 https://stream1.freetv.fun/aa56eced1352eb7d132384f6f29e38eade8e45ee1384765c86865207a67ae29e.m3u8
-#EXTINF:-1 group-title="电影",showtime west
-https://stream1.freetv.fun/8a1098270518ed2c673ee7073f17aa1b898662de0d966fac40b056b45d925443.m3u8
+#https://stream1.freetv.fun/8a1098270518ed2c673ee7073f17aa1b898662de0d966fac40b056b45d925443.m3u8
+
 #EXTINF:-1 group-title="电影",sky cinema==
 https://stream1.freetv.fun/425c3952dd23e92059bbcd58326b5b9e6fe9024876f6678b3fb0e114d1e32132.ctv
-#EXTINF:-1 group-title="电影",sky cinema=
-https://stream1.freetv.fun/7f4f54d6737604bdd133dcc135e229cad5bba117b01d958202cb72b6fa93b242.ctv
+#https://stream1.freetv.fun/7f4f54d6737604bdd133dcc135e229cad5bba117b01d958202cb72b6fa93b242.ctv
+
 #EXTINF:-1 group-title="电影",sky cinema--
 https://stream1.freetv.fun/cb1bc159ae0d87a0a7a6b115a9c53204096a8d44bbf5b67009ae01fbc93e1ef0.ctv
-#EXTINF:-1 group-title="电影",sky cinema-
-https://stream1.freetv.fun/b8190fec0c6417df7b6d55e513b7efff97a91d32cb368aeefef05dc8a5765bf0.ctv
-#EXTINF:-1 group-title="电影",[HD]sky cinema action==
+#https://stream1.freetv.fun/b8190fec0c6417df7b6d55e513b7efff97a91d32cb368aeefef05dc8a5765bf0.ctv
+
+#EXTINF:-1 group-title="电影",[HD]Sky Cinema Action==
 https://stream1.freetv.fun/8062602f59fcfb7cf6b5391b909ddb7b1e3e21f1843f420385674a6564050887.ctv
-#EXTINF:-1 group-title="电影",[HD]sky cinema action=
-https://stream1.freetv.fun/621ea844e3f987b7e0a6789e2e935cea07731deb7852b50287a7d1f7f30a6187.ctv
+#https://stream1.freetv.fun/621ea844e3f987b7e0a6789e2e935cea07731deb7852b50287a7d1f7f30a6187.ctv
+
 #EXTINF:-1 group-title="电影",[HD]sky cinema action *e
 https://stream1.freetv.fun/a4b33999b0b1a278f35d31e123bf81ad7756d62181b585d4a85d5bf849b92d8f.ctv
-#EXTINF:-1 group-title="电影",[VGA]top rank classics
+#EXTINF:-1 group-title="电影",[VGA]top rank Classics
 https://stream1.freetv.fun/f4b67bdef0651cc950ae0135f01d12f5a1f50d06b89b265e6fb85dddda48b271.m3u8
-#EXTINF:-1 group-title="电影",[HD]stashtv the classics
+#EXTINF:-1 group-title="电影",[HD]stashtv the Classics
 https://stream1.freetv.fun/c4dc3122727bd7fd25da6faaa1f0916289c620da742ea4a94930580ec581e45a.m3u8
-#EXTINF:-1 group-title="电影",[VGA]cartoon classics
+#EXTINF:-1 group-title="电影",[VGA]cartoon Classics
 https://stream1.freetv.fun/a17e4992bb45b5dbe77fccb9154b83ecd4d89c1c8aa96a4f8bf5cdd6d07346e6.m3u8
-#EXTINF:-1 group-title="电影",[SD]cinevault classics
+#EXTINF:-1 group-title="电影",[SD]cinevault Classics
 https://stream1.freetv.fun/b75419dd45e42baee1f3f0d7ae2802073c98074d9b3263c9b1810a4e74553217.m3u8
-#EXTINF:-1 group-title="电影",samuel goldwyn classics
+#EXTINF:-1 group-title="电影",samuel goldwyn Classics
 https://stream1.freetv.fun/0a79e5d7ec4297fac391c013411d2799b63996129965003a78714dafc77f9aba.m3u8
-#EXTINF:-1 group-title="电影",[SD]top rank classics
+#EXTINF:-1 group-title="电影",[SD]top rank Classics
 https://stream1.freetv.fun/32d701dfda45e3f59e3dc127e6b3247b50b9818cd67218b68bfd9b4a14faec45.m3u8
-#EXTINF:-1 group-title="电影",[HD]black classics
+#EXTINF:-1 group-title="电影",[HD]black Classics
 https://stream1.freetv.fun/6b2ac2bfa63ed63e5b26c3f3a1e3f44b24c8fb65c9595c540ba08cf862e40b8c.m3u8
-#EXTINF:-1 group-title="电影",[HD]music classics
+#EXTINF:-1 group-title="电影",[HD]music Classics
 https://stream1.freetv.fun/f5162fbc5f6cb799636eafeda580ce9a77662e95ae8097298f2b5b4db015a721.m3u8
+
 #EXTINF:-1 group-title="电影",[HD]sky comedy=
 https://stream1.freetv.fun/6fd93683ecf52ad39ba16fc2421c751a44c977886a2aa46f7de246947dc5e5b9.ctv
-#EXTINF:-1 group-title="电影",[HD]sky comedy==
-https://stream1.freetv.fun/100b706381639d7536849ad278c72a8d9a5bd8b80c783135376e345a61052b85.ctv
+#https://stream1.freetv.fun/100b706381639d7536849ad278c72a8d9a5bd8b80c783135376e345a61052b85.ctv
+
 #EXTINF:-1 group-title="电影",[HD]sky family=
 https://stream1.freetv.fun/f9f5f5628bcc3a88d5e82bc08521de3421dbb25830e87b4d3f5f392018a2bf15.ctv
-#EXTINF:-1 group-title="电影",[HD]sky family==
-https://stream1.freetv.fun/5700a531ba6ab222331d261ee3c27f2644dbdb079f0e9ea0e07578faec09cd20.ctv
-#EXTINF:-1 group-title="电影",sky movies drama romance uk==
+#https://stream1.freetv.fun/5700a531ba6ab222331d261ee3c27f2644dbdb079f0e9ea0e07578faec09cd20.ctv
+
+#EXTINF:-1 group-title="电影",sky Movies drama romance uk==
 https://stream1.freetv.fun/9b22db9fb82d04ed3653de0ef4af4893027d60732f5179e361a2cd7295b32387.ctv
-#EXTINF:-1 group-title="电影",sky movies drama romance uk=
-https://stream1.freetv.fun/897bf2805fe85ad054608f4285488fcbf25398bbafa5f61c203a4f00afbfbe74.ctv
-#EXTINF:-1 group-title="电影",sky movies crime thriller uk *e
+#https://stream1.freetv.fun/897bf2805fe85ad054608f4285488fcbf25398bbafa5f61c203a4f00afbfbe74.ctv
+
+#EXTINF:-1 group-title="电影",sky Movies crime thriller uk *e
 https://stream1.freetv.fun/4e8d41276488bd77aa1f760bb7816b7fde5d395c31b3739bf5663e493b21f3f5.ctv
-#EXTINF:-1 group-title="电影",sky movies family uk *e
+#EXTINF:-1 group-title="电影",sky Movies family uk *e
 https://stream1.freetv.fun/cd744da80028d767505fd38794a9ed6c03cad38d2e04ffbc11a5bcdcf3baee80.ctv
-#EXTINF:-1 group-title="电影",sky movies modern greats uk==
+
+#EXTINF:-1 group-title="电影",sky Movies modern greats uk==
 https://stream1.freetv.fun/99180e3d910374fa36e5ff3c8d7b5c2bce5b0544c042af5dbc9925517f1caf68.ctv
-#EXTINF:-1 group-title="电影",sky movies modern greats uk=
-https://stream1.freetv.fun/fdf2dd11a449fac9db444274bfcf466ca981fba157c2ad64b1196d7f51b4cb9c.ctv
-#EXTINF:-1 group-title="电影",sky movies sci-fi horror uk=
+#https://stream1.freetv.fun/fdf2dd11a449fac9db444274bfcf466ca981fba157c2ad64b1196d7f51b4cb9c.ctv
+
+#EXTINF:-1 group-title="电影",sky Movies sci-fi horror uk=
 https://stream1.freetv.fun/708161353e68d13b699915fb7e64d0e2d93705f407c8e639837bb2a8343b0d80.ctv
-#EXTINF:-1 group-title="电影",sky movies sci-fi horror uk==
-https://stream1.freetv.fun/25fb054b8448d968c27f33cafca7f9703a6447b2884a1826ff2d0a24afc306a2.ctv
-#EXTINF:-1 group-title="电影",sky movies sci-fi horror uk *e
+#https://stream1.freetv.fun/25fb054b8448d968c27f33cafca7f9703a6447b2884a1826ff2d0a24afc306a2.ctv
+
+#EXTINF:-1 group-title="电影",sky Movies sci-fi horror uk *e
 https://stream1.freetv.fun/142bd4a121154f136e34aa785ed008072c6675f27b1e36e77d226401f553741f.ctv
-#EXTINF:-1 group-title="电影",[HD]sky movies premiere uk *s
+#EXTINF:-1 group-title="电影",[HD]sky Movies premiere uk *s
 https://stream1.freetv.fun/66f8b3a4ac92f6fee9932d7c63a66da36f46cd53c44a4db80be1ef3b4f482827.m3u8
+
 #EXTINF:-1 group-title="电影",[VGA]sony channel
 https://stream1.freetv.fun/3ccccd1d1b321b87cc11e57bfd03f41efb7bac96144c16c1acca554c0193c335.m3u8
+
 #EXTINF:-1 group-title="电影",[HD]sony channel
 https://stream1.freetv.fun/ec5abcee4ac751e184362443f03e3cb33b96233b0377350fb5c3e35d1340225e.m3u8
+
 #EXTINF:-1 group-title="电影",ebony tv
 https://stream1.freetv.fun/65bf22f8b559c9688d3645cc5951f3fcb53fe6255631e0b66bccf64117db0093.m3u8
 #EXTINF:-1 group-title="电影",ebony tv
@@ -1257,6 +1253,7 @@ https://stream1.freetv.fun/7b84b1635dd0d952d29c4bd480afebf9501e4c44c1c352293c003
 https://stream1.freetv.fun/f7bcd07c01a86044210a54c8cdb52a95cc32e3d18e78af09bb75e6e30482b0f3.m3u8
 #EXTINF:-1 group-title="电影",mta1 world
 https://stream1.freetv.fun/b29bded2ac856c75c8a1389301ce715ed51cf9c6946512f9c69ccbe3315ceb32.m3u8
+
 #EXTINF:-1 group-title="电影",[HD]star world *e
 https://stream1.freetv.fun/8761e503a51db056461e0efa1cfab309a47ce115d83d20fd04f5f70de3078453.ctv
 #EXTINF:-1 group-title="电影",[SD]start world
@@ -1271,28 +1268,25 @@ https://stream1.freetv.fun/14f85212a47510f70b951e749e8e786aa0cc2d46f45b9990226be
 https://stream1.freetv.fun/bc7fa571b44028daf1896e8ecdec5443e05c5105a35e13f10b6f67087dd3d436.ctv
 #EXTINF:-1 group-title="电影",[HD]starz east
 https://stream1.freetv.fun/c5c0356ebbea09dfefea2e8ae60bf327db811e2cc93952b16f35c8963fde3372.m3u8
+
 #EXTINF:-1 group-title="电影",[VGA]starz cinema=
 https://stream1.freetv.fun/730a4d582357a894837054353feef3efdae3c1e43d4ef463a572f08fc3de9973.ctv
-#EXTINF:-1 group-title="电影",[VGA]starz cinema==
-https://stream1.freetv.fun/a45554e0250ca591a25ee35d9be06e2d7e75d048afed2bb49c39f32696687c20.ctv
-#EXTINF:-1 group-title="电影",[VGA]starz cinema-
-https://stream1.freetv.fun/b214dd3c89262129b2e45f6eab3f3cc430ad6b55c1ecbf0e0cd1c0d6d9d65395.ctv
-#EXTINF:-1 group-title="电影",[VGA]starz cinema--
-https://stream1.freetv.fun/36ddc486668dc3612aa3b89958ee1f458d5afed3555f38a9f8bd54ae0d6ba6f9.ctv
-#EXTINF:-1 group-title="电影",[HD]starz cinema *e
-https://stream1.freetv.fun/5d43e1886378b994f2cfea354a8453cba47208f7734549c21a72a1e21b01ada8.ctv
-#EXTINF:-1 group-title="电影",starz cinema *p
-https://stream1.freetv.fun/2433024554c8861d95c9ca647b75140fefcfb890f75eab1fb6e1b5de2e286b08.ctv
+#https://stream1.freetv.fun/a45554e0250ca591a25ee35d9be06e2d7e75d048afed2bb49c39f32696687c20.ctv
+#https://stream1.freetv.fun/b214dd3c89262129b2e45f6eab3f3cc430ad6b55c1ecbf0e0cd1c0d6d9d65395.ctv
+#https://stream1.freetv.fun/36ddc486668dc3612aa3b89958ee1f458d5afed3555f38a9f8bd54ae0d6ba6f9.ctv
+#https://stream1.freetv.fun/5d43e1886378b994f2cfea354a8453cba47208f7734549c21a72a1e21b01ada8.ctv
+#https://stream1.freetv.fun/2433024554c8861d95c9ca647b75140fefcfb890f75eab1fb6e1b5de2e286b08.ctv
+
 #EXTINF:-1 group-title="电影",[HD]starz edge
 https://stream1.freetv.fun/2a803e416565ec84b2486565f8490dedb99c45b9c85feefacfc29c1b163d0437.m3u8
-#EXTINF:-1 group-title="电影",[HD]starz encore classic east
+#EXTINF:-1 group-title="电影",[HD]starz encore Classic east
 https://stream1.freetv.fun/a7c7247495800369bfa98aa851b8186209d1733dd40da5fa96304dd80987489f.m3u8
 #EXTINF:-1 group-title="电影",[HD]starz encore action
 https://stream1.freetv.fun/20a6505c38546585b0afe16937f80676a76d3dd327bea10153632ae12a40d3b7.m3u8
+
 #EXTINF:-1 group-title="电影",[SD]starz encore=
 https://stream1.freetv.fun/c05422c25ea0cca4bda766ac6fa123fcffbb7cad5885417ba8c4a4f7d1ec2faf.ctv
-#EXTINF:-1 group-title="电影",[SD]starz encore==
-https://stream1.freetv.fun/10a8e463dfdf6b81c43c47574fa5b02af298209f91f47a78dea5e119a00c0993.ctv
+#https://stream1.freetv.fun/10a8e463dfdf6b81c43c47574fa5b02af298209f91f47a78dea5e119a00c0993.ctv
 #EXTINF:-1 group-title="电影",starz encore *p
 https://stream1.freetv.fun/66e9be58414b9de04db80744dd114ba0c7fe076809ddddf240f5c0878058d49a.ctv
 #EXTINF:-1 group-title="电影",starz west *e
@@ -1301,9 +1295,8 @@ https://stream1.freetv.fun/72eb6927a1a3942c94c2540ebd86279e1ddabaa82f38bcc26b00f
 https://stream1.freetv.fun/4af1091dea846e6fbb582a9499185fc489ebc63d51e118a288e0277593c72a9b.m3u8
 #EXTINF:-1 group-title="电影",[VGA]starz west==
 https://stream1.freetv.fun/1c57631e027267f3d9e0143a1a22f7511e195d5f3c9b95e867640db374a1ccd6.ctv
-#EXTINF:-1 group-title="电影",[HD]tnt==
+
+#EXTINF:-1 group-title="电影",[HD]TNT
 https://stream1.freetv.fun/f0e8d197fba7360d9b0ddedb8c6a6513eed85ea621501c24ea02f9740d48fd56.ctv
-#EXTINF:-1 group-title="电影",[HD]tnt
-https://stream1.freetv.fun/882bc685fa04beeff426d79c318c560a138f54d78a525ab44ce1a3c45ce6c445.ctv
-#EXTINF:-1 group-title="电影",[HD]tnt=
-https://stream1.freetv.fun/587e0b729b439f3384181b3cac10603b4e22d56fd636aaf5aa8f1cf68dfae156.ctv
+#https://stream1.freetv.fun/882bc685fa04beeff426d79c318c560a138f54d78a525ab44ce1a3c45ce6c445.ctv
+#https://stream1.freetv.fun/587e0b729b439f3384181b3cac10603b4e22d56fd636aaf5aa8f1cf68dfae156.ctv
