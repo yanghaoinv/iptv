@@ -563,11 +563,6 @@ https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8
 #EXTINF:-1 group-title="台湾频道",TW 爱尔达影剧355
 https://stream1.freetv.fun/8b1ef976b314ce76f7a659b187e36fb6feabe376e2b9fd05c682f386092e487c.m3u8
 
-
-#EXTINF:-1 group-title="台湾频道",TW 台視新聞
-https://stream1.freetv.fun/d96ca80f2e6d7eb1a1737aaf17284caded271210e4432dfb4378a9ab6d8ef7b2.m3u8
-#https://stream1.freetv.fun/ffa3a8fc52b4834c300b3587a667310b5eb8a46d000498709791be4bd1799514.m3u8
-
 #EXTINF:-1 group-title="台湾频道",TW Channel 8 HD
 https://s1.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
 
@@ -618,14 +613,16 @@ https://stream1.freetv.fun/ed79f0e0b3239f6d400bab53fb259f7f53b13c4621dfb82f35647
 #EXTINF:-1 group-title="台湾频道",TW 台视新闻
 https://stream1.freetv.fun/6d45c852234adf9247cfc6eb9b1682de0defb8f84183c6dcf6a39bb24c07af32.m3u8
 #https://stream1.freetv.fun/952de5f6c6b137213851db573554b0a143a058f3843c42fc3bb31795d46094ec.m3u8
+#https://stream1.freetv.fun/d96ca80f2e6d7eb1a1737aaf17284caded271210e4432dfb4378a9ab6d8ef7b2.m3u8
+#https://stream1.freetv.fun/ffa3a8fc52b4834c300b3587a667310b5eb8a46d000498709791be4bd1799514.m3u8
 
-#EXTINF:-1 group-title="台湾频道",TW 民視
+#EXTINF:-1 group-title="台湾频道",TW 民视
 https://s1.m16tv.cfd/taiwan/CH-1/AKTV.m3u8
 
-#EXTINF:-1 group-title="台湾频道",TW 民視第一台
+#EXTINF:-1 group-title="台湾频道",TW 民视第一台
 https://s1.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
 
-#EXTINF:-1 group-title="台湾频道",TW 民視新聞
+#EXTINF:-1 group-title="台湾频道",TW 民视新闻
 https://stream1.freetv.fun/53ca0a5de7a07569cee0fb25ff84d53241cdef34fb8ebb2d90ba4151881afb36.ctv
 
 #EXTINF:-1 group-title="台湾频道",TW 华视
@@ -637,10 +634,10 @@ https://stream1.freetv.fun/29adfafbafdff79d9feed6dd7ee053b99f4cef416258aa0829550
 #EXTINF:-1 group-title="台湾频道",TW 年代新闻 hd =1
 https://stream1.freetv.fun/d3a2ad1c4c0508f1b3e37d56a959a6ab83d3e60da97e6aaf2b9334442dc1e2f7.m3u8
 
-#EXTINF:-1 group-title="台湾频道",TW 緯來體育台
+#EXTINF:-1 group-title="台湾频道",TW 纬来体育台
 https://s2.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
 
-#EXTINF:-1 group-title="台湾频道",TW 東森电影
+#EXTINF:-1 group-title="台湾频道",TW 东森电影
 https://s2.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
 
 #数字频道
@@ -726,8 +723,6 @@ http://39.134.65.106/PLTV/88888888/224/3221225556/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225561/1.m3u8
 #EXTINF:-1 group-title="儿童频道",[SD]discovery kids =1
 https://stream1.freetv.fun/945f431ec940781a3f8ed2f1ab55500c6d0afe11ea611d8fdc69368ef2e58678.m3u8
-
-
 #EXTINF:-1 group-title="儿童频道",Kartoon Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="儿童频道",新动漫
@@ -757,6 +752,21 @@ http://www.douzhicloud.site:35455/mgtv/644368373.m3u8
 https://stream1.freetv.fun/2a139391dea1353d84c78bb29512d3a91ed796950bf8ca94d14970a5f870592a.m3u8
 #https://stream1.freetv.fun/6abed078fa8d7606338f9cd81d2a463ebdaf8f792faf54e1527072db7d4e4cda.m3u8
 
+#EXTINF:-1 group-title="电影",末日电影合集
+http://43.138.0.72:35455/yy/1354889019
+
+#EXTINF:-1 group-title="电影",神乐华语影院
+http://tc-tct.douyucdn2.cn/dyliveflv1a/85894rmovieChow_4000.xs?wsAuth=ba1c90644d5727f7eff2d821807aceb6&token=web-h5-90270207-85894-853ec75fcb0c6ecaca17aa65580152fde64a0f1c44c269f0&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=hw
+
+#EXTINF:-1 group-title="电影",神乐欧美影院
+http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+
+#EXTINF:-1 group-title="电影",西游记续集
+http://zzy789.xyz/douyu1.php?id=3113309
+
+#EXTINF:-1 group-title="电影",小鬼华语影院
+http://tc-tct.douyucdn2.cn/dyliveflv1a/3928r9p0BHMDG_2000.xs?wsAuth=3c48b706fe90d736d90b5622adfc09d2&token=web-h5-0-3928-15d95fcfde11a749199abfc5ac7bdee6727c6402febadfb8&logo=0&expire=0&did=24482b48b98804f2b0a5b17400041701
+
 #EXTINF:-1 group-title="电影",AXN
 https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
 
@@ -768,17 +778,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 group-title="电影",[SD]movie movie==
 https://stream1.freetv.fun/822472620e1a8c15f76d97d7c7a5f0a28e5cc7a8377e3b64e124c519a31837d2.ctv
-
-#EXTINF:-1 group-title="电影",末日电影合集
-http://43.138.0.72:35455/yy/1354889019
-#EXTINF:-1 group-title="电影",神乐华语影院
-http://tc-tct.douyucdn2.cn/dyliveflv1a/85894rmovieChow_4000.xs?wsAuth=ba1c90644d5727f7eff2d821807aceb6&token=web-h5-90270207-85894-853ec75fcb0c6ecaca17aa65580152fde64a0f1c44c269f0&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=hw
-#EXTINF:-1 group-title="电影",神乐欧美影院
-http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 group-title="电影",西游记续集
-http://zzy789.xyz/douyu1.php?id=3113309
-#EXTINF:-1 group-title="电影",小鬼华语影院
-http://tc-tct.douyucdn2.cn/dyliveflv1a/3928r9p0BHMDG_2000.xs?wsAuth=3c48b706fe90d736d90b5622adfc09d2&token=web-h5-0-3928-15d95fcfde11a749199abfc5ac7bdee6727c6402febadfb8&logo=0&expire=0&did=24482b48b98804f2b0a5b17400041701
 
 #EXTINF:-1 group-title="电影",[HD]celestial movies *wj
 https://stream1.freetv.fun/614de5afc73063bbb39d849a4f2b4e268cc8ae751338ac7cef130f05d6e26916.ctv
