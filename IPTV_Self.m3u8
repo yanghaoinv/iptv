@@ -532,7 +532,7 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="台湾频道",TW 美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
-#EXTINF:-1 group-title="",HK 美亚电影 [HD]
+#EXTINF:-1 group-title="电影频道",HK 美亚电影 [HD]
 https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8
 https://stream1.freetv.fun/42b1fc4ec1e503820acd3e2c367e0c00b12fcf08340ec5674fa22b0c8260581c.ctv
 http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
@@ -609,16 +609,16 @@ https://s2.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
 https://s2.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
 
 
-#
-#EXTINF:-1 group-title="",AXN
+#电影频道
+#EXTINF:-1 group-title="电影频道",AXN
 https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
 
-#EXTINF:-1 group-title="",美国 HBO
+#EXTINF:-1 group-title="电影频道",美国 HBO
 https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
 
-#EXTINF:-1 group-title="",印度 宝莱坞Bollywood HD
+#EXTINF:-1 group-title="电影频道",印度 宝莱坞Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:-1 group-title="",[SD]movie movie==
+#EXTINF:-1 group-title="电影频道",[SD]movie movie==
 https://stream1.freetv.fun/822472620e1a8c15f76d97d7c7a5f0a28e5cc7a8377e3b64e124c519a31837d2.ctv
 #EXTINF:-1 group-title="电影频道",末日电影合集
 http://43.138.0.72:35455/yy/1354889019
