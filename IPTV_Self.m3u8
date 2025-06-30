@@ -426,9 +426,7 @@ https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 #http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 #https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.ctv
-
-#EXTINF:-1 group-title="香港澳门",HK 明珠台
-https://s2.m16tv.cfd/aktv/CH-2/AKTV.m3u8
+#https://s2.m16tv.cfd/aktv/CH-2/AKTV.m3u8
 #https://stream1.freetv.fun/4db377997e788111dc3a7a47fec67132e36bd8221c27f01f0d14ae82d86bc4ff.ctv
 #https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.m3u8
 #https://stream1.freetv.fun/4db377997e788111dc3a7a47fec67132e36bd8221c27f01f0d14ae82d86bc4ff.ctv
@@ -547,9 +545,6 @@ http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 group-title="台湾频道",TW 美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
-#EXTINF:-1 group-title="台湾频道",TW 美亚C+
-http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-
 #EXTINF:-1 group-title="电影",HK 美亚电影 [HD]
 https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8
 #https://stream1.freetv.fun/42b1fc4ec1e503820acd3e2c367e0c00b12fcf08340ec5674fa22b0c8260581c.ctv
@@ -602,15 +597,6 @@ https://live.streamingfast.net/osmflivech1.m3u8
 
 #EXTINF:-1 group-title="台湾频道",TW Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-
-#EXTINF:-1 group-title="台湾频道",TW 中天亚洲
-https://stream1.freetv.fun/12da4156d696432109cb877fcb1f070439e598b1467aa510bb1ade2e02983d64.m3u8
-
-#EXTINF:-1 group-title="台湾频道",TW 中天新闻频高
-https://stream1.freetv.fun/cb4c0a97202fbb0d76788e60758b98f8ea1753cff7ab3ba25c2bfb9b815ecac2.m3u8
-
-#EXTINF:-1 group-title="台湾频道",TW 中天新闻频加
-https://stream1.freetv.fun/ed79f0e0b3239f6d400bab53fb259f7f53b13c4621dfb82f35647ec1d84f819e.m3u8
 
 #EXTINF:-1 group-title="台湾频道",TW 台视新闻
 https://stream1.freetv.fun/6d45c852234adf9247cfc6eb9b1682de0defb8f84183c6dcf6a39bb24c07af32.m3u8
