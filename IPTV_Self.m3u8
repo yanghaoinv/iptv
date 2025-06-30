@@ -216,15 +216,14 @@ http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/央视台球.png" group-title="央视频道",CCTV央视台球
 http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
 
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CGTN纪录.png" group-title="央视频道",CGTN记录
+https://0472.org/hls/cgtnd.m3u8
+#http://39.134.65.106/PLTV/88888888/224/3221225509/1.m3u8
+
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CGTN.png" group-title="央视频道",CGTN英语
 https://0472.org/hls/cgtn.m3u8
 #http://39.134.65.106/PLTV/88888888/224/3221225510/1.m3u8
 #http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CGTN纪录.png" group-title="央视频道",CGTN记录
-https://0472.org/hls/cgtnd.m3u8
-#https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-#http://39.134.65.106/PLTV/88888888/224/3221225509/1.m3u8
 
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CGTN俄语.png" group-title="央视频道",CGTN俄语
 https://0472.org/hls/cgtne.m3u8
