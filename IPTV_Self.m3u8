@@ -9,6 +9,12 @@ https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 group-title="国际频道",英国 BBC News (North America) (1080p)
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BloombergTV.us@Asia" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia (720p)
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us@AsiaLiveEvent" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia Live Event (720p)
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+
 #EXTINF:-1 group-title="国际频道",卡塔尔 Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
@@ -60,6 +66,7 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="国际频道",新加坡 CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+https://stream1.freetv.fun/d8b66990da8f29a9eae8fef9add9cb28392dc19ba4c56ed61149c88dda834bc9.m3u8
 
 #EXTINF:-1 group-title="国际频道",日本 ANN News
 https://s2.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
@@ -550,10 +557,17 @@ http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct
 #EXTINF:-1 group-title="台湾频道",TW 爱尔达影剧355
 https://stream1.freetv.fun/8b1ef976b314ce76f7a659b187e36fb6feabe376e2b9fd05c682f386092e487c.m3u8
 
-#EXTINF:-1 group-title="台湾频道",TW Channel 8 HD
-https://s1.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 group-title="国外频道",SG Channel 5 HD
+https://stream1.freetv.fun/de561477a428dd9adfe2ab1536f46121f21b80af7ec7efa22f794abf40b541a9.m3u8
 
-#EXTINF:-1 group-title="台湾频道",TW Channel U HD
+#EXTINF:-1 group-title="台湾频道",TW M-5 HD（少儿）
+https://stream1.freetv.fun/cddfab837d226df50f5fcde41535cbf17a2baa0bfde614113795f085c40b0282.m3u8
+
+#EXTINF:-1 group-title="国外频道",SG Channel 8 HD
+https://s1.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
+https://stream1.freetv.fun/82b3b5d8a546ef5883bd4b19e425b0b5b8a5133c36aba32abe0230a36d448b50.m3u8
+
+#EXTINF:-1 group-title="台湾频道",TW M-U HD
 https://s1.m16tv.cfd/aktv/channeluhd/AKTV.m3u8
 
 #EXTINF:-1 group-title="台湾频道",TW 人间卫视
@@ -749,6 +763,8 @@ http://tc-tct.douyucdn2.cn/dyliveflv1a/3928r9p0BHMDG_2000.xs?wsAuth=3c48b706fe90
 
 #EXTINF:-1 group-title="电影",AXN
 https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
+https://stream1.freetv.fun/6c23f5c513635c4d7d57de65ddd57fd453ab5042c3064b09aad18902b317a9a6.ctv
+https://stream1.freetv.fun/752bc3a1dae81eb76ce5cf8d1cb186d52aafb5a8beab6dec230a734b41795332.ctv
 
 #EXTINF:-1 group-title="电影",美国 HBO
 https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
@@ -779,6 +795,10 @@ https://stream1.freetv.fun/584560d046586ef25b3db8c66cccb43cb8e31119e1c018a96817e
 https://stream1.freetv.fun/c2966b4706b40a9e23ab21976e69f508efdb808997e9cd122c27fca759dc7c83.ctv
 https://stream1.freetv.fun/ba16f740bc5a0476921217cfb346d866f1b15dfb919ed250d14e2772815cdc48.ctv
 https://stream1.freetv.fun/16ab51f0f6d7f230e6fbcd60dc58d3577a0f7468f38f274478c56d28b74fe13e.ctv
+
+#EXTINF:-1 tvg-name="THRILL" tvg-id="368339" tvg-country="Singapore" tvg-language="Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movies",[VGA]thrill *wj
+https://stream1.freetv.fun/0e15a8df047f59fd17f6e58e3f61259ee0312c91738331f26548acdcb7b29621.ctv
+https://stream1.freetv.fun/2c92b5d6cc32bbf263b9ec6f876abc6104b49b92a1d5a773e1b60edcde945b5b.m3u8
 
 #EXTINF:-1 group-title="电影",Cinemax(usa) *s
 https://stream1.freetv.fun/0f7bf5ba2074a022665ffa9df666733d0c98a2c7fd251a0bb0c6ca485ce85117.m3u8
@@ -914,6 +934,13 @@ https://stream1.freetv.fun/104efb34664427832e9ec017c706b0709037742a404a968d6b6f8
 
 #EXTINF:-1 group-title="电影",[HD]HBO Hits
 https://stream1.freetv.fun/a949bab19a504c3d0bf89009533afbaa4f8ef90377669e21d052e02a1c1e6d0a.m3u8
+
+#EXTINF:-1 tvg-name="HBO HITS(SG)" tvg-id="" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/08/16/large/20240816042053151651_41.png" group-title="Movies",[BD]hbo hits 1
+https://stream1.freetv.fun/20d497c9af4ff6be77e73d4a4787eb9416139310bed3a46b01f986776dcc4f6b.m3u8
+
+#EXTINF:-1 tvg-name="HBO HITS(SG)" tvg-id="" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/08/16/large/20240816042053151651_41.png" group-title="Movies",[HD]hbo hits(sg)
+https://stream1.freetv.fun/9ddc91658b86bbd6008fc3d8c58edb84b98918d997015a4808ee5a1262750b93.ctv
+
 
 #EXTINF:-1 group-title="电影",[SD]HBO Signature(usa)
 https://stream1.freetv.fun/f47b1ea2710ccf0777ef1385fff2d4872f078e52de220dea98a903084d4357e0.ctv
@@ -1211,6 +1238,10 @@ https://stream1.freetv.fun/7f4f54d6737604bdd133dcc135e229cad5bba117b01d958202cb7
 #EXTINF:-1 group-title="电影",Sky Cinema--
 https://stream1.freetv.fun/cb1bc159ae0d87a0a7a6b115a9c53204096a8d44bbf5b67009ae01fbc93e1ef0.ctv
 https://stream1.freetv.fun/b8190fec0c6417df7b6d55e513b7efff97a91d32cb368aeefef05dc8a5765bf0.ctv
+
+#EXTINF:-1 tvg-name="Cinema World" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000625090581_44.png" group-title="Movies",[SD]cinema world *s[geo-blocked]
+https://stream1.freetv.fun/d66dd148396c0892360aa723f0bc0253fcb39eb05a71569292034dce677c6fb9.m3u8
+
 
 #EXTINF:-1 group-title="电影",[HD]Sky Cinema Action==
 https://stream1.freetv.fun/8062602f59fcfb7cf6b5391b909ddb7b1e3e21f1843f420385674a6564050887.ctv
