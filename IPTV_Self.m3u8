@@ -188,35 +188,35 @@ http://39.135.135.88/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/inde
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV4K.png" group-title="央视频道",CCTV4K
 http://fn.tmde.top:35455/nptv/cctv4k.m3u8
 
-#EXTINF:-1 group-title="央视频道",CCTV兵器科技
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV兵器科技.png" group-title="央视频道",CCTV兵器科技
 http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
 
-#EXTINF:-1 group-title="央视频道",CCTV世界地理
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV世界地理.png" group-title="央视频道",CCTV世界地理
 http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
 
-#EXTINF:-1 group-title="央视频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV风云足球.png" group-title="央视频道",CCTV风云足球
 http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
 #https://stream1.freetv.fun/9291a8bf5b1268d7256fd7c872552083de65b22dc29400b773d9ec5453478fe9.m3u8
 
-#EXTINF:-1 group-title="央视频道",CCTV风云音乐
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV风云音乐.png" group-title="央视频道",CCTV风云音乐
 http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
 
-#EXTINF:-1 group-title="央视频道",CCTV风云剧场
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV风云剧场.png" group-title="央视频道",CCTV风云剧场
 http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
 
-#EXTINF:-1 group-title="央视频道",CCTV第一剧场
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV第一剧场.png" group-title="央视频道",CCTV第一剧场
 http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
 
-#EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
 http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
 
-#EXTINF:-1 group-title="央视频道",CCTV文化精品
+#EXTINF:-1 tvg-name="CCTV文化精品" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV文化精品.png" group-title="央视频道",CCTV文化精品
 http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
 
-#EXTINF:-1 group-title="央视频道",CCTV央视台球
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV央视台球.png" group-title="央视频道",CCTV央视台球
 http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
 
-#EXTINF:-1 group-title="央视频道",CGTN
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CGTN.png" group-title="央视频道",CGTN
 http://39.134.65.106/PLTV/88888888/224/3221225510/1.m3u8
 
 #EXTINF:-1 group-title="央视频道",CGTN英语
