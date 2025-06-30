@@ -76,6 +76,12 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="国际频道",巴西 ric plus
 https://stream1.freetv.fun/7ad21338860fe295e090d166163d0a1881eb006b2d84f887ba867b5d13751711.m3u8
 
+#EXTINF:-1 group-title="国际频道",[HD]mech plus
+https://stream1.freetv.fun/5820e487e8d8a390c149c1197fbec044d733def9f7ca1a1e1d7914a46db67787.m3u8
+
+#EXTINF:-1 group-title="国际频道",[BD]icc plus
+https://stream1.freetv.fun/b019c6ef2fe71105503633ec256f5449fa5675585d7570816210a109536f8382.m3u8
+
 #EXTINF:-1 group-title="国际频道",朝鲜恩情台
 https://s2.m16tv.cfd/aktv3/CH-0/AKTV.m3u8
 
@@ -412,10 +418,11 @@ http://39.134.65.106/PLTV/88888888/224/3221225957/1.m3u8
 #EXTINF:-1 group-title="香港澳门",HK 天映电影
 https://s1.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
 
-#EXTINF:-1 group-title="香港澳门",HK 千禧经典
+#EXTINF:-1 group-title="香港澳门",HK TVB千禧经典
 http://php.jdshipin.com/smt.php?id=TvbClassic
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 http://cdn9.163189.xyz/smt3.1.1.php?id=TvbClassic
+https://stream1.freetv.fun/018dfba817d651e046de882f0510d850367d9d2c25d2a882296c43ef6340de5d.ctv
 
 #EXTINF:-1 group-title="香港澳门",HK 亚洲电视
 https://stream1.freetv.fun/29a6a177ae45ff9aed3821d33892a2779fe55e485578ab82f4e3520d43b5efac.ctv
@@ -428,6 +435,10 @@ https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
 
 #EXTINF:-1 group-title="香港澳门",HK TVB明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.m3u8
+https://stream1.freetv.fun/4db377997e788111dc3a7a47fec67132e36bd8221c27f01f0d14ae82d86bc4ff.ctv
+https://stream1.freetv.fun/fc542dddf6d96335d494c255d5df19fc0f2c61c46779dd9fe85e54b1559c3460.ctv
+
 
 #EXTINF:-1 group-title="香港澳门",HK TVB翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
@@ -456,27 +467,46 @@ http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
 #EXTINF:-1 group-title="香港澳门",HK 香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+https://stream1.freetv.fun/34f6acf29bad26306c95cfa1074b9da576841c52efc6ea4f7f523a4df83f3d36.m3u8
+https://stream1.freetv.fun/341ccd5e93f4fade0e7db42bf55f61e6438c9fc9e5be23b9a484a1da21ec079b.ctv
+https://stream1.freetv.fun/7dd43876bc4752a3b299521f4a85dfa7555b350d39c605cf6a408f6f31687a62.m3u8
+https://stream1.freetv.fun/7a042cff75f5f9691fe1825f6cc2038b01bfdd6c7b4a25b24a03f067816e51ca.m3u8
+https://stream1.freetv.fun/17bfdc9eb5ec56f6dc8839c56f3078234b490e441862758d5b76097fb7968ca9.m3u8
+https://stream1.freetv.fun/8fb5ad980db9bb85194eb24010e6c655da429a3426108c336d13dcd848e94e93.ctv
+https://stream1.freetv.fun/e06e2245cd56eb5f8705bdbc4a622a8b6be2c249723c987bedf610bc0a7b35df.m3u8
 
 #EXTINF:-1 group-title="香港澳门",HK 凤凰香港
 https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
 
 #EXTINF:-1 group-title="香港澳门",HK 凤凰中文
 https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
+https://stream1.freetv.fun/a3cfcb6f4429baaa2f182afaf1ab55003d71ca680ca0afd61968d36b33f26f03.m3u8
 
 #EXTINF:-1 group-title="香港澳门",HK 凤凰资讯
 https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
+https://stream1.freetv.fun/9cb86e77a2a19ece5a5ee90f18c9dd578dab4a8f3a0844fbd56b6a87db6746fb.m3u8
 
 #EXTINF:-1 group-title="香港澳门",HK 星空卫视
-https://stream1.freetv.fun/f56c9bcb95c7e6d158fe059bc1a64418c050b268ecb63c9f3257ee2307b90bc1.ctv
+https://stream1.freetv.fun/a2764fcf64d61e4ea32f4f9972a630f99d2d3fac7cef4d2afb96818616f8e9d7.m3u8
+
+#EXTINF:-1 group-title="香港澳门",[SD]凤凰电影
+https://stream1.freetv.fun/75cf3fd3b2e39cb22ee433381aeafdfabd12682b75b524b21992dc0b7284fcaa.m3u8
 
 #EXTINF:-1 group-title="香港澳门",HK 港台电视 31
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+https://stream1.freetv.fun/bded2077398ea5c4ee64a82c4c0e528f18b84a7a9ca0b775b8b3fd954bae99c3.m3u8
+https://stream1.freetv.fun/9ccca5b5d3261ef5d3c2457340f8b0211a0271924c120d9631185b4911b06e59.ctv
+https://stream1.freetv.fun/652cd63c67d1b74aeb695aff3b6bb1cb9f3c239f4a047200e243aed08fd351de.ctv
 
 #EXTINF:-1 group-title="香港澳门",HK 港台电视 32
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+https://stream1.freetv.fun/cc4dd92e89558b8ee7145804864646a7fbc9c546dfdf2666926f2732e88c8c85.ctv
+https://stream1.freetv.fun/7a19bf73483aaf649c7ba251ae8fd360e1d19439f04f37ea3e9a08841678e284.ctv
 
 #EXTINF:-1 group-title="香港澳门",HK TVB Plus
 https://s2.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
+https://stream1.freetv.fun/5c71ddc1ee039d8057898c807e9cda2dfc61c7534d017fbf7c0de04c5c58c890.ctv
+https://stream1.freetv.fun/6ade45822dc9265d4aba6c1854bfd6a2635b13d96624929150024f662eca25d7.m3u8
 
 #EXTINF:-1 group-title="香港澳门",HK 亚洲电视
 https://stream1.freetv.fun/29a6a177ae45ff9aed3821d33892a2779fe55e485578ab82f4e3520d43b5efac.ctv
@@ -492,19 +522,29 @@ https://stream1.freetv.fun/5fe3cb2358c4e355059b3dcc97b64685b5fc5e8ee264f54624bd4
 
 #EXTINF:-1 group-title="香港澳门",MC 澳视资讯
 http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
+https://stream1.freetv.fun/de4df17b6bdb5a7ef154d3ebc63b99ed5bb674f249bcf64c88cedc91aa53f0c1.m3u8
 
 #EXTINF:-1 group-title="香港澳门",MC 莲花卫视
 http://8.138.7.223/tv/lotustv.m3u8
+https://stream1.freetv.fun/86d5fbc137de996ef87f330ef4e7fab1e7bd7701f52c0297beabe58fac86df0b.m3u8
 
 #EXTINF:-1 group-title="香港澳门",MC 澳视澳门
 http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
+https://stream1.freetv.fun/d2e26396288b9f363e26cc630f13e4f1fde8fae958a0bde4ff2dac09f9a6ec9c.m3u8
+https://stream1.freetv.fun/cab1c25d8ce58c2b298aa1fefd97db26c2f1fa4638c6e2474b69bc5c11949ad3.m3u8
+https://stream1.freetv.fun/03548f52945ed6c816a972deb0746e7e30892babff59c022f2927b21ed3baed0.m3u8
+
+#EXTINF:-1 group-title="香港澳门",[BD]澳视体育
+https://stream1.freetv.fun/11b0ee9026108d5eb2cfe40a42c071e49a7cde6b4302d06e58b24d36686d4429.m3u8
 
 #EXTINF:-1 group-title="台湾频道",TW 美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+https://stream1.freetv.fun/99f3233e5bc35124a936ce032ec14fdf9c2ad50336346faaa4075affd912ca6e.m3u8
 
 #EXTINF:-1 group-title="电影",HK 美亚电影 [HD]
 https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8
 https://stream1.freetv.fun/42b1fc4ec1e503820acd3e2c367e0c00b12fcf08340ec5674fa22b0c8260581c.ctv
+https://stream1.freetv.fun/b4e2750658d9c1cb014f00a2ea06855e5e0c9c245e07825f8a81901237ae5a62.ctv
 http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 
 #EXTINF:-1 group-title="台湾频道",TW 爱尔达影剧355
