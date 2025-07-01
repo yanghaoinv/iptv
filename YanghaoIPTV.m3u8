@@ -466,9 +466,6 @@ http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct
 #EXTINF:-1 group-title="香港频道",HK 经典电影
 https://stream1.freetv.fun/68b1246ebb6ebb9be45a97042d751c9f214ed4baa3ecd11827101243551b5fdc.ctv
 
-#EXTINF:-1 group-title="香港频道",HK Animax
-https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
-
 #EXTINF:-1 group-title="香港频道",HK TVB明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 http://php.jdshipin.com:8880/iptv.php?id=mzt
@@ -634,6 +631,9 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=520138
 #EXTINF:-1 group-title="少儿频道",新动漫
 http://nas.hssvm.com:8888/udp/225.1.1.216:5002
 
+#EXTINF:-1 group-title="少儿频道",HK Animax
+https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
+
 #EXTINF:-1 group-title="少儿频道",HK Viutv Six（少儿）
 https://stream1.freetv.fun/5fe3cb2358c4e355059b3dcc97b64685b5fc5e8ee264f54624bd4c2a75477ade.ctv
 
@@ -700,8 +700,29 @@ https://stream1.freetv.fun/15258d3d4e90d77fee94d248c85f1f13dc842bf3f9bf804e3884c
 #EXTINF:-1 group-title="电影频道",末日电影合集
 http://43.138.0.72:35455/yy/1354889019
 
-#EXTINF:-1 group-title="电影频道",[HD]天映频道 Celestial Movies E
+#EXTINF:-1 group-title="电影频道",HK 天映电影
+https://s1.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
+https://stream1.freetv.fun/226b412bfdeef100d39a3a86bfebe3dd88a6c1f9dc12d5df3d5cbc24c2c5e6dd.m3u8
+
+#EXTINF:-1 group-title="电影频道",HK 天映频道 Celestial Movies E
 https://stream1.freetv.fun/9a99817c35097078d86913b4fdd8fae692c9b517b429f1dd6e1c16ff7cf9af60.ctv
+
+#EXTINF:-1 group-title="电影频道",HK TVB千禧经典
+http://php.jdshipin.com/smt.php?id=TvbClassic
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+http://cdn9.163189.xyz/smt3.1.1.php?id=TvbClassic
+https://stream1.freetv.fun/018dfba817d651e046de882f0510d850367d9d2c25d2a882296c43ef6340de5d.ctv
+
+#EXTINF:-1 group-title="电影频道",HK 美亚电影台
+https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8
+
+#EXTINF:-1 group-title="电影频道",HK 美亚电影台 [HD]
+https://stream1.freetv.fun/42b1fc4ec1e503820acd3e2c367e0c00b12fcf08340ec5674fa22b0c8260581c.ctv
+https://stream1.freetv.fun/b4e2750658d9c1cb014f00a2ea06855e5e0c9c245e07825f8a81901237ae5a62.ctv
+http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+
+#EXTINF:-1 group-title="电影频道",HK 经典电影
+https://stream1.freetv.fun/68b1246ebb6ebb9be45a97042d751c9f214ed4baa3ecd11827101243551b5fdc.ctv
 
 #EXTINF:-1 group-title="电影频道",AXN
 https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
@@ -1099,6 +1120,10 @@ https://stream1.freetv.fun/882bc685fa04beeff426d79c318c560a138f54d78a525ab44ce1a
 https://stream1.freetv.fun/587e0b729b439f3384181b3cac10603b4e22d56fd636aaf5aa8f1cf68dfae156.ctv
 
 #电视剧频道
+#EXTINF:-1 group-title="电视剧频道",HK TVB星河
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
+
 #EXTINF:-1 group-title="电视剧频道",爱情喜剧
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8393829412396288037&livemode=1&stbId=yu&mode=1&$4M FHD
 
