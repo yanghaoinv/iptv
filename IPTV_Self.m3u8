@@ -655,13 +655,10 @@ https://stream1.freetv.fun/99f3233e5bc35124a936ce032ec14fdf9c2ad50336346faaa4075
 #EXTINF:-1 group-title="台湾频道",TW 爱尔达影剧355
 https://stream1.freetv.fun/8b1ef976b314ce76f7a659b187e36fb6feabe376e2b9fd05c682f386092e487c.m3u8
 
-#EXTINF:-1 group-title="国外频道",SG Channel 5 HD
-https://stream1.freetv.fun/de561477a428dd9adfe2ab1536f46121f21b80af7ec7efa22f794abf40b541a9.m3u8
-
 #EXTINF:-1 group-title="台湾频道",TW M-5 HD（少儿）
 https://stream1.freetv.fun/cddfab837d226df50f5fcde41535cbf17a2baa0bfde614113795f085c40b0282.m3u8
 
-#EXTINF:-1 group-title="国外频道",SG Channel 8 HD
+#EXTINF:-1 group-title="台湾频道",SG Channel 8 HD
 https://s1.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
 https://stream1.freetv.fun/82b3b5d8a546ef5883bd4b19e425b0b5b8a5133c36aba32abe0230a36d448b50.m3u8
 
