@@ -673,11 +673,6 @@ http://39.134.65.106/PLTV/88888888/224/3221225555/1.m3u8
 http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8103864434730665389&livemode=1&stbId=yu&mode=1&$4M FHD
 
-#EXTINF:-1 group-title="电影频道",惊悚悬疑
-http://39.134.65.106/PLTV/88888888/224/3221225553/1.m3u8
-http://39.134.65.89/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7151256057701199617&livemode=1&stbId=yu&mode=1&$4M FHD
-
 #EXTINF:-1 group-title="电影频道",CHC动作电影
 http://www.douzhicloud.site:35455/mgtv/644368714.m3u8
 https://stream1.freetv.fun/2a139391dea1353d84c78bb29512d3a91ed796950bf8ca94d14970a5f870592a.m3u8
