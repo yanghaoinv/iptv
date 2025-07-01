@@ -425,6 +425,97 @@ http://39.134.65.106/PLTV/88888888/224/3221225514/1.m3u8
 #EXTINF:-1 group-title="地方卫视",云南卫视
 http://39.134.65.106/PLTV/88888888/224/3221225957/1.m3u8
 
+#数字频道
+#EXTINF:-1 group-title="数字频道",黑莓电影
+http://39.134.65.106/PLTV/88888888/224/3221225681/1.m3u8
+http://39.135.133.138/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+
+#EXTINF:-1 group-title="数字频道",爱情喜剧
+http://39.134.65.82/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+
+#EXTINF:-1 group-title="数字频道",精品大剧
+http://39.134.65.106/PLTV/88888888/224/3221225536/1.m3u8
+
+#EXTINF:-1 group-title="数字频道",中国功夫
+http://39.134.65.106/PLTV/88888888/224/3221225604/1.m3u8
+
+#EXTINF:-1 group-title="数字频道",超级电视剧
+http://39.134.65.106/PLTV/88888888/224/3221225637/1.m3u8
+http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+
+#EXTINF:-1 group-title="数字频道",超级电影
+http://39.134.65.106/PLTV/88888888/224/3221225644/1.m3u8
+http://39.134.65.3/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+
+#EXTINF:-1 group-title="数字频道",惊悚悬疑
+http://39.134.65.106/PLTV/88888888/224/3221225553/1.m3u8
+http://39.134.65.89/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+
+#EXTINF:-1 group-title="数字频道",超级体育
+http://39.134.65.106/PLTV/88888888/224/3221225635/1.m3u8
+http://39.134.65.66/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+
+#EXTINF:-1 group-title="数字频道",精品体育
+http://39.134.65.106/PLTV/88888888/224/3221225526/1.m3u8
+
+#EXTINF:-1 group-title="数字频道",超级综艺
+http://39.134.65.106/PLTV/88888888/224/3221225642/1.m3u8
+http://39.134.65.4/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+
+#EXTINF:-1 group-title="数字频道",潮妈辣妹
+http://39.134.65.70/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+
+#EXTINF:-1 group-title="数字频道",东北热剧
+http://39.134.65.74/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+
+#EXTINF:-1 group-title="数字频道",动作电影
+http://39.134.65.106/PLTV/88888888/224/3221225555/1.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+
+#EXTINF:-1 group-title="数字频道",古装剧场
+http://39.134.65.106/PLTV/88888888/224/3221225524/1.m3u8
+http://39.134.65.73/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+
+#EXTINF:-1 group-title="数字频道",家庭剧场
+http://39.134.65.106/PLTV/88888888/224/3221225538/1.m3u8
+http://39.134.65.3/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+
+#EXTINF:-1 group-title="数字频道",金牌综艺
+http://39.134.65.106/PLTV/88888888/224/3221225525/1.m3u8
+http://39.135.135.24/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+
+#EXTINF:-1 group-title="数字频道",军旅剧场
+http://39.134.65.106/PLTV/88888888/224/3221225560/1.m3u8
+http://39.134.65.76/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+
+#EXTINF:-1 group-title="数字频道",纪录片1
+http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
+
+#EXTINF:-1 group-title="数字频道",纪录片2
+http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8
+
+#EXTINF:-1 group-title="数字频道",纪录片3
+http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8
+
+#EXTINF:-1 group-title="数字频道",求索纪录
+http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8
+http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
+
+#EXTINF:-1 group-title="数字频道",新动漫
+http://nas.hssvm.com:8888/udp/225.1.1.216:5002
+
+#EXTINF:-1 group-title="数字频道",晴彩青少
+http://39.134.65.106/PLTV/88888888/224/3221226053/1.m3u8
+
+#EXTINF:-1 group-title="数字频道",晴彩篮球
+http://39.134.65.106/PLTV/88888888/224/3221226027/1.m3u8
+
+#EXTINF:-1 group-title="数字频道",晴彩篮球
+http://39.134.65.106/PLTV/88888888/224/3221225895/1.m3u8
+
+#EXTINF:-1 group-title="数字频道",晴彩竞技
+http://39.134.65.106/PLTV/88888888/224/3221225897/1.m3u8
+
 #香港频道
 #EXTINF:-1 group-title="香港频道",HK 天映电影
 https://s1.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
@@ -620,97 +711,6 @@ https://s2.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
 
 #EXTINF:-1 group-title="台湾频道",TW 东森电影
 https://s2.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
-
-#数字频道
-#EXTINF:-1 group-title="数字频道",黑莓电影
-http://39.134.65.106/PLTV/88888888/224/3221225681/1.m3u8
-http://39.135.133.138/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-
-#EXTINF:-1 group-title="数字频道",爱情喜剧
-http://39.134.65.82/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-
-#EXTINF:-1 group-title="数字频道",精品大剧
-http://39.134.65.106/PLTV/88888888/224/3221225536/1.m3u8
-
-#EXTINF:-1 group-title="数字频道",中国功夫
-http://39.134.65.106/PLTV/88888888/224/3221225604/1.m3u8
-
-#EXTINF:-1 group-title="数字频道",超级电视剧
-http://39.134.65.106/PLTV/88888888/224/3221225637/1.m3u8
-http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-
-#EXTINF:-1 group-title="数字频道",超级电影
-http://39.134.65.106/PLTV/88888888/224/3221225644/1.m3u8
-http://39.134.65.3/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-
-#EXTINF:-1 group-title="数字频道",惊悚悬疑
-http://39.134.65.106/PLTV/88888888/224/3221225553/1.m3u8
-http://39.134.65.89/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-
-#EXTINF:-1 group-title="数字频道",超级体育
-http://39.134.65.106/PLTV/88888888/224/3221225635/1.m3u8
-http://39.134.65.66/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-
-#EXTINF:-1 group-title="数字频道",精品体育
-http://39.134.65.106/PLTV/88888888/224/3221225526/1.m3u8
-
-#EXTINF:-1 group-title="数字频道",超级综艺
-http://39.134.65.106/PLTV/88888888/224/3221225642/1.m3u8
-http://39.134.65.4/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-
-#EXTINF:-1 group-title="数字频道",潮妈辣妹
-http://39.134.65.70/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-
-#EXTINF:-1 group-title="数字频道",东北热剧
-http://39.134.65.74/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-
-#EXTINF:-1 group-title="数字频道",动作电影
-http://39.134.65.106/PLTV/88888888/224/3221225555/1.m3u8
-http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-
-#EXTINF:-1 group-title="数字频道",古装剧场
-http://39.134.65.106/PLTV/88888888/224/3221225524/1.m3u8
-http://39.134.65.73/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-
-#EXTINF:-1 group-title="数字频道",家庭剧场
-http://39.134.65.106/PLTV/88888888/224/3221225538/1.m3u8
-http://39.134.65.3/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-
-#EXTINF:-1 group-title="数字频道",金牌综艺
-http://39.134.65.106/PLTV/88888888/224/3221225525/1.m3u8
-http://39.135.135.24/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-
-#EXTINF:-1 group-title="数字频道",军旅剧场
-http://39.134.65.106/PLTV/88888888/224/3221225560/1.m3u8
-http://39.134.65.76/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-
-#EXTINF:-1 group-title="数字频道",纪录片1
-http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
-
-#EXTINF:-1 group-title="数字频道",纪录片2
-http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8
-
-#EXTINF:-1 group-title="数字频道",纪录片3
-http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8
-
-#EXTINF:-1 group-title="数字频道",求索纪录
-http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
-
-#EXTINF:-1 group-title="数字频道",新动漫
-http://nas.hssvm.com:8888/udp/225.1.1.216:5002
-
-#EXTINF:-1 group-title="数字频道",晴彩青少
-http://39.134.65.106/PLTV/88888888/224/3221226053/1.m3u8
-
-#EXTINF:-1 group-title="数字频道",晴彩篮球
-http://39.134.65.106/PLTV/88888888/224/3221226027/1.m3u8
-
-#EXTINF:-1 group-title="数字频道",晴彩篮球
-http://39.134.65.106/PLTV/88888888/224/3221225895/1.m3u8
-
-#EXTINF:-1 group-title="数字频道",晴彩竞技
-http://39.134.65.106/PLTV/88888888/224/3221225897/1.m3u8
 
 #少儿频道
 #EXTINF:-1 group-title="少儿频道",哈哈炫动
