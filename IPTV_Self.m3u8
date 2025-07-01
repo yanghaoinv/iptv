@@ -93,9 +93,6 @@ https://stream1.freetv.fun/5820e487e8d8a390c149c1197fbec044d733def9f7ca1a1e1d791
 #EXTINF:-1 group-title="国际频道",[BD]icc plus
 https://stream1.freetv.fun/b019c6ef2fe71105503633ec256f5449fa5675585d7570816210a109536f8382.m3u8
 
-#EXTINF:-1 group-title="国际频道",朝鲜恩情台
-https://s2.m16tv.cfd/aktv3/CH-0/AKTV.m3u8
-
 #央视频道
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV1.png" group-title="央视频道",CCTV1综合
 http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
