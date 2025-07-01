@@ -596,7 +596,7 @@ https://stream1.freetv.fun/637ceff2dfb72b24ad6929da061ccf235af38b9469ba999c577b1
 https://s2.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
 
 #少儿频道
-#EXTINF:-1 group-title="NewTV频道",黑莓动画
+#EXTINF:-1 group-title="少儿频道",黑莓动画
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6497762188035533951&livemode=1&stbId=yu&mode=1&$4M FHD
 
 #EXTINF:-1 group-title="少儿频道",哈哈炫动
