@@ -539,9 +539,6 @@ https://s2.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
 https://stream1.freetv.fun/5c71ddc1ee039d8057898c807e9cda2dfc61c7534d017fbf7c0de04c5c58c890.ctv
 https://stream1.freetv.fun/6ade45822dc9265d4aba6c1854bfd6a2635b13d96624929150024f662eca25d7.m3u8
 
-#EXTINF:-1 group-title="电影频道",HK Channel 8
-https://stream1.freetv.fun/82b3b5d8a546ef5883bd4b19e425b0b5b8a5133c36aba32abe0230a36d448b50.m3u8
-
 #EXTINF:-1 group-title="香港频道",HK 耀才财经
 https://stream1.freetv.fun/9372d5d53589816008f331a4592de1cdf0e5eb37cd47a052d60a74be9041e816.m3u8
 
@@ -572,6 +569,8 @@ https://stream1.freetv.fun/8b1ef976b314ce76f7a659b187e36fb6feabe376e2b9fd05c682f
 
 #EXTINF:-1 group-title="台湾频道",TW Channel 8 HD
 https://s1.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
+https://stream1.freetv.fun/82b3b5d8a546ef5883bd4b19e425b0b5b8a5133c36aba32abe0230a36d448b50.m3u8
+https://stream1.freetv.fun/810d506d45bac86c654d113bc57e3047f4dfb304db2376c67a47180507bdc7b6.m3u8
 https://stream1.freetv.fun/82b3b5d8a546ef5883bd4b19e425b0b5b8a5133c36aba32abe0230a36d448b50.m3u8
 
 #EXTINF:-1 group-title="台湾频道",TW M-U HD
@@ -728,9 +727,6 @@ https://stream1.freetv.fun/226b412bfdeef100d39a3a86bfebe3dd88a6c1f9dc12d5df3d5cb
 
 #EXTINF:-1 group-title="电影频道",[SD]Celestial Classic Movies *e
 https://stream1.freetv.fun/46548b192d8d62dfbff211d0b3d3a179c90b7fb6afe8a90e124a94d7d4346d58.ctv
-
-#EXTINF:-1 group-title="电影频道",Channel 8
-https://stream1.freetv.fun/810d506d45bac86c654d113bc57e3047f4dfb304db2376c67a47180507bdc7b6.m3u8
 
 #EXTINF:-1 group-title="电影频道",Cinemax moviemax east *s
 https://stream1.freetv.fun/9688d1b574cdd431a871ad3a2b6fce97073a816f01b2bac131ac15279907d291.m3u8
