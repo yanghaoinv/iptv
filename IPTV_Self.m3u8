@@ -510,23 +510,18 @@ https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
 
 #EXTINF:-1 group-title="香港频道",HK TVB明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+http://php.jdshipin.com:8880/iptv.php?id=mzt
 https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.m3u8
 https://stream1.freetv.fun/4db377997e788111dc3a7a47fec67132e36bd8221c27f01f0d14ae82d86bc4ff.ctv
 https://stream1.freetv.fun/fc542dddf6d96335d494c255d5df19fc0f2c61c46779dd9fe85e54b1559c3460.ctv
 
-
 #EXTINF:-1 group-title="香港频道",HK TVB翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-
-#EXTINF:-1 group-title="香港频道",HK TVB翡翠台
 https://stream1.freetv.fun/2d6d5de01dfd6fdcaaf4fe4b5ab0188eb1849a91fee22cc73276e6737ce055a8.m3u8
 
 #EXTINF:-1 group-title="香港频道",HK TVB华丽翡翠台
 http://php.jdshipin.com/smt.php?id=Tvbjade
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-
-#EXTINF:-1 group-title="香港频道",HK TVB华丽翡翠台（儿童）
-http://php.jdshipin.com:8880/iptv.php?id=mzt
 
 #EXTINF:-1 group-title="香港频道",HK TVB星河
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
@@ -561,11 +556,11 @@ https://stream1.freetv.fun/a3cfcb6f4429baaa2f182afaf1ab55003d71ca680ca0afd61968d
 https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
 https://stream1.freetv.fun/9cb86e77a2a19ece5a5ee90f18c9dd578dab4a8f3a0844fbd56b6a87db6746fb.m3u8
 
-#EXTINF:-1 group-title="香港频道",HK 星空卫视
-https://stream1.freetv.fun/a2764fcf64d61e4ea32f4f9972a630f99d2d3fac7cef4d2afb96818616f8e9d7.m3u8
-
 #EXTINF:-1 group-title="香港频道",[SD]凤凰电影
 https://stream1.freetv.fun/75cf3fd3b2e39cb22ee433381aeafdfabd12682b75b524b21992dc0b7284fcaa.m3u8
+
+#EXTINF:-1 group-title="香港频道",HK 星空卫视
+https://stream1.freetv.fun/a2764fcf64d61e4ea32f4f9972a630f99d2d3fac7cef4d2afb96818616f8e9d7.m3u8
 
 #EXTINF:-1 group-title="香港频道",HK 港台电视 31
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
@@ -592,9 +587,6 @@ https://stream1.freetv.fun/9372d5d53589816008f331a4592de1cdf0e5eb37cd47a052d60a7
 #EXTINF:-1 group-title="香港频道",HK Viutv
 https://stream1.freetv.fun/566447a554a11bb540e5e37ea32162caa2959fefd3707625f70de6ac96255364.m3u8
 
-#EXTINF:-1 group-title="香港频道",HK Viutv Six（少儿）
-https://stream1.freetv.fun/5fe3cb2358c4e355059b3dcc97b64685b5fc5e8ee264f54624bd4c2a75477ade.ctv
-
 #EXTINF:-1 group-title="香港频道",MC 澳视资讯
 http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
 https://stream1.freetv.fun/de4df17b6bdb5a7ef154d3ebc63b99ed5bb674f249bcf64c88cedc91aa53f0c1.m3u8
@@ -605,9 +597,7 @@ https://stream1.freetv.fun/86d5fbc137de996ef87f330ef4e7fab1e7bd7701f52c0297beabe
 
 #EXTINF:-1 group-title="香港频道",MC 澳视澳门
 http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
-https://stream1.freetv.fun/d2e26396288b9f363e26cc630f13e4f1fde8fae958a0bde4ff2dac09f9a6ec9c.m3u8
 https://stream1.freetv.fun/cab1c25d8ce58c2b298aa1fefd97db26c2f1fa4638c6e2474b69bc5c11949ad3.m3u8
-https://stream1.freetv.fun/03548f52945ed6c816a972deb0746e7e30892babff59c022f2927b21ed3baed0.m3u8
 
 #EXTINF:-1 group-title="香港频道",[BD]澳视体育
 https://stream1.freetv.fun/11b0ee9026108d5eb2cfe40a42c071e49a7cde6b4302d06e58b24d36686d4429.m3u8
@@ -619,10 +609,7 @@ https://stream1.freetv.fun/99f3233e5bc35124a936ce032ec14fdf9c2ad50336346faaa4075
 #EXTINF:-1 group-title="台湾频道",TW 爱尔达影剧355
 https://stream1.freetv.fun/8b1ef976b314ce76f7a659b187e36fb6feabe376e2b9fd05c682f386092e487c.m3u8
 
-#EXTINF:-1 group-title="台湾频道",TW M-5 HD（少儿）
-https://stream1.freetv.fun/cddfab837d226df50f5fcde41535cbf17a2baa0bfde614113795f085c40b0282.m3u8
-
-#EXTINF:-1 group-title="台湾频道",SG Channel 8 HD
+#EXTINF:-1 group-title="台湾频道",TW Channel 8 HD
 https://s1.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
 https://stream1.freetv.fun/82b3b5d8a546ef5883bd4b19e425b0b5b8a5133c36aba32abe0230a36d448b50.m3u8
 
@@ -635,7 +622,7 @@ https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 group-title="台湾频道",TW TVBS
 https://s1.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
 
-#EXTINF:-1 group-title="台湾频道",TW TVBS-Asia
+#EXTINF:-1 group-title="台湾频道",TW TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 
 #EXTINF:-1 group-title="台湾频道",TW Good TV
@@ -661,15 +648,6 @@ https://stream1.freetv.fun/53ca0a5de7a07569cee0fb25ff84d53241cdef34fb8ebb2d90ba4
 #EXTINF:-1 group-title="台湾频道",TW 华视
 https://stream1.freetv.fun/637ceff2dfb72b24ad6929da061ccf235af38b9469ba999c577b1c3d1ee25740.ctv
 
-#EXTINF:-1 group-title="台湾频道",TW 东森财经新闻
-https://stream1.freetv.fun/29adfafbafdff79d9feed6dd7ee053b99f4cef416258aa0829550e14d9eac5f4.m3u8
-
-#EXTINF:-1 group-title="台湾频道",TW 年代新闻 hd =1
-https://stream1.freetv.fun/d3a2ad1c4c0508f1b3e37d56a959a6ab83d3e60da97e6aaf2b9334442dc1e2f7.m3u8
-
-#EXTINF:-1 group-title="台湾频道",TW 纬来体育台
-https://s2.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
-
 #EXTINF:-1 group-title="台湾频道",TW 东森电影
 https://s2.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
 
@@ -688,6 +666,12 @@ http://39.134.65.106/PLTV/88888888/224/3221225561/1.m3u8
 
 #EXTINF:-1 group-title="少儿频道",新动漫
 http://nas.hssvm.com:8888/udp/225.1.1.216:5002
+
+#EXTINF:-1 group-title="少儿频道",HK Viutv Six（少儿）
+https://stream1.freetv.fun/5fe3cb2358c4e355059b3dcc97b64685b5fc5e8ee264f54624bd4c2a75477ade.ctv
+
+#EXTINF:-1 group-title="少儿频道",TW M-5 HD（少儿）
+https://stream1.freetv.fun/cddfab837d226df50f5fcde41535cbf17a2baa0bfde614113795f085c40b0282.m3u8
 
 #EXTINF:-1 group-title="少儿频道",[SD]discovery kids =1
 https://stream1.freetv.fun/945f431ec940781a3f8ed2f1ab55500c6d0afe11ea611d8fdc69368ef2e58678.m3u8
