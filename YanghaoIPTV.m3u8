@@ -664,47 +664,6 @@ https://stream1.freetv.fun/637ceff2dfb72b24ad6929da061ccf235af38b9469ba999c577b1
 #EXTINF:-1 group-title="台湾频道",TW 东森电影
 https://s2.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
 
-#少儿频道
-#EXTINF:-1 group-title="少儿频道",黑莓动画
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6497762188035533951&livemode=1&stbId=yu&mode=1&$4M FHD
-
-#EXTINF:-1 group-title="少儿频道",哈哈炫动
-http://39.134.65.106/PLTV/88888888/224/3221225534/1.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5101217554085087042&livemode=1&stbId=yu&mode=1&$2M SD
-
-#EXTINF:-1 group-title="少儿频道",卡酷少儿
-http://39.134.65.106/PLTV/88888888/224/3221225562/1.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7589856436881630561&livemode=1&stbId=yu&mode=1&$2M SD
-
-#EXTINF:-1 group-title="少儿频道",优漫卡通
-http://39.134.65.106/PLTV/88888888/224/3221225556/1.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5574405527570022182&livemode=1&stbId=yu&mode=1&$2M SD
-
-#EXTINF:-1 group-title="少儿频道",金鹰卡通
-http://39.134.65.106/PLTV/88888888/224/3221225561/1.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5201381050640253101&livemode=1&stbId=yu&mode=1&$2M SD
-
-#EXTINF:-1 group-title="少儿频道",新动漫
-http://nas.hssvm.com:8888/udp/225.1.1.216:5002
-
-#EXTINF:-1 group-title="少儿频道",HK Animax
-https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
-
-#EXTINF:-1 group-title="少儿频道",HK Viutv Six（少儿）
-https://stream1.freetv.fun/5fe3cb2358c4e355059b3dcc97b64685b5fc5e8ee264f54624bd4c2a75477ade.ctv
-
-#EXTINF:-1 group-title="少儿频道",TW M-5 HD（少儿）
-https://stream1.freetv.fun/cddfab837d226df50f5fcde41535cbf17a2baa0bfde614113795f085c40b0282.m3u8
-
-#EXTINF:-1 group-title="少儿频道",[SD]discovery kids =1
-https://stream1.freetv.fun/945f431ec940781a3f8ed2f1ab55500c6d0afe11ea611d8fdc69368ef2e58678.m3u8
-
-#EXTINF:-1 group-title="少儿频道",Kartoon Channel
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
-
-#EXTINF:-1 group-title="少儿频道",[HD]Fnx（少儿）
-https://stream1.freetv.fun/c4f5beae0b10f3f2af542b28adef9ddac055ea694013fcfbca51ae4dd0769ef5.m3u8
-
 #电影频道
 #EXTINF:-1 group-title="电影频道",HK 美亚电影台
 https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8
@@ -1533,3 +1492,44 @@ https://stream1.freetv.fun/5820e487e8d8a390c149c1197fbec044d733def9f7ca1a1e1d791
 
 #EXTINF:-1 group-title="国际频道",[BD]icc plus
 https://stream1.freetv.fun/b019c6ef2fe71105503633ec256f5449fa5675585d7570816210a109536f8382.m3u8
+
+#少儿频道
+#EXTINF:-1 group-title="少儿频道",黑莓动画
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6497762188035533951&livemode=1&stbId=yu&mode=1&$4M FHD
+
+#EXTINF:-1 group-title="少儿频道",哈哈炫动
+http://39.134.65.106/PLTV/88888888/224/3221225534/1.m3u8
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5101217554085087042&livemode=1&stbId=yu&mode=1&$2M SD
+
+#EXTINF:-1 group-title="少儿频道",卡酷少儿
+http://39.134.65.106/PLTV/88888888/224/3221225562/1.m3u8
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7589856436881630561&livemode=1&stbId=yu&mode=1&$2M SD
+
+#EXTINF:-1 group-title="少儿频道",优漫卡通
+http://39.134.65.106/PLTV/88888888/224/3221225556/1.m3u8
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5574405527570022182&livemode=1&stbId=yu&mode=1&$2M SD
+
+#EXTINF:-1 group-title="少儿频道",金鹰卡通
+http://39.134.65.106/PLTV/88888888/224/3221225561/1.m3u8
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5201381050640253101&livemode=1&stbId=yu&mode=1&$2M SD
+
+#EXTINF:-1 group-title="少儿频道",新动漫
+http://nas.hssvm.com:8888/udp/225.1.1.216:5002
+
+#EXTINF:-1 group-title="少儿频道",HK Animax
+https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
+
+#EXTINF:-1 group-title="少儿频道",HK Viutv Six（少儿）
+https://stream1.freetv.fun/5fe3cb2358c4e355059b3dcc97b64685b5fc5e8ee264f54624bd4c2a75477ade.ctv
+
+#EXTINF:-1 group-title="少儿频道",TW M-5 HD（少儿）
+https://stream1.freetv.fun/cddfab837d226df50f5fcde41535cbf17a2baa0bfde614113795f085c40b0282.m3u8
+
+#EXTINF:-1 group-title="少儿频道",[SD]discovery kids =1
+https://stream1.freetv.fun/945f431ec940781a3f8ed2f1ab55500c6d0afe11ea611d8fdc69368ef2e58678.m3u8
+
+#EXTINF:-1 group-title="少儿频道",Kartoon Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="少儿频道",[HD]Fnx（少儿）
+https://stream1.freetv.fun/c4f5beae0b10f3f2af542b28adef9ddac055ea694013fcfbca51ae4dd0769ef5.m3u8
