@@ -7,7 +7,6 @@ http://39.134.65.106/PLTV/88888888/224/3221226119/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221226075/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225816/1.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5068253659616166748&livemode=1&stbId=yu&mode=1&$2M HD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000018602&livemode=1&stbId=yu&mode=1&$8M FHD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=reallive-cctv1&livemode=1&stbId=yu&mode=1&$2M HD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=reallive-hdcctv1&livemode=1&stbId=yu&mode=1&$2M HD
 
@@ -613,6 +612,7 @@ https://stream1.freetv.fun/cab1c25d8ce58c2b298aa1fefd97db26c2f1fa4638c6e2474b69b
 #EXTINF:-1 group-title="香港频道",[BD]澳视体育
 https://stream1.freetv.fun/11b0ee9026108d5eb2cfe40a42c071e49a7cde6b4302d06e58b24d36686d4429.m3u8
 
+#台湾频道
 #EXTINF:-1 group-title="台湾频道",TW 美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 https://stream1.freetv.fun/99f3233e5bc35124a936ce032ec14fdf9c2ad50336346faaa4075affd912ca6e.m3u8
