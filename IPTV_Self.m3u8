@@ -650,20 +650,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchan
 #EXTINF:-1 group-title="少儿频道",[HD]Fnx（少儿）
 https://stream1.freetv.fun/c4f5beae0b10f3f2af542b28adef9ddac055ea694013fcfbca51ae4dd0769ef5.m3u8
 
-#EXTINF:-1 group-title="少儿频道",HBO Family(usa) 少儿
-https://stream1.freetv.fun/c8cbad26c7f26bf07f465ca6036be526410ab13d1f4a85e483596c2f0b8d02ad.ctv
-
-#EXTINF:-1 group-title="少儿频道",[HD]HBO Family(sg)少儿
-https://stream1.freetv.fun/cf61107fa2e489430d45a66eeb6c0b1b42252942b2b94e50842a11abd73c7a2d.ctv
-https://stream1.freetv.fun/207005511f3bd7c7467147bf4fa0dc5306d637ad4c36dac81b2f62c91682542e.ctv
-
-#EXTINF:-1 group-title="少儿频道",[HD]HBO(SG) 少儿
-https://stream1.freetv.fun/b79f23afc2af74e9e45bc703304d2083c671dbd57b3a633649b65cc4698111b5.ctv
-
-#EXTINF:-1 group-title="少儿频道",[SD]HBO 少儿
-https://stream1.freetv.fun/adf9fc3f5e30d672b7aa00536016cc18eeed6af3967579239d83388cf0b93657.ctv
-https://stream1.freetv.fun/da7485cd70c21f5c24793cd8af2462d5bd0fc0419c247586576de51fd9ed69d1.ctv
-
 #电影频道
 #EXTINF:-1 group-title="电影频道",HK 美亚电影台
 https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8
@@ -796,6 +782,29 @@ https://stream1.freetv.fun/c575b56d3c70127d200620d8d8203e783522d3e75873d35d16da4
 https://stream1.freetv.fun/c334ddc74e4aca06e7458d845ac890fa92a194ecdc22e9699f4d0a23f5aaeb1e.ctv
 https://stream1.freetv.fun/2a2f0383d4f275e444581429a4592795f86863c7a57467f964429d6d7700d3ff.ctv
 
+#EXTINF:-1 group-title="电影频道",[SD]HBO 
+https://stream1.freetv.fun/adf9fc3f5e30d672b7aa00536016cc18eeed6af3967579239d83388cf0b93657.ctv
+https://stream1.freetv.fun/da7485cd70c21f5c24793cd8af2462d5bd0fc0419c247586576de51fd9ed69d1.ctv
+
+#EXTINF:-1 group-title="电影频道",[HD]HBO(SG) 
+https://stream1.freetv.fun/b79f23afc2af74e9e45bc703304d2083c671dbd57b3a633649b65cc4698111b5.ctv
+
+#EXTINF:-1 group-title="电影频道",HBO Family(usa)
+https://stream1.freetv.fun/c8cbad26c7f26bf07f465ca6036be526410ab13d1f4a85e483596c2f0b8d02ad.ctv
+https://stream1.freetv.fun/207005511f3bd7c7467147bf4fa0dc5306d637ad4c36dac81b2f62c91682542e.ctv
+
+#EXTINF:-1 group-title="电影频道",HBO Family(usa)=
+https://stream1.freetv.fun/c75dcb6848446c48a214002cedfeee6a6ec88c7ad78d88a982a551c53bcf1527.ctv
+
+#EXTINF:-1 group-title="电影频道",[HD]HBO Family(sg)
+https://stream1.freetv.fun/cf61107fa2e489430d45a66eeb6c0b1b42252942b2b94e50842a11abd73c7a2d.ctv
+
+#EXTINF:-1 group-title="电影频道",[SD]HBO Family
+https://stream1.freetv.fun/4d82dff8d8c26ffd0c8f26021172b79e874f4507d5961741c3fda54f889445b9.m3u8
+
+#EXTINF:-1 group-title="电影频道",[HD]HBO Famliy
+https://stream1.freetv.fun/104efb34664427832e9ec017c706b0709037742a404a968d6b6f8dd5b04179b6.m3u8
+
 #EXTINF:-1 group-title="电影频道",[HD]Showcase Movies
 https://stream1.freetv.fun/a9e44587519300324904f92b0642574b54454f068b2df33b0fa80a5f222cde53.ctv
 https://stream1.freetv.fun/2a41f1b23f403d3c032aaac56ff1a231928bf9876bb4348add0c0df42d805745.ctv
@@ -890,15 +899,6 @@ https://stream1.freetv.fun/fb514a39d6b2b6b8262c6d4dc487ad7421752b7580d32562d42a4
 #EXTINF:-1 group-title="电影频道",HBO East=
 https://stream1.freetv.fun/55e40cfb059e9f75909ffdb51aa3a67c8196fe633453312e5e82cd544cbd307a.ctv
 https://stream1.freetv.fun/27644797c969ce8e7461859f1b532a32549df1c1e480b63f10bc769e7c44da43.ctv
-
-#EXTINF:-1 group-title="电影频道",HBO Family(usa)=
-https://stream1.freetv.fun/c75dcb6848446c48a214002cedfeee6a6ec88c7ad78d88a982a551c53bcf1527.ctv
-
-#EXTINF:-1 group-title="电影频道",[SD]HBO Family
-https://stream1.freetv.fun/4d82dff8d8c26ffd0c8f26021172b79e874f4507d5961741c3fda54f889445b9.m3u8
-
-#EXTINF:-1 group-title="电影频道",[HD]HBO Famliy
-https://stream1.freetv.fun/104efb34664427832e9ec017c706b0709037742a404a968d6b6f8dd5b04179b6.m3u8
 
 #EXTINF:-1 group-title="电影频道",[HD]HBO Hits
 https://stream1.freetv.fun/a949bab19a504c3d0bf89009533afbaa4f8ef90377669e21d052e02a1c1e6d0a.m3u8
