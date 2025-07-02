@@ -677,6 +677,46 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=300000
 http://cfss.cc/cdn/hy/11352941.m3u8
 http://tv.666150.xyz/huya.php?id=11352941
 
+#EXTINF:-1 group-title="电影频道",Cinemax moviemax east *s
+https://stream1.freetv.fun/9688d1b574cdd431a871ad3a2b6fce97073a816f01b2bac131ac15279907d291.m3u8
+
+#EXTINF:-1 group-title="电影频道",Cinemax
+https://stream1.freetv.fun/c944096a4f8db852073f1772f425dd13306be63198cfbf26c5e3e7c7ca8f5cc9.ctv
+
+#EXTINF:-1 group-title="电影频道",[HD]Sony Channel
+https://stream1.freetv.fun/ec5abcee4ac751e184362443f03e3cb33b96233b0377350fb5c3e35d1340225e.m3u8
+
+#EXTINF:-1 group-title="电影频道",Rock Action
+https://stream1.freetv.fun/1060c60d9bbb1d33de512d316d681a11a1dd5b6364a1e83e1afb18ac9219fa1d.m3u8
+https://stream1.freetv.fun/b148cccc1e5501997ccd2a8ebfec673e42e1bbfacceaa7ab61ba3d05e1152de8.ctv
+
+#EXTINF:-1 group-title="电影频道",[HD]Starz Encore action
+https://stream1.freetv.fun/20a6505c38546585b0afe16937f80676a76d3dd327bea10153632ae12a40d3b7.m3u8
+
+#EXTINF:-1 group-title="电影频道",[HD]TNT
+https://stream1.freetv.fun/f0e8d197fba7360d9b0ddedb8c6a6513eed85ea621501c24ea02f9740d48fd56.ctv
+https://stream1.freetv.fun/882bc685fa04beeff426d79c318c560a138f54d78a525ab44ce1a3c45ce6c445.ctv
+https://stream1.freetv.fun/587e0b729b439f3384181b3cac10603b4e22d56fd636aaf5aa8f1cf68dfae156.ctv
+
+#EXTINF:-1 group-title="电影频道",[HD]Sky Cinema Action==
+https://stream1.freetv.fun/8062602f59fcfb7cf6b5391b909ddb7b1e3e21f1843f420385674a6564050887.ctv
+https://stream1.freetv.fun/621ea844e3f987b7e0a6789e2e935cea07731deb7852b50287a7d1f7f30a6187.ctv
+https://stream1.freetv.fun/a4b33999b0b1a278f35d31e123bf81ad7756d62181b585d4a85d5bf849b92d8f.ctv
+
+#EXTINF:-1 group-title="电影频道",[HD]Fxm
+https://stream1.freetv.fun/417942fdec7af69490903b3628ea29cdd0c8f83bdba21a615198d41f5f130e0f.m3u8
+https://stream1.freetv.fun/b3c6952fece603207e88f574a3aaf1c8375fac475fdd16cb49a16b3db48d9565.ctv
+https://stream1.freetv.fun/8c09f5418b046495793605e2d7e54d9cdaa861d9a55233bba3a2104ba0225ac1.ctv
+https://stream1.freetv.fun/cd94d1c2909e8c54f9a54250bced62abda50ebf1d96fde19634c767d3de9188a.ctv
+
+#EXTINF:-1 group-title="电影频道",[HD]HBO Zone
+https://stream1.freetv.fun/d59f276e02a0376ee24ca407adb4b9e2734f614266189d70de58da5dccefa494.ctv
+https://stream1.freetv.fun/c02094496bb61d4f3284fc231e6dbef540a543a65fbe6e6ebb3a6b5d7e1369a2.ctv
+https://stream1.freetv.fun/152962c0f3b9057ba741c8927679b176267a4c32425d98b68efcad00800c275e.ctv
+
+#EXTINF:-1 group-title="电影频道",[HD]HBO Hits(SG)
+https://stream1.freetv.fun/9ddc91658b86bbd6008fc3d8c58edb84b98918d997015a4808ee5a1262750b93.ctv
+
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",宇宙科幻合集
 http://tv.666150.xyz/huya.php?id=11342428
 
