@@ -3,12 +3,6 @@ https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
 https://stream1.freetv.fun/6c23f5c513635c4d7d57de65ddd57fd453ab5042c3064b09aad18902b317a9a6.ctv
 https://stream1.freetv.fun/752bc3a1dae81eb76ce5cf8d1cb186d52aafb5a8beab6dec230a734b41795332.ctv
 
-#EXTINF:-1 group-title="Movie Channel",美国 HBO
-https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
-
-#EXTINF:-1 group-title="Movie Channel",印度 宝莱坞Bollywood HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-
 #EXTINF:-1 group-title="Movie Channel",[SD]LMN Movie
 https://stream1.freetv.fun/822472620e1a8c15f76d97d7c7a5f0a28e5cc7a8377e3b64e124c519a31837d2.ctv
 
@@ -319,8 +313,6 @@ https://stream1.freetv.fun/b148cccc1e5501997ccd2a8ebfec673e42e1bbfacceaa7ab61ba3
 #EXTINF:-1 group-title="Movie Channel",[HD]Sky Cinema Action==
 https://stream1.freetv.fun/8062602f59fcfb7cf6b5391b909ddb7b1e3e21f1843f420385674a6564050887.ctv
 https://stream1.freetv.fun/621ea844e3f987b7e0a6789e2e935cea07731deb7852b50287a7d1f7f30a6187.ctv
-
-#EXTINF:-1 group-title="Movie Channel",[HD]Sky Cinema Action *e
 https://stream1.freetv.fun/a4b33999b0b1a278f35d31e123bf81ad7756d62181b585d4a85d5bf849b92d8f.ctv
 
 #EXTINF:-1 group-title="Movie Channel",[HD]Sky Comedy=
