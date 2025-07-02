@@ -573,7 +573,6 @@ http://39.134.65.106/PLTV/88888888/224/3221225681/1.m3u8
 http://39.135.133.138/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8785669936177902664&livemode=1&stbId=yu&mode=1&$4M FHD
 
-
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://epg.v1.mk/logo/黑莓动画.png" group-title="数字频道",NewTV黑莓动画
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6497762188035533951&livemode=1&stbId=yu&mode=1&$4M FHD
 
@@ -587,9 +586,7 @@ http://39.134.65.106/PLTV/88888888/224/3221225555/1.m3u8
 http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8103864434730665389&livemode=1&stbId=yu&mode=1&$4M FHD
 
-#EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://epg.v1.mk/logo/惊悚悬疑.png" group-title="电影频道",NewTV惊悚悬疑
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000003000000015&livemode=1&stbId=yu&mode=1&$4M FHD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000024282&livemode=1&stbId=yu&mode=1&$4M FHD
+#EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://epg.v1.mk/logo/惊悚悬疑.png" group-title="数字频道",NewTV惊悚悬疑
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7151256057701199617&livemode=1&stbId=yu&mode=1&$4M FHD
 
 #EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://epg.v1.mk/logo/爱情喜剧.png" group-title="数字频道",NewTV爱情喜剧
