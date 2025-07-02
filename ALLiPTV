@@ -430,13 +430,13 @@ http://39.134.65.106/PLTV/88888888/224/3221225981/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225950/1.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/云南卫视.png" group-title="移动IPTV-2",云南卫视
 http://39.134.65.106/PLTV/88888888/224/3221225957/1.m3u8
-#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/求索纪录.png" group-title="📡数字频道",求索纪录
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/求索纪录.png" group-title="移动IPTV-2",求索纪录
 http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8
-#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/求索生活.png" group-title="📡数字频道",求索生活
+#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/求索生活.png" group-title="移动IPTV-2",求索生活
 http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8
-#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/求索科学.png" group-title="📡数字频道",求索科学
+#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/求索科学.png" group-title="移动IPTV-2",求索科学
 http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
-#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/求索动物.png" group-title="📡数字频道",求索动物
+#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/求索动物.png" group-title="移动IPTV-2",求索动物
 http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8
 
 #移动IPTV-3
