@@ -118,7 +118,6 @@ http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
 
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/风云足球.png" group-title="央视频道",CCTV风云足球
 http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
-https://stream1.freetv.fun/9291a8bf5b1268d7256fd7c872552083de65b22dc29400b773d9ec5453478fe9.m3u8
 
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/风云剧场.png" group-title="央视频道",CCTV风云剧场
 http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
