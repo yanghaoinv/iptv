@@ -1,0 +1,394 @@
+#EXTINF:-1 group-title="Movie Channel",AXN
+https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
+https://stream1.freetv.fun/6c23f5c513635c4d7d57de65ddd57fd453ab5042c3064b09aad18902b317a9a6.ctv
+https://stream1.freetv.fun/752bc3a1dae81eb76ce5cf8d1cb186d52aafb5a8beab6dec230a734b41795332.ctv
+
+#EXTINF:-1 group-title="Movie Channel",美国 HBO
+https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",印度 宝莱坞Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[SD]LMN Movie
+https://stream1.freetv.fun/822472620e1a8c15f76d97d7c7a5f0a28e5cc7a8377e3b64e124c519a31837d2.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[SD]Celestial Movies
+https://stream1.freetv.fun/226b412bfdeef100d39a3a86bfebe3dd88a6c1f9dc12d5df3d5cbc24c2c5e6dd.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[SD]Celestial Classic Movies *e
+https://stream1.freetv.fun/46548b192d8d62dfbff211d0b3d3a179c90b7fb6afe8a90e124a94d7d4346d58.ctv
+
+#EXTINF:-1 group-title="Movie Channel",Cinemax moviemax east *s
+https://stream1.freetv.fun/9688d1b574cdd431a871ad3a2b6fce97073a816f01b2bac131ac15279907d291.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Cinemax moviemax east *e
+https://stream1.freetv.fun/584560d046586ef25b3db8c66cccb43cb8e31119e1c018a96817e4178c915d87.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Cinemax Thriller max
+https://stream1.freetv.fun/c2966b4706b40a9e23ab21976e69f508efdb808997e9cd122c27fca759dc7c83.ctv
+https://stream1.freetv.fun/ba16f740bc5a0476921217cfb346d866f1b15dfb919ed250d14e2772815cdc48.ctv
+https://stream1.freetv.fun/16ab51f0f6d7f230e6fbcd60dc58d3577a0f7468f38f274478c56d28b74fe13e.ctv
+
+#EXTINF:-1 tvg-name="THRILL" tvg-id="368339" tvg-country="Singapore" tvg-language="Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movie Channel",[VGA]thrill *wj
+https://stream1.freetv.fun/0e15a8df047f59fd17f6e58e3f61259ee0312c91738331f26548acdcb7b29621.ctv
+https://stream1.freetv.fun/2c92b5d6cc32bbf263b9ec6f876abc6104b49b92a1d5a773e1b60edcde945b5b.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",Cinemax(usa) *s
+https://stream1.freetv.fun/0f7bf5ba2074a022665ffa9df666733d0c98a2c7fd251a0bb0c6ca485ce85117.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",Cinemax(usa) =1
+https://stream1.freetv.fun/84ae6f9dbcfb22fd637834c48615a90590fe593024ccbcecdba15285c8d237ba.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",Cinemax(usa)=
+https://stream1.freetv.fun/dd7f451f701ce63aa905e91bd8f3938a8febece9e8fb36b3f615beeecdbfd312.ctv
+https://stream1.freetv.fun/0f52ca9d5d26a11f649d48ee20fce7234460a7016dc4972f1cd748c8679c9e46.ctv
+https://stream1.freetv.fun/9d76342b634fcfee5ef6f69f7f4b6efd82aae4870208286fde2390859829e14c.ctv
+https://stream1.freetv.fun/2522bc434f72688e402ec958f524a78291b7f29b043df92a19ba77f1a711f882.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Cinemax *e
+https://stream1.freetv.fun/3ba7fe7fe5776f9722a67a3134a2465aa351e19b3a4e48b240f6ef3325bfdaaf.ctv
+
+#EXTINF:-1 group-title="Movie Channel",Cinemax
+https://stream1.freetv.fun/c944096a4f8db852073f1772f425dd13306be63198cfbf26c5e3e7c7ca8f5cc9.ctv
+
+#EXTINF:-1 group-title="Movie Channel",Cinebox Movies 1
+https://stream1.freetv.fun/1ca84f4af4ca00b6bf54b6db1d9f8e1a3b8e3abcf79671ce46d11fb39e67744e.ctv
+
+#EXTINF:-1 group-title="Movie Channel",Cinebox Movies 2
+https://stream1.freetv.fun/7927b2fc0ebd1c2b3c83bd06c70a2574d2ef853f5aa8bd0f08b782f8959da1e0.ctv
+
+#EXTINF:-1 group-title="Movie Channel",Cinebox Movies 3
+https://stream1.freetv.fun/9479da7ea360453c418a6d40629e032b46487583bec39bcddc5e9fc12b68cb2e.ctv
+
+#EXTINF:-1 group-title="Movie Channel",Cinebox Nile Comedy
+https://stream1.freetv.fun/7c1f5a18ce9cfa919ece2e03a8ba64575b49419439ec919092ed3cae84c62ba0.ctv
+https://stream1.freetv.fun/c575b56d3c70127d200620d8d8203e783522d3e75873d35d16da4a4004f5c550.ctv
+
+#EXTINF:-1 group-title="Movie Channel",Cinebox Nile Family
+https://stream1.freetv.fun/c334ddc74e4aca06e7458d845ac890fa92a194ecdc22e9699f4d0a23f5aaeb1e.ctv
+https://stream1.freetv.fun/2a2f0383d4f275e444581429a4592795f86863c7a57467f964429d6d7700d3ff.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[SD]HBO 
+https://stream1.freetv.fun/adf9fc3f5e30d672b7aa00536016cc18eeed6af3967579239d83388cf0b93657.ctv
+https://stream1.freetv.fun/da7485cd70c21f5c24793cd8af2462d5bd0fc0419c247586576de51fd9ed69d1.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[HD]HBO(SG) 
+https://stream1.freetv.fun/b79f23afc2af74e9e45bc703304d2083c671dbd57b3a633649b65cc4698111b5.ctv
+
+#EXTINF:-1 group-title="Movie Channel",HBO Family(usa)
+https://stream1.freetv.fun/c8cbad26c7f26bf07f465ca6036be526410ab13d1f4a85e483596c2f0b8d02ad.ctv
+https://stream1.freetv.fun/207005511f3bd7c7467147bf4fa0dc5306d637ad4c36dac81b2f62c91682542e.ctv
+
+#EXTINF:-1 group-title="Movie Channel",HBO Family(usa)=
+https://stream1.freetv.fun/c75dcb6848446c48a214002cedfeee6a6ec88c7ad78d88a982a551c53bcf1527.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[HD]HBO Family(sg)
+https://stream1.freetv.fun/cf61107fa2e489430d45a66eeb6c0b1b42252942b2b94e50842a11abd73c7a2d.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[SD]HBO Family
+https://stream1.freetv.fun/4d82dff8d8c26ffd0c8f26021172b79e874f4507d5961741c3fda54f889445b9.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[HD]HBO Famliy
+https://stream1.freetv.fun/104efb34664427832e9ec017c706b0709037742a404a968d6b6f8dd5b04179b6.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Showcase Movies
+https://stream1.freetv.fun/a9e44587519300324904f92b0642574b54454f068b2df33b0fa80a5f222cde53.ctv
+https://stream1.freetv.fun/2a41f1b23f403d3c032aaac56ff1a231928bf9876bb4348add0c0df42d805745.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[HD]ShowCase Movies *e
+https://stream1.freetv.fun/837324b445ab9189c22d5bf695380581e25f0be3bdb8878593be6a73a2f2d349.ctv
+
+#EXTINF:-1 group-title="Movie Channel",ShowTime east
+https://stream1.freetv.fun/6198307d7c28b069c9a7a26ce333b2660b05d0556819f39b282b8560acf6f625.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[HD]ShowTime 1
+https://stream1.freetv.fun/a4f44945378d889da80b6519d4b824d0a7d8cab5b6dbfe34ecd877b663768248.ctv
+https://stream1.freetv.fun/7d606e435eb999ae25d85eb4d80b0056f25fd307327efbbbc8e90052cf1e2193.ctv
+
+#EXTINF:-1 group-title="Movie Channel",ShowTime 2
+https://stream1.freetv.fun/24f3a0cb2b558c8bcb53a713895863dbd311a655bef1568207a7b7a8e7a682dd.ctv
+https://stream1.freetv.fun/fab272b74c422fe721144b8ac7e3df28004eaaa532e84e321a8c76593d15f365.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[SD]Showtime Next==
+https://stream1.freetv.fun/3c2e2904ba07b0946dd0347e6b7ab19ee99cd34ea59c68a282a3b66a084e509a.ctv
+https://stream1.freetv.fun/037b612ff230eef95249eb1920721ec184d4c16b59182b678e50de13da2cb1d8.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[SD]ShowTime *S
+https://stream1.freetv.fun/70a0d036b08322c1aa68e86304c49657c57e3f11723774369467ea7c72ba8fae.m3u8
+https://stream1.freetv.fun/9d33698aa9ea2a436fe289841f58041ce5beabc0bade919c84c724281b9b622f.ctv
+https://stream1.freetv.fun/47ce83ab43683f16f8651da9e5162bc4aa23f81d3243e3d20ee254f9c883e891.ctv
+https://stream1.freetv.fun/9502e196718cc49c751044e4690e23592a1c64f29916208910aa32909bd8f88e.ctv
+
+#EXTINF:-1 group-title="Movie Channel",ShowTime West
+https://stream1.freetv.fun/aa56eced1352eb7d132384f6f29e38eade8e45ee1384765c86865207a67ae29e.m3u8
+https://stream1.freetv.fun/8a1098270518ed2c673ee7073f17aa1b898662de0d966fac40b056b45d925443.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",Sky Cinema==
+https://stream1.freetv.fun/425c3952dd23e92059bbcd58326b5b9e6fe9024876f6678b3fb0e114d1e32132.ctv
+https://stream1.freetv.fun/7f4f54d6737604bdd133dcc135e229cad5bba117b01d958202cb72b6fa93b242.ctv
+
+#EXTINF:-1 group-title="Movie Channel",Sky Cinema--
+https://stream1.freetv.fun/cb1bc159ae0d87a0a7a6b115a9c53204096a8d44bbf5b67009ae01fbc93e1ef0.ctv
+https://stream1.freetv.fun/b8190fec0c6417df7b6d55e513b7efff97a91d32cb368aeefef05dc8a5765bf0.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[SD]Pluto tv comedy Movies
+https://stream1.freetv.fun/66b5ede067b9fa6020e515a7756040185135d147acfb17de09f2dc8b710db0a1.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",Osn Movies comedy *e
+https://stream1.freetv.fun/4eb1d9f581d9515a8c0641184562f8b9683bf4e9b8ae344fe3417d5707ecc0a0.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[SD]Sci Fi TV
+https://stream1.freetv.fun/d1660c97a8defa33daf9d762e624af813cc4bcf99b29d64b2e95956171fa5277.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[VGA]Fx
+https://stream1.freetv.fun/ebccf4a64b80e4948a1a54f6c2c86f3a8a8cd76a6a5bc321976e800b70780bc2.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Fx==
+https://stream1.freetv.fun/2cd654fba8c29b458128b531b598816cf45a9a9d92dbad59ed38feaa5a77ff6f.ctv
+https://stream1.freetv.fun/e72dd4c635f0084facc01863d8b9ce260547ac26de094a782ff7690ac9d217a6.ctv
+https://stream1.freetv.fun/b479180fb5caa4cb67af63214dc4a789493fcfb6c8b1e1723abdcad3dfad4bda.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Fx TV
+https://stream1.freetv.fun/d7414190efa14aabe9860b77dc53e16090ead07c83fdefdea7037f13c84b8ba1.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[SD]AXN asia
+https://stream1.freetv.fun/a3beb85abae4f3a6a1d1662c4f1f6c3cdd33d75c125a075aa0ec195e8c180ed6.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Fxm
+https://stream1.freetv.fun/417942fdec7af69490903b3628ea29cdd0c8f83bdba21a615198d41f5f130e0f.m3u8
+https://stream1.freetv.fun/b3c6952fece603207e88f574a3aaf1c8375fac475fdd16cb49a16b3db48d9565.ctv
+https://stream1.freetv.fun/8c09f5418b046495793605e2d7e54d9cdaa861d9a55233bba3a2104ba0225ac1.ctv
+https://stream1.freetv.fun/cd94d1c2909e8c54f9a54250bced62abda50ebf1d96fde19634c767d3de9188a.ctv
+
+#EXTINF:-1 group-title="Movie Channel",Film 1 Premiere Netherlands=
+https://stream1.freetv.fun/d07ea4257ab1d93962a3b1a3e95a07ca3ac6d9835415ae1203a63b0448991dc7.ctv
+https://stream1.freetv.fun/b7827e30867a7c13580ce7e55520cb08eccc9a7538509c64ddbc03e55b4f9ba8.ctv
+
+#EXTINF:-1 group-title="Movie Channel",Film4 UK
+https://stream1.freetv.fun/539c5446337ed88b265b2a85ca391febef9ff68fdc20130508db39a9be02ec5d.ctv
+https://stream1.freetv.fun/2e55600c7e52ac43ab3b7e179a808aa535eb8f627f1da0a44a7d45bffbe4b541.ctv
+https://stream1.freetv.fun/ee26b64031ce863b35afcdeb8d346f23e49ec789b05a1ff8dd84a625623ecc1a.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Filmzie
+https://stream1.freetv.fun/859551a66a351aa2700c0f78203ae48a9d70afc65a64d4a0abd17c3a516a4d68.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",Great! Movies
+https://stream1.freetv.fun/647f5df012e0874827751b8bd1d0ea03e9254ac2e73762d35388b5ee64312d9c.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",Comedy Shows
+https://stream1.freetv.fun/73b7a5bb1acb8c5cdc73b46a389d1d621f8800001b7490d017adfac71a615b91.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[SD]HBO Comedy
+https://stream1.freetv.fun/e77cdd73c9ce324ed8c2ee2cbc6e73249bcaf2ace61b8b02df1ba8ef4b01a5f6.ctv
+https://stream1.freetv.fun/fb514a39d6b2b6b8262c6d4dc487ad7421752b7580d32562d42a40f9588d98f6.ctv
+
+#EXTINF:-1 group-title="Movie Channel",HBO East=
+https://stream1.freetv.fun/55e40cfb059e9f75909ffdb51aa3a67c8196fe633453312e5e82cd544cbd307a.ctv
+https://stream1.freetv.fun/27644797c969ce8e7461859f1b532a32549df1c1e480b63f10bc769e7c44da43.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[HD]HBO Hits
+https://stream1.freetv.fun/a949bab19a504c3d0bf89009533afbaa4f8ef90377669e21d052e02a1c1e6d0a.m3u8
+
+#EXTINF:-1 tvg-name="HBO HITS(SG)" tvg-id="" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/08/16/large/20240816042053151651_41.png" group-title="Movie Channel",[BD]hbo hits 1
+https://stream1.freetv.fun/20d497c9af4ff6be77e73d4a4787eb9416139310bed3a46b01f986776dcc4f6b.m3u8
+
+#EXTINF:-1 tvg-name="HBO HITS(SG)" tvg-id="" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/08/16/large/20240816042053151651_41.png" group-title="Movie Channel",[HD]hbo hits(sg)
+https://stream1.freetv.fun/9ddc91658b86bbd6008fc3d8c58edb84b98918d997015a4808ee5a1262750b93.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[SD]HBO Signature(usa)
+https://stream1.freetv.fun/f47b1ea2710ccf0777ef1385fff2d4872f078e52de220dea98a903084d4357e0.ctv
+https://stream1.freetv.fun/cdc3d62e7a74a1100dc1aa2873c4bf54993fc0f1c7138839a7604a8ad80edb8c.ctv
+https://stream1.freetv.fun/c7684b00514701f512177dff4b1c245672b3385b0a4c7f63fcec2968708fda51.ctv
+https://stream1.freetv.fun/23bc1498d99ca376e2f3f23e12517e9d1fd7de1ba6578efc32e87609a837b50a.ctv
+
+#EXTINF:-1 group-title="Movie Channel",HBO West
+https://stream1.freetv.fun/97c4750de67c9afeaf1251fa23a16de8271231fbff59a6936dc311d2d03a6219.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[HD]HBO Zone
+https://stream1.freetv.fun/d59f276e02a0376ee24ca407adb4b9e2734f614266189d70de58da5dccefa494.ctv
+https://stream1.freetv.fun/c02094496bb61d4f3284fc231e6dbef540a543a65fbe6e6ebb3a6b5d7e1369a2.ctv
+https://stream1.freetv.fun/152962c0f3b9057ba741c8927679b176267a4c32425d98b68efcad00800c275e.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[SD]HBO(TW)
+https://stream1.freetv.fun/58f13f6cbd939341681adbd51000e173ee0d37c732e4af89b16a7c35b478c9d2.ctv
+https://stream1.freetv.fun/fe6f627c19f38072c142af9e1359846269f0278d16ba2a975f6c457e7fa36b2e.ctv
+https://stream1.freetv.fun/55c203bfeec192644919194ed6ad475bfb74024570654f512d87b2ccd5075838.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[HD]HBO
+https://stream1.freetv.fun/f6b785b4f3cd787cadc0a426700657c61be3622c009ad6a7a1987e841208963d.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",HBO HD
+https://stream1.freetv.fun/a41fba637dc9a9a518d05cc0ddaad24d47985c8bafdeae4b252ee47f13c3e258.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[HD]HBO 2
+https://stream1.freetv.fun/a9510410b3b867738e9cc782ae359adeba5cb0ded713d834a4ae520a16fbfd28.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Hits Movies *e
+https://stream1.freetv.fun/9679f114ba6ac1aa61c957c45e84d49afe4cc0fcec4544a87da5bc55fbc269b0.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Hallmark Channel East
+https://stream1.freetv.fun/76cbf7e1b6ed8641e8cfb45e452fbaf7bcaacab70dc8de9470041ae98a39864f.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Hallmark channel e
+https://stream1.freetv.fun/7884b8a80bc61172163ccac07fba433541b87ea1c8da07464b990e5354f4b516.ctv
+https://stream1.freetv.fun/e09b995d7c80ddfd0fd67c76b1cbf10e797b36a17b1c051dfda934b1bc7ef44b.m3u8
+https://stream1.freetv.fun/7a1fd14045048ace4d4e8ea852aa207f9223ae6fc9971638f9b4f35d4f621942.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Hallmark Movies more
+https://stream1.freetv.fun/d85f6a02778050e7501dd62f4ebae43ae70591161501940a226a304220bc3faf.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[VGA]Mtv hits
+https://stream1.freetv.fun/d09eb3772441c84356384883f15a5bce144b3615c5d9a90e37b71b6434bc0fd6.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[SD]Hits(tw) *s
+https://stream1.freetv.fun/9bc7d3ee7ba87d65b00dc7b79530265df044e72e8bb8bf5638f2d2a6285ff7a6.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",Sky Hits *e
+https://stream1.freetv.fun/b2d70cb023b7be9016b801729306189f6927ce427959f0e95069951637e56469.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Hits *e
+https://stream1.freetv.fun/23d10bec1b283796b3ac233f2633d12e30c4fd8b127bc2c470e066dfd6f4e518.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[HD]HBO Hits(SG) *e
+https://stream1.freetv.fun/9ddc91658b86bbd6008fc3d8c58edb84b98918d997015a4808ee5a1262750b93.ctv
+
+#EXTINF:-1 group-title="Movie Channel",Hits电影
+https://stream1.freetv.fun/a71e9b459bf02ee9f74a0b36511854d649ff8051a37f34658bc62399187e95ce.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Hollywire
+https://stream1.freetv.fun/cb6f4241099d903080214efe241f463e39c1d9314b4d02087fb8f3b0e9235ccc.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",Young Hollywood
+https://stream1.freetv.fun/b4071bf8e755cc3de63150e1668117c38f0e9a1b820f1e303e79df2dc6bf94b8.m3u8
+https://stream1.freetv.fun/18720f11dd7c68ada93f44505d36f38eb9c84db63030b27752b60ca0481c33d8.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[HD]KBS World *e
+https://stream1.freetv.fun/3dad7ecb4a5855083e5de1ef82c4479ce91de8dfa341614683463164c8dfbe7d.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[SD]Kino TV
+https://stream1.freetv.fun/247360bb471d6e30b4d79050cc52b754bb389980b89512f394f9b046efc3110f.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[HD]MSG
+https://stream1.freetv.fun/46b3046eb6d46175f1223b02f62b3ecb77a61a724c69f25bf7796629dc2cfb58.m3u8
+https://stream1.freetv.fun/aea4a4a8481f9ab900934b366324426925182cca72a322d2f5e22472f251fc3a.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[SD]Paramount Movie Channel
+https://stream1.freetv.fun/f8c094c073007a655bcbce95b57d395085bc049e719d350446fc2d4efc9c0753.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[SD]Lifetime Movie
+https://stream1.freetv.fun/d8621ea58227b93ae02809dbb681ca5d083bab1c03f4f637d99426f060f3f3e5.ctv
+https://stream1.freetv.fun/822472620e1a8c15f76d97d7c7a5f0a28e5cc7a8377e3b64e124c519a31837d2.ctv
+https://stream1.freetv.fun/e74c68086d598f73fafa407f8ecc915eff5f00b61a579be59c90a223183712ca.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[SD]Paramount Movie Channel
+https://stream1.freetv.fun/deadac9145fbbc28b65e5896455938a10b0cafee4da64196f21b2bb7d0601b7d.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",Movie Sphere
+https://stream1.freetv.fun/141f07133aa4803196087b63fd11e88d843351405878057911f08d686ee5a654.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",Movie Max TV Trk
+https://stream1.freetv.fun/945c575b5c66ccbce925dbcb2b8e03c832462d36fc72a148d185f08b6eb43d9c.ctv
+https://stream1.freetv.fun/6ebd06ac77f675b9c522b5f26160d912ec36b70edd0de1ede3f7e70cddac4c6b.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[HD]24 Hour Free Movies
+https://stream1.freetv.fun/505ed1034fbb979d2841ed09b354a147b00789fb7825b23dbd28bd29127586da.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",Mystery Science Theater 3000==
+https://stream1.freetv.fun/035dd17d1f1fa905af425963895f00f108e2371bd07747d17bf9ada6441b5a7a.ctv
+https://stream1.freetv.fun/704b73d1c4ffb1c23f570f7943eae3ef8f1c2a07a68dfc88dac812afad268955.ctv
+
+#EXTINF:-1 group-title="Movie Channel",Action Hollywood Movies
+https://stream1.freetv.fun/bf529206899f27d9d138875f2bad01423bebc6c628db8432d90efadb0b464cbf.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",MBC Movies
+https://stream1.freetv.fun/8fffaa79bb9facdbd029ed8bb74dcd5b978c2f4e3b03c33679ea7cbc91d640c7.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Sony Movie
+https://stream1.freetv.fun/3bf6c2424a67d74000f84e4b7515e7bbd97cbc414bae08aaa5895507f8b7fac6.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",MBC Movies Action
+https://stream1.freetv.fun/77f885269c5315a05b66bb559a2c766cfab3ed533893d64a2d121918c7062cb3.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[SD]Crimetime
+https://stream1.freetv.fun/7962fa0b230c52ed6b447a8a789e38c698a7137b171d93933f948608ee3a2fab.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",Rock Action
+https://stream1.freetv.fun/1060c60d9bbb1d33de512d316d681a11a1dd5b6364a1e83e1afb18ac9219fa1d.m3u8
+https://stream1.freetv.fun/b148cccc1e5501997ccd2a8ebfec673e42e1bbfacceaa7ab61ba3d05e1152de8.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Sky Cinema Action==
+https://stream1.freetv.fun/8062602f59fcfb7cf6b5391b909ddb7b1e3e21f1843f420385674a6564050887.ctv
+https://stream1.freetv.fun/621ea844e3f987b7e0a6789e2e935cea07731deb7852b50287a7d1f7f30a6187.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Sky Cinema Action *e
+https://stream1.freetv.fun/a4b33999b0b1a278f35d31e123bf81ad7756d62181b585d4a85d5bf849b92d8f.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Sky Comedy=
+https://stream1.freetv.fun/6fd93683ecf52ad39ba16fc2421c751a44c977886a2aa46f7de246947dc5e5b9.ctv
+https://stream1.freetv.fun/100b706381639d7536849ad278c72a8d9a5bd8b80c783135376e345a61052b85.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Sky Family=
+https://stream1.freetv.fun/f9f5f5628bcc3a88d5e82bc08521de3421dbb25830e87b4d3f5f392018a2bf15.ctv
+https://stream1.freetv.fun/5700a531ba6ab222331d261ee3c27f2644dbdb079f0e9ea0e07578faec09cd20.ctv
+
+#EXTINF:-1 group-title="Movie Channel",Sky Movies Drama Romance UK==
+https://stream1.freetv.fun/9b22db9fb82d04ed3653de0ef4af4893027d60732f5179e361a2cd7295b32387.ctv
+https://stream1.freetv.fun/897bf2805fe85ad054608f4285488fcbf25398bbafa5f61c203a4f00afbfbe74.ctv
+
+#EXTINF:-1 group-title="Movie Channel",Sky Movies Crime Thriller UK *E
+https://stream1.freetv.fun/4e8d41276488bd77aa1f760bb7816b7fde5d395c31b3739bf5663e493b21f3f5.ctv
+
+#EXTINF:-1 group-title="Movie Channel",Sky Movies Family uk *e
+https://stream1.freetv.fun/cd744da80028d767505fd38794a9ed6c03cad38d2e04ffbc11a5bcdcf3baee80.ctv
+
+#EXTINF:-1 group-title="Movie Channel",Sky Movies Modern Greats UK==
+https://stream1.freetv.fun/99180e3d910374fa36e5ff3c8d7b5c2bce5b0544c042af5dbc9925517f1caf68.ctv
+https://stream1.freetv.fun/fdf2dd11a449fac9db444274bfcf466ca981fba157c2ad64b1196d7f51b4cb9c.ctv
+
+#EXTINF:-1 group-title="Movie Channel",Sky Movies Sci-Fi Horror UK *E
+https://stream1.freetv.fun/142bd4a121154f136e34aa785ed008072c6675f27b1e36e77d226401f553741f.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Sky Movies Premiere UK *S
+https://stream1.freetv.fun/66f8b3a4ac92f6fee9932d7c63a66da36f46cd53c44a4db80be1ef3b4f482827.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[VGA]Sony Channel
+https://stream1.freetv.fun/3ccccd1d1b321b87cc11e57bfd03f41efb7bac96144c16c1acca554c0193c335.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Sony Channel
+https://stream1.freetv.fun/ec5abcee4ac751e184362443f03e3cb33b96233b0377350fb5c3e35d1340225e.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[VGA]Starz west=
+https://stream1.freetv.fun/d10c477d747c5cc5dd258912e516d5511b22c55a65bc656a1328fe49779c3b48.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[VGA]Starz edge *e
+https://stream1.freetv.fun/1cb551f7fde8f02852060a9891bb8cbb20ec70453b78a444c20612813a35958f.ctv
+https://stream1.freetv.fun/14f85212a47510f70b951e749e8e786aa0cc2d46f45b9990226be59a94b777b3.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Starz east
+https://stream1.freetv.fun/c5c0356ebbea09dfefea2e8ae60bf327db811e2cc93952b16f35c8963fde3372.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[VGA]Starz Cinema=
+https://stream1.freetv.fun/730a4d582357a894837054353feef3efdae3c1e43d4ef463a572f08fc3de9973.ctv
+https://stream1.freetv.fun/a45554e0250ca591a25ee35d9be06e2d7e75d048afed2bb49c39f32696687c20.ctv
+https://stream1.freetv.fun/b214dd3c89262129b2e45f6eab3f3cc430ad6b55c1ecbf0e0cd1c0d6d9d65395.ctv
+https://stream1.freetv.fun/36ddc486668dc3612aa3b89958ee1f458d5afed3555f38a9f8bd54ae0d6ba6f9.ctv
+https://stream1.freetv.fun/5d43e1886378b994f2cfea354a8453cba47208f7734549c21a72a1e21b01ada8.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Starz Edge
+https://stream1.freetv.fun/2a803e416565ec84b2486565f8490dedb99c45b9c85feefacfc29c1b163d0437.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Starz Encore Classic east
+https://stream1.freetv.fun/a7c7247495800369bfa98aa851b8186209d1733dd40da5fa96304dd80987489f.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",[HD]Starz Encore action
+https://stream1.freetv.fun/20a6505c38546585b0afe16937f80676a76d3dd327bea10153632ae12a40d3b7.m3u8
+
+#EXTINF:-1 group-title="Movie Channel",Starz West
+https://stream1.freetv.fun/72eb6927a1a3942c94c2540ebd86279e1ddabaa82f38bcc26b00ff8c61ea7fc2.ctv
+https://stream1.freetv.fun/4af1091dea846e6fbb582a9499185fc489ebc63d51e118a288e0277593c72a9b.m3u8
+https://stream1.freetv.fun/1c57631e027267f3d9e0143a1a22f7511e195d5f3c9b95e867640db374a1ccd6.ctv
+
+#EXTINF:-1 group-title="Movie Channel",[HD]TNT
+https://stream1.freetv.fun/f0e8d197fba7360d9b0ddedb8c6a6513eed85ea621501c24ea02f9740d48fd56.ctv
+https://stream1.freetv.fun/882bc685fa04beeff426d79c318c560a138f54d78a525ab44ce1a3c45ce6c445.ctv
+https://stream1.freetv.fun/587e0b729b439f3384181b3cac10603b4e22d56fd636aaf5aa8f1cf68dfae156.ctv
