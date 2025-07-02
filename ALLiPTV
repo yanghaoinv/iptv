@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
-#央视频道
+#黑龙江移动
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="黑龙江移动",CCTV1
 http://39.134.65.106/PLTV/88888888/224/3221226119/1.m3u8
@@ -325,70 +325,6 @@ http://39.134.65.106/PLTV/88888888/224/3221225556/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225561/1.m3u8
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="黑龙江移动",北京纪实科教
 http://39.134.65.106/PLTV/88888888/224/3221225670/1.m3u8
-#EXTINF:-1 tvg-name="咪咕1" tvg-logo="https://live.fanmingming.cn/tv/咪咕1.png" group-title="黑龙江移动",咪咕1
-http://39.134.65.106/PLTV/88888888/224/3221225611/1.m3u8
-#EXTINF:-1 tvg-name="咪咕2" tvg-logo="https://live.fanmingming.cn/tv/咪咕2.png" group-title="黑龙江移动",咪咕2
-http://39.134.65.106/PLTV/88888888/224/3221225613/1.m3u8
-#EXTINF:-1 tvg-name="咪咕3" tvg-logo="https://live.fanmingming.cn/tv/咪咕3.png" group-title="黑龙江移动",咪咕3
-http://39.134.65.106/PLTV/88888888/224/3221225619/1.m3u8
-#EXTINF:-1 tvg-name="咪咕4" tvg-logo="https://live.fanmingming.cn/tv/咪咕4.png" group-title="黑龙江移动",咪咕4
-http://39.134.65.106/PLTV/88888888/224/3221225620/1.m3u8
-#EXTINF:-1 tvg-name="咪咕5" tvg-logo="https://live.fanmingming.cn/tv/咪咕5.png" group-title="黑龙江移动",咪咕5
-http://39.134.65.106/PLTV/88888888/224/3221225639/1.m3u8
-#EXTINF:-1 tvg-name="咪咕6" tvg-logo="https://live.fanmingming.cn/tv/咪咕6.png" group-title="黑龙江移动",咪咕6
-http://39.134.65.106/PLTV/88888888/224/3221225641/1.m3u8
-#EXTINF:-1 tvg-name="咪咕7" tvg-logo="https://live.fanmingming.cn/tv/咪咕7.png" group-title="黑龙江移动",咪咕7
-http://39.134.65.106/PLTV/88888888/224/3221225643/1.m3u8
-#EXTINF:-1 tvg-name="咪咕8" tvg-logo="https://live.fanmingming.cn/tv/咪咕8.png" group-title="黑龙江移动",咪咕8
-http://39.134.65.106/PLTV/88888888/224/3221225647/1.m3u8
-#EXTINF:-1 tvg-name="咪咕9" tvg-logo="https://live.fanmingming.cn/tv/咪咕9.png" group-title="黑龙江移动",咪咕9
-http://39.134.65.106/PLTV/88888888/224/3221225648/1.m3u8
-#EXTINF:-1 tvg-name="咪咕10" tvg-logo="https://live.fanmingming.cn/tv/咪咕10.png" group-title="黑龙江移动",咪咕10
-http://39.134.65.106/PLTV/88888888/224/3221225649/1.m3u8
-#EXTINF:-1 tvg-name="咪咕11" tvg-logo="https://live.fanmingming.cn/tv/咪咕11.png" group-title="黑龙江移动",咪咕11
-http://39.134.65.106/PLTV/88888888/224/3221225650/1.m3u8
-#EXTINF:-1 tvg-name="咪咕12" tvg-logo="https://live.fanmingming.cn/tv/咪咕12.png" group-title="黑龙江移动",咪咕12
-http://39.134.65.106/PLTV/88888888/224/3221225653/1.m3u8
-#EXTINF:-1 tvg-name="咪咕13" tvg-logo="https://live.fanmingming.cn/tv/咪咕13.png" group-title="黑龙江移动",咪咕13
-http://39.134.65.106/PLTV/88888888/224/3221225645/1.m3u8
-#EXTINF:-1 tvg-name="咪咕14" tvg-logo="https://live.fanmingming.cn/tv/咪咕14.png" group-title="黑龙江移动",咪咕14
-http://39.134.65.106/PLTV/88888888/224/3221225654/1.m3u8
-#EXTINF:-1 tvg-name="咪咕15" tvg-logo="https://live.fanmingming.cn/tv/咪咕15.png" group-title="黑龙江移动",咪咕15
-http://39.134.65.106/PLTV/88888888/224/3221225652/1.m3u8
-#EXTINF:-1 tvg-name="咪咕16" tvg-logo="https://live.fanmingming.cn/tv/咪咕16.png" group-title="黑龙江移动",咪咕16
-http://39.134.65.106/PLTV/88888888/224/3221225658/1.m3u8
-#EXTINF:-1 tvg-name="咪咕17" tvg-logo="https://live.fanmingming.cn/tv/咪咕17.png" group-title="黑龙江移动",咪咕17
-http://39.134.65.106/PLTV/88888888/224/3221225660/1.m3u8
-#EXTINF:-1 tvg-name="咪咕18" tvg-logo="https://live.fanmingming.cn/tv/咪咕18.png" group-title="黑龙江移动",咪咕18
-http://39.134.65.106/PLTV/88888888/224/3221225756/1.m3u8
-#EXTINF:-1 tvg-name="咪咕19" tvg-logo="https://live.fanmingming.cn/tv/咪咕19.png" group-title="黑龙江移动",咪咕19
-http://39.134.65.106/PLTV/88888888/224/3221225754/1.m3u8
-#EXTINF:-1 tvg-name="咪咕20" tvg-logo="https://live.fanmingming.cn/tv/咪咕20.png" group-title="黑龙江移动",咪咕20
-http://39.134.65.106/PLTV/88888888/224/3221225733/1.m3u8
-#EXTINF:-1 tvg-name="咪咕21" tvg-logo="https://live.fanmingming.cn/tv/咪咕21.png" group-title="黑龙江移动",咪咕21
-http://39.134.65.106/PLTV/88888888/224/3221225737/1.m3u8
-#EXTINF:-1 tvg-name="咪咕22" tvg-logo="https://live.fanmingming.cn/tv/咪咕22.png" group-title="黑龙江移动",咪咕22
-http://39.134.65.106/PLTV/88888888/224/3221225739/1.m3u8
-#EXTINF:-1 tvg-name="咪咕23" tvg-logo="https://live.fanmingming.cn/tv/咪咕23.png" group-title="黑龙江移动",咪咕23
-http://39.134.65.106/PLTV/88888888/224/3221225758/1.m3u8
-#EXTINF:-1 tvg-name="咪咕24" tvg-logo="https://live.fanmingming.cn/tv/咪咕24.png" group-title="黑龙江移动",咪咕24
-http://39.134.65.106/PLTV/88888888/224/3221225760/1.m3u8
-#EXTINF:-1 tvg-name="咪咕25]" tvg-logo="https://live.fanmingming.cn/tv/咪咕25].png" group-title="黑龙江移动",咪咕25]
-http://39.134.65.106/PLTV/88888888/224/3221225903/1.m3u8
-#EXTINF:-1 tvg-name="咪咕26" tvg-logo="https://live.fanmingming.cn/tv/咪咕26.png" group-title="黑龙江移动",咪咕26
-http://39.134.65.106/PLTV/88888888/224/3221225899/1.m3u8
-#EXTINF:-1 tvg-name="咪咕27" tvg-logo="https://live.fanmingming.cn/tv/咪咕27.png" group-title="黑龙江移动",咪咕27
-http://39.134.65.106/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 tvg-name="咪咕28" tvg-logo="https://live.fanmingming.cn/tv/咪咕28.png" group-title="黑龙江移动",咪咕28
-http://39.134.65.106/PLTV/88888888/224/3221225914/1.m3u8
-#EXTINF:-1 tvg-name="咪咕29" tvg-logo="https://live.fanmingming.cn/tv/咪咕29.png" group-title="黑龙江移动",咪咕29
-http://39.134.65.106/PLTV/88888888/224/3221225905/1.m3u8
-#EXTINF:-1 tvg-name="咪咕30" tvg-logo="https://live.fanmingming.cn/tv/咪咕30.png" group-title="黑龙江移动",咪咕30
-http://39.134.65.106/PLTV/88888888/224/3221225912/1.m3u8
-#EXTINF:-1 tvg-name="咪咕31" tvg-logo="https://live.fanmingming.cn/tv/咪咕31.png" group-title="黑龙江移动",咪咕31
-http://39.134.65.106/PLTV/88888888/224/3221225910/1.m3u8
-#EXTINF:-1 tvg-name="咪咕32" tvg-logo="https://live.fanmingming.cn/tv/咪咕32.png" group-title="黑龙江移动",咪咕32
-http://39.134.65.106/PLTV/88888888/224/3221226031/1.m3u8
 #EXTINF:-1 tvg-name="咪咕4K" tvg-logo="https://live.fanmingming.cn/tv/咪咕4K.png" group-title="黑龙江移动",咪咕4K
 http://39.134.65.106/PLTV/88888888/224/3221225651/1.m3u8
 #EXTINF:-1 tvg-name="晴彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/晴彩广场舞.png" group-title="黑龙江移动",晴彩广场舞
@@ -407,73 +343,3 @@ http://39.134.65.106/PLTV/88888888/224/3221225897/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221226052/1.m3u8
 #EXTINF:-1 tvg-name="教育频道" tvg-logo="https://live.fanmingming.cn/tv/教育频道.png" group-title="黑龙江移动",教育频道
 http://39.134.65.106/PLTV/88888888/224/3221226102/1.m3u8
-#EXTINF:-1 tvg-name="牡丹江新闻综合" tvg-logo="https://live.fanmingming.cn/tv/牡丹江新闻综合.png" group-title="黑龙江移动",牡丹江新闻综合
-http://39.134.65.106/PLTV/88888888/224/3221226062/1.m3u8
-#EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://live.fanmingming.cn/tv/黑龙江文体.png" group-title="黑龙江移动",黑龙江文体
-http://39.134.65.106/PLTV/88888888/224/3221225965/1.m3u8
-#EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江影视.png" group-title="黑龙江移动",黑龙江影视
-http://39.134.65.106/PLTV/88888888/224/3221225971/1.m3u8
-#EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江影视.png" group-title="黑龙江移动",黑龙江影视
-http://39.134.65.106/PLTV/88888888/224/3221225973/1.m3u8
-#EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://live.fanmingming.cn/tv/黑龙江都市.png" group-title="黑龙江移动",黑龙江都市
-http://39.134.65.106/PLTV/88888888/224/3221225969/1.m3u8
-#EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://live.fanmingming.cn/tv/黑龙江都市.png" group-title="黑龙江移动",黑龙江都市
-http://39.134.65.106/PLTV/88888888/224/3221225990/1.m3u8
-#EXTINF:-1 tvg-name="黑龙江新闻法治" tvg-logo="https://live.fanmingming.cn/tv/黑龙江新闻法治.png" group-title="黑龙江移动",黑龙江新闻法治
-http://39.134.65.106/PLTV/88888888/224/3221225992/1.m3u8
-#EXTINF:-1 tvg-name="黑龙江新闻法治" tvg-logo="https://live.fanmingming.cn/tv/黑龙江新闻法治.png" group-title="黑龙江移动",黑龙江新闻法治
-http://39.134.65.106/PLTV/88888888/224/3221225967/1.m3u8
-#EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://live.fanmingming.cn/tv/黑龙江少儿.png" group-title="黑龙江移动",黑龙江少儿
-http://39.134.65.106/PLTV/88888888/224/3221226002/1.m3u8
-#EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://live.fanmingming.cn/tv/黑龙江少儿.png" group-title="黑龙江移动",黑龙江少儿
-http://39.134.65.106/PLTV/88888888/224/3221225979/1.m3u8
-#EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://live.fanmingming.cn/tv/黑龙江文体.png" group-title="黑龙江移动",黑龙江文体
-http://39.134.65.106/PLTV/88888888/224/3221226012/1.m3u8
-#EXTINF:-1 tvg-name="黑龙江农业科教" tvg-logo="https://live.fanmingming.cn/tv/黑龙江农业科教.png" group-title="黑龙江移动",黑龙江农业科教
-http://39.134.65.106/PLTV/88888888/224/3221225994/1.m3u8
-#EXTINF:-1 tvg-name="黑龙江农业科教" tvg-logo="https://live.fanmingming.cn/tv/黑龙江农业科教.png" group-title="黑龙江移动",黑龙江农业科教
-http://39.134.65.106/PLTV/88888888/224/3221225998/1.m3u8
-#EXTINF:-1 tvg-name="齐齐哈尔新闻综合" tvg-logo="https://live.fanmingming.cn/tv/齐齐哈尔新闻综合.png" group-title="黑龙江移动",齐齐哈尔新闻综合
-http://39.134.65.106/PLTV/88888888/224/3221226037/1.m3u8
-#EXTINF:-1 tvg-name="齐齐哈尔新闻综合" tvg-logo="https://live.fanmingming.cn/tv/齐齐哈尔新闻综合.png" group-title="黑龙江移动",齐齐哈尔新闻综合
-http://39.134.65.106/PLTV/88888888/224/3221226106/1.m3u8
-#EXTINF:-1 tvg-name="齐齐哈尔经济法治" tvg-logo="https://live.fanmingming.cn/tv/齐齐哈尔经济法治.png" group-title="黑龙江移动",齐齐哈尔经济法治
-http://39.134.65.106/PLTV/88888888/224/3221226058/1.m3u8
-#EXTINF:-1 tvg-name="齐齐哈尔经济法治" tvg-logo="https://live.fanmingming.cn/tv/齐齐哈尔经济法治.png" group-title="黑龙江移动",齐齐哈尔经济法治
-http://39.134.65.106/PLTV/88888888/224/3221226097/1.m3u8
-#EXTINF:-1 tvg-name="伊春新闻综合" tvg-logo="https://live.fanmingming.cn/tv/伊春新闻综合.png" group-title="黑龙江移动",伊春新闻综合
-http://39.134.65.106/PLTV/88888888/224/3221226041/1.m3u8
-#EXTINF:-1 tvg-name="双鸭山新闻综合" tvg-logo="https://live.fanmingming.cn/tv/双鸭山新闻综合.png" group-title="黑龙江移动",双鸭山新闻综合
-http://39.134.65.106/PLTV/88888888/224/3221226047/1.m3u8
-#EXTINF:-1 tvg-name="鸡西新闻综合" tvg-logo="https://live.fanmingming.cn/tv/鸡西新闻综合.png" group-title="黑龙江移动",鸡西新闻综合
-http://39.134.65.106/PLTV/88888888/224/3221226035/1.m3u8
-#EXTINF:-1 tvg-name="鸡西安全生活" tvg-logo="https://live.fanmingming.cn/tv/鸡西安全生活.png" group-title="黑龙江移动",鸡西安全生活
-http://39.134.65.106/PLTV/88888888/224/3221226050/1.m3u8
-#EXTINF:-1 tvg-name="鹤岗新闻综合" tvg-logo="https://live.fanmingming.cn/tv/鹤岗新闻综合.png" group-title="黑龙江移动",鹤岗新闻综合
-http://39.134.65.106/PLTV/88888888/224/3221226043/1.m3u8
-#EXTINF:-1 tvg-name="鹤岗新闻综合" tvg-logo="https://live.fanmingming.cn/tv/鹤岗新闻综合.png" group-title="黑龙江移动",鹤岗新闻综合
-http://39.134.65.106/PLTV/88888888/224/3221226073/1.m3u8
-#EXTINF:-1 tvg-name="伊春新闻综合" tvg-logo="https://live.fanmingming.cn/tv/伊春新闻综合.png" group-title="黑龙江移动",伊春新闻综合
-http://39.134.65.106/PLTV/88888888/224/3221226066/1.m3u8
-#EXTINF:-1 tvg-name="哈尔滨新闻综合" tvg-logo="https://live.fanmingming.cn/tv/哈尔滨新闻综合.png" group-title="黑龙江移动",哈尔滨新闻综合
-http://39.134.65.106/PLTV/88888888/224/3221226093/1.m3u8
-#EXTINF:-1 tvg-name="哈尔滨新闻综合" tvg-logo="https://live.fanmingming.cn/tv/哈尔滨新闻综合.png" group-title="黑龙江移动",哈尔滨新闻综合
-http://39.134.65.106/PLTV/88888888/224/3221226110/1.m3u8
-#EXTINF:-1 tvg-name="哈尔滨影视" tvg-logo="https://live.fanmingming.cn/tv/哈尔滨影视.png" group-title="黑龙江移动",哈尔滨影视
-http://39.134.65.106/PLTV/88888888/224/3221226104/1.m3u8
-#EXTINF:-1 tvg-name="哈尔滨生活" tvg-logo="https://live.fanmingming.cn/tv/哈尔滨生活.png" group-title="黑龙江移动",哈尔滨生活
-http://39.134.65.106/PLTV/88888888/224/3221226095/1.m3u8
-#EXTINF:-1 tvg-name="双鸭山新闻综合" tvg-logo="https://live.fanmingming.cn/tv/双鸭山新闻综合.png" group-title="黑龙江移动",双鸭山新闻综合
-http://39.134.65.106/PLTV/88888888/224/3221226108/1.m3u8
-#EXTINF:-1 tvg-name="佳木斯新闻综合" tvg-logo="https://live.fanmingming.cn/tv/佳木斯新闻综合.png" group-title="黑龙江移动",佳木斯新闻综合
-http://39.134.65.106/PLTV/88888888/224/3221225993/1.m3u8
-#EXTINF:-1 tvg-name="中国移动" tvg-logo="https://live.fanmingming.cn/tv/中国移动.png" group-title="黑龙江移动",中国移动
-http://39.134.65.106/PLTV/88888888/224/3221225662/1.m3u8
-#EXTINF:-1 tvg-name="中国移动4K" tvg-logo="https://live.fanmingming.cn/tv/中国移动4K.png" group-title="黑龙江移动",中国移动4K
-http://39.134.65.106/PLTV/88888888/224/3221225655/1.m3u8
-#EXTINF:-1 tvg-name="综合1" tvg-logo="https://live.fanmingming.cn/tv/综合1.png" group-title="黑龙江移动",综合1
-http://39.134.65.106/PLTV/88888888/224/3221225552/1.m3u8
-#EXTINF:-1 tvg-name="综合2" tvg-logo="https://live.fanmingming.cn/tv/综合2.png" group-title="黑龙江移动",综合2
-http://39.134.65.106/PLTV/88888888/224/3221225521/1.m3u8
-#EXTINF:-1 tvg-name="未知频道" tvg-logo="https://live.fanmingming.cn/tv/未知频道.png" group-title="黑龙江移动",未知频道
-http://39.134.65.106/PLTV/88888888/224/3221226109/1.m3u8
