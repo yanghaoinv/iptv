@@ -385,21 +385,21 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 http://cdn9.163189.xyz/smt3.1.1.php?id=TvbClassic
 http://aktv_stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
 
-#EXTINF:-1 group-title="电影频道",HK 美亚电影台
+#EXTINF:-1 group-title="香港频道",HK 美亚电影台
 https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8
 
-#EXTINF:-1 group-title="电影频道",HK 美亚电影台 [HD]
+#EXTINF:-1 group-title="香港频道",HK 美亚电影台 [HD]
 https://stream1.freetv.fun/42b1fc4ec1e503820acd3e2c367e0c00b12fcf08340ec5674fa22b0c8260581c.ctv
 https://stream1.freetv.fun/b4e2750658d9c1cb014f00a2ea06855e5e0c9c245e07825f8a81901237ae5a62.ctv
 http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 
-#EXTINF:-1 group-title="电影频道",HK 经典电影
+#EXTINF:-1 group-title="香港频道",HK 经典电影
 https://stream1.freetv.fun/68b1246ebb6ebb9be45a97042d751c9f214ed4baa3ecd11827101243551b5fdc.ctv
 
-#EXTINF:-1 group-title="电影频道",PopC
+#EXTINF:-1 group-title="香港频道",PopC
 https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
 
-#EXTINF:-1 group-title="电影频道",HK 凤凰电影（SD）
+#EXTINF:-1 group-title="香港频道",HK 凤凰电影（SD）
 https://stream1.freetv.fun/75cf3fd3b2e39cb22ee433381aeafdfabd12682b75b524b21992dc0b7284fcaa.m3u8
 
 #EXTINF:-1 group-title="香港频道",HK 经典电影
