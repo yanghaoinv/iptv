@@ -776,21 +776,21 @@ http://tv.666150.xyz/huya.php?id=11601986
 http://tv.666150.xyz/huya.php?id=30080229
 
 #电视剧频道
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",港剧轮播
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电视剧频道",港剧轮播
 http://home.kuaidi521.com:35455/douyu/2793084
 http://zzy789.xyz/douyu1.php?id=2793084
 
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",邵氏港剧轮播影院
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电视剧频道",邵氏港剧轮播影院
 http://home.kuaidi521.com:35455/douyu/4246519
-
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",斗鱼港剧轮播
-http://home.kuaidi521.com:35455/douyu/5061550
-
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",影视剧轮播
-http://home.kuaidi521.com:35455/douyu/74374
 
 #EXTINF:-1 group-title="电视剧频道",斗鱼华语轮播
 http://tc-tct.douyucdn2.cn/dyliveflv1a/3928r9p0BHMDG_2000.xs?wsAuth=3c48b706fe90d736d90b5622adfc09d2&token=web-h5-0-3928-15d95fcfde11a749199abfc5ac7bdee6727c6402febadfb8&logo=0&expire=0&did=24482b48b98804f2b0a5b17400041701
+
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电视剧频道",斗鱼港剧轮播
+http://home.kuaidi521.com:35455/douyu/5061550
+
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电视剧频道",影视剧轮播
+http://home.kuaidi521.com:35455/douyu/74374
 
 #EXTINF:-1 group-title="电视剧频道",HK TVB星河
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
