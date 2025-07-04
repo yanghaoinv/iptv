@@ -603,15 +603,10 @@ https://stream1.freetv.fun/17bfdc9eb5ec56f6dc8839c56f3078234b490e441862758d5b760
 https://stream1.freetv.fun/8fb5ad980db9bb85194eb24010e6c655da429a3426108c336d13dcd848e94e93.ctv
 https://stream1.freetv.fun/e06e2245cd56eb5f8705bdbc4a622a8b6be2c249723c987bedf610bc0a7b35df.m3u8
 
-#EXTINF:-1 group-title="香港频道",HK 凤凰香港
-https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
-
 #EXTINF:-1 group-title="香港频道",HK 凤凰中文
-https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
 https://stream1.freetv.fun/a3cfcb6f4429baaa2f182afaf1ab55003d71ca680ca0afd61968d36b33f26f03.m3u8
 
 #EXTINF:-1 group-title="香港频道",HK 凤凰资讯
-https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
 https://stream1.freetv.fun/9cb86e77a2a19ece5a5ee90f18c9dd578dab4a8f3a0844fbd56b6a87db6746fb.m3u8
 
 #EXTINF:-1 group-title="香港频道",HK 凤凰电影（SD）
@@ -624,12 +619,10 @@ https://stream1.freetv.fun/a2764fcf64d61e4ea32f4f9972a630f99d2d3fac7cef4d2afb968
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 https://stream1.freetv.fun/bded2077398ea5c4ee64a82c4c0e528f18b84a7a9ca0b775b8b3fd954bae99c3.m3u8
 https://stream1.freetv.fun/9ccca5b5d3261ef5d3c2457340f8b0211a0271924c120d9631185b4911b06e59.ctv
-https://stream1.freetv.fun/652cd63c67d1b74aeb695aff3b6bb1cb9f3c239f4a047200e243aed08fd351de.ctv
 
 #EXTINF:-1 group-title="香港频道",HK 港台电视 RHK32
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 https://stream1.freetv.fun/cc4dd92e89558b8ee7145804864646a7fbc9c546dfdf2666926f2732e88c8c85.ctv
-https://stream1.freetv.fun/7a19bf73483aaf649c7ba251ae8fd360e1d19439f04f37ea3e9a08841678e284.ctv
 
 #EXTINF:-1 group-title="香港频道",HK 港台电视 RHK34
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
@@ -640,7 +633,6 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPla
 #EXTINF:-1 group-title="香港频道",HK TVB Plus
 https://s1.tvm4a1.cfd/aktv/tvbplus/AKTV.m3u8
 https://stream1.freetv.fun/5c71ddc1ee039d8057898c807e9cda2dfc61c7534d017fbf7c0de04c5c58c890.ctv
-https://stream1.freetv.fun/6ade45822dc9265d4aba6c1854bfd6a2635b13d96624929150024f662eca25d7.m3u8
 
 #EXTINF:-1 group-title="香港频道",HK 耀才财经
 https://stream1.freetv.fun/9372d5d53589816008f331a4592de1cdf0e5eb37cd47a052d60a74be9041e816.m3u8
