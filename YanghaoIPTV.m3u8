@@ -406,84 +406,107 @@ https://s1.tvm4a1.cfd/astro/astrosportuhd/AKTV.m3u8
 #EXTINF:-1 group-title="体育频道",法国 Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="NBATV" tvg-logo="https://live.fanmingming.cn/tv/NBATV.png",NBATV
+#EXTINF:-1 tvg-name="NBATV" tvg-logo="https://live.fanmingming.cn/tv/NBATV.png",group-title="体育频道",NBATV
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=NBATV
-#EXTINF:-1 tvg-name="HKC18台" tvg-logo="https://live.fanmingming.cn/tv/HKC18台.png",HKC18台
+
+#EXTINF:-1 tvg-name="HKC18台" tvg-logo="https://live.fanmingming.cn/tv/HKC18台.png",group-title="体育频道",HKC18台
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=HKC18台
-#EXTINF:-1 tvg-name="NowSports1" tvg-logo="https://live.fanmingming.cn/tv/NowSports1.png",NowSports1
+
+#EXTINF:-1 tvg-name="NowSports1" tvg-logo="https://live.fanmingming.cn/tv/NowSports1.png",group-title="体育频道",NowSports1
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports1
-#EXTINF:-1 tvg-name="NowSports2" tvg-logo="https://live.fanmingming.cn/tv/NowSports2.png",NowSports2
+
+#EXTINF:-1 tvg-name="NowSports2" tvg-logo="https://live.fanmingming.cn/tv/NowSports2.png",group-title="体育频道",NowSports2
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports2
-#EXTINF:-1 tvg-name="NowSports3" tvg-logo="https://live.fanmingming.cn/tv/NowSports3.png",NowSports3
+
+#EXTINF:-1 tvg-name="NowSports3" tvg-logo="https://live.fanmingming.cn/tv/NowSports3.png",group-title="体育频道",NowSports3
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports3
-#EXTINF:-1 tvg-name="NowSports|4|" tvg-logo="https://live.fanmingming.cn/tv/NowSports|4|.png",NowSports|4|
-http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports|4|
-#EXTINF:-1 tvg-name="NowSports5" tvg-logo="https://live.fanmingming.cn/tv/NowSports5.png",NowSports5
+
+#EXTINF:-1 tvg-name="NowSports|4|" tvg-logo="https://live.fanmingming.cn/tv/NowSports|4|.png",group-title="体育频道",NowSports|4|
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports4
+
+#EXTINF:-1 tvg-name="NowSports5" tvg-logo="https://live.fanmingming.cn/tv/NowSports5.png",group-title="体育频道",NowSports5
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports5
-#EXTINF:-1 tvg-name="NowSports6" tvg-logo="https://live.fanmingming.cn/tv/NowSports6.png",NowSports6
+
+#EXTINF:-1 tvg-name="NowSports6" tvg-logo="https://live.fanmingming.cn/tv/NowSports6.png",group-title="体育频道",NowSports6
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports6
-#EXTINF:-1 tvg-name="NowSports7" tvg-logo="https://live.fanmingming.cn/tv/NowSports7.png",NowSports7
+
+#EXTINF:-1 tvg-name="NowSports7" tvg-logo="https://live.fanmingming.cn/tv/NowSports7.png",group-title="体育频道",NowSports7
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports7
-#EXTINF:-1 tvg-name="NowSports英超1台" tvg-logo="https://live.fanmingming.cn/tv/NowSports英超1台.png",NowSports英超1台
+
+#EXTINF:-1 tvg-name="NowSports英超1台" tvg-logo="https://live.fanmingming.cn/tv/NowSports英超1台.png",group-title="体育频道",NowSports英超1台
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports英超1台
-#EXTINF:-1 tvg-name="NowSports英超2台" tvg-logo="https://live.fanmingming.cn/tv/NowSports英超2台.png",NowSports英超2台
+
+#EXTINF:-1 tvg-name="NowSports英超2台" tvg-logo="https://live.fanmingming.cn/tv/NowSports英超2台.png",group-title="体育频道",NowSports英超2台
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports英超2台
-#EXTINF:-1 tvg-name="NowSports英超3台" tvg-logo="https://live.fanmingming.cn/tv/NowSports英超3台.png",NowSports英超3台
+
+#EXTINF:-1 tvg-name="NowSports英超3台" tvg-logo="https://live.fanmingming.cn/tv/NowSports英超3台.png",group-title="体育频道",NowSports英超3台
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports英超3台
-#EXTINF:-1 tvg-name="NowSports英超|4|台" tvg-logo="https://live.fanmingming.cn/tv/NowSports英超|4|台.png",NowSports英超|4|台
-http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports英超|4|台
-#EXTINF:-1 tvg-name="NowSports英超5台" tvg-logo="https://live.fanmingming.cn/tv/NowSports英超5台.png",NowSports英超5台
+
+#EXTINF:-1 tvg-name="NowSports英超|4|台" tvg-logo="https://live.fanmingming.cn/tv/NowSports英超|4|台.png",group-title="体育频道",NowSports英超|4|台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports英超4台
+
+#EXTINF:-1 tvg-name="NowSports英超5台" tvg-logo="https://live.fanmingming.cn/tv/NowSports英超5台.png",group-title="体育频道",NowSports英超5台
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports英超5台
-#EXTINF:-1 tvg-name="NowSports英超6台" tvg-logo="https://live.fanmingming.cn/tv/NowSports英超6台.png",NowSports英超6台
+
+#EXTINF:-1 tvg-name="NowSports英超6台" tvg-logo="https://live.fanmingming.cn/tv/NowSports英超6台.png",group-title="体育频道",NowSports英超6台
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports英超6台
-#EXTINF:-1 tvg-name="C18跑马" tvg-logo="https://live.fanmingming.cn/tv/C18跑马.png",C18跑马
-http://api.mytv666.top/api/qwt.php?t=体育频道&id=C18跑马
-#EXTINF:-1 tvg-name="88跑马台" tvg-logo="https://live.fanmingming.cn/tv/88跑马台.png",88跑马台
-http://api.mytv666.top/api/qwt.php?t=体育频道&id=88跑马台
-#EXTINF:-1 tvg-name="28AI智慧赛马" tvg-logo="https://live.fanmingming.cn/tv/28AI智慧赛马.png",28AI智慧赛马
-http://api.mytv666.top/api/qwt.php?t=体育频道&id=28AI智慧赛马
-#EXTINF:-1 tvg-name="mySUPER直播足球2台" tvg-logo="https://live.fanmingming.cn/tv/mySUPER直播足球2台.png",mySUPER直播足球2台
+
+#EXTINF:-1 tvg-name="mySUPER直播足球2台" tvg-logo="https://live.fanmingming.cn/tv/mySUPER直播足球2台.png",group-title="体育频道",mySUPER直播足球2台
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=mySUPER直播足球2台
-#EXTINF:-1 tvg-name="mySUPER直播足球3台" tvg-logo="https://live.fanmingming.cn/tv/mySUPER直播足球3台.png",mySUPER直播足球3台
+
+#EXTINF:-1 tvg-name="mySUPER直播足球3台" tvg-logo="https://live.fanmingming.cn/tv/mySUPER直播足球3台.png",group-title="体育频道",mySUPER直播足球3台
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=mySUPER直播足球3台
-#EXTINF:-1 tvg-name="mySUPER直播足球|4|台" tvg-logo="https://live.fanmingming.cn/tv/mySUPER直播足球|4|台.png",mySUPER直播足球|4|台
+
+#EXTINF:-1 tvg-name="mySUPER直播足球|4|台" tvg-logo="https://live.fanmingming.cn/tv/mySUPER直播足球|4|台.png",group-title="体育频道",mySUPER直播足球|4|台
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=mySUPER直播足球|4|台
-#EXTINF:-1 tvg-name="mySUPER直播足球5台" tvg-logo="https://live.fanmingming.cn/tv/mySUPER直播足球5台.png",mySUPER直播足球5台
+
+#EXTINF:-1 tvg-name="mySUPER直播足球5台" tvg-logo="https://live.fanmingming.cn/tv/mySUPER直播足球5台.png",group-title="体育频道",mySUPER直播足球5台
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=mySUPER直播足球5台
-#EXTINF:-1 tvg-name="mySUPER直播足球6台" tvg-logo="https://live.fanmingming.cn/tv/mySUPER直播足球6台.png",mySUPER直播足球6台
+
+#EXTINF:-1 tvg-name="mySUPER直播足球6台" tvg-logo="https://live.fanmingming.cn/tv/mySUPER直播足球6台.png",group-title="体育频道",mySUPER直播足球6台
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=mySUPER直播足球6台
-#EXTINF:-1 tvg-name="ELTA体育1" tvg-logo="https://live.fanmingming.cn/tv/ELTA体育1.png",ELTA体育1
+
+#EXTINF:-1 tvg-name="ELTA体育1" tvg-logo="https://live.fanmingming.cn/tv/ELTA体育1.png",group-title="体育频道",ELTA体育1
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=ELTA体育1
-#EXTINF:-1 tvg-name="ELTA体育2" tvg-logo="https://live.fanmingming.cn/tv/ELTA体育2.png",ELTA体育2
+
+#EXTINF:-1 tvg-name="ELTA体育2" tvg-logo="https://live.fanmingming.cn/tv/ELTA体育2.png",group-title="体育频道",ELTA体育2
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=ELTA体育2
-#EXTINF:-1 tvg-name="ELTA体育3" tvg-logo="https://live.fanmingming.cn/tv/ELTA体育3.png",ELTA体育3
+
+#EXTINF:-1 tvg-name="ELTA体育3" tvg-logo="https://live.fanmingming.cn/tv/ELTA体育3.png",group-title="体育频道",ELTA体育3
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=ELTA体育3
-#EXTINF:-1 tvg-name="ELTA体育|4|" tvg-logo="https://live.fanmingming.cn/tv/ELTA体育|4|.png",ELTA体育|4|
+
+#EXTINF:-1 tvg-name="ELTA体育|4|" tvg-logo="https://live.fanmingming.cn/tv/ELTA体育|4|.png",group-title="体育频道",ELTA体育|4|
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=ELTA体育|4|
-#EXTINF:-1 tvg-name="GinxTV电竞频道" tvg-logo="https://live.fanmingming.cn/tv/GinxTV电竞频道.png",GinxTV电竞频道
-http://api.mytv666.top/api/qwt.php?t=体育频道&id=GinxTV电竞频道
-#EXTINF:-1 tvg-name="博斯运动1" tvg-logo="https://live.fanmingming.cn/tv/博斯运动1.png",博斯运动1
+
+#EXTINF:-1 tvg-name="GinxTV电竞频道" tvg-logo="https://live.fanmingming.cn/tv/GinxTV电竞频道.png",group-title="体育频道",GinxTV电竞频道
+1
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯运动1
-#EXTINF:-1 tvg-name="博斯运动2" tvg-logo="https://live.fanmingming.cn/tv/博斯运动2.png",博斯运动2
+
+#EXTINF:-1 tvg-name="博斯运动2" tvg-logo="https://live.fanmingming.cn/tv/博斯运动2.png",group-title="体育频道",博斯运动2
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯运动2
-#EXTINF:-1 tvg-name="博斯高球1" tvg-logo="https://live.fanmingming.cn/tv/博斯高球1.png",博斯高球1
+
+#EXTINF:-1 tvg-name="博斯高球1" tvg-logo="https://live.fanmingming.cn/tv/博斯高球1.png",group-title="体育频道",博斯高球1
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯高球1
-#EXTINF:-1 tvg-name="博斯高球2" tvg-logo="https://live.fanmingming.cn/tv/博斯高球2.png",博斯高球2
+
+#EXTINF:-1 tvg-name="博斯高球2" tvg-logo="https://live.fanmingming.cn/tv/博斯高球2.png",group-title="体育频道",博斯高球2
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯高球2
-#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.cn/tv/博斯网球.png",博斯网球
+
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.cn/tv/博斯网球.png",group-title="体育频道",博斯网球
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯网球
-#EXTINF:-1 tvg-name="博斯无限" tvg-logo="https://live.fanmingming.cn/tv/博斯无限.png",博斯无限
+
+#EXTINF:-1 tvg-name="博斯无限" tvg-logo="https://live.fanmingming.cn/tv/博斯无限.png",group-title="体育频道",博斯无限
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯无限
-#EXTINF:-1 tvg-name="博斯无限2" tvg-logo="https://live.fanmingming.cn/tv/博斯无限2.png",博斯无限2
+
+#EXTINF:-1 tvg-name="博斯无限2" tvg-logo="https://live.fanmingming.cn/tv/博斯无限2.png",group-title="体育频道",博斯无限2
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯无限2
-#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://live.fanmingming.cn/tv/博斯魅力.png",博斯魅力
+
+#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://live.fanmingming.cn/tv/博斯魅力.png",group-title="体育频道",博斯魅力
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯魅力
-#EXTINF:-1 tvg-name="智林体育台" tvg-logo="https://live.fanmingming.cn/tv/智林体育台.png",智林体育台
+
+#EXTINF:-1 tvg-name="智林体育台" tvg-logo="https://live.fanmingming.cn/tv/智林体育台.png",group-title="体育频道",智林体育台
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=智林体育台
-#EXTINF:-1 tvg-name="TRACESportStars" tvg-logo="https://live.fanmingming.cn/tv/TRACESportStars.png",TRACESportStars
-http://api.mytv666.top/api/qwt.php?t=体育频道&id=TRACESportStars
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.cn/tv/纬来体育.png",纬来体育
+
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.cn/tv/纬来体育.png",group-title="体育频道",纬来体育
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=纬来体育
 
 #香港频道
