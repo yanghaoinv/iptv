@@ -190,9 +190,8 @@ http://39.135.135.11/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/inde
 http://39.134.65.106/PLTV/88888888/224/3221225670/1.m3u8
 
 #EXTINF:-1 group-title="地方卫视",兵团卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040020&livemode=1&stbId=yu&mode=1&$4M SD
-https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 http://39.135.133.178/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 #EXTINF:-1 group-title="地方卫视",安多卫视
 http://39.134.65.106/PLTV/88888888/224/3221225531/1.m3u8
@@ -367,6 +366,125 @@ http://39.134.65.106/PLTV/88888888/224/3221225514/1.m3u8
 #EXTINF:-1 group-title="地方卫视",云南卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8567124785369040339&livemode=1&stbId=yu&mode=1&$2M SD
 http://39.134.65.106/PLTV/88888888/224/3221225957/1.m3u8
+
+#体育频道
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV5.png" group-title="体育频道",CCTV5体育
+http://39.135.133.134/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
+http://39.134.65.106/PLTV/88888888/224/3221225818/1.m3u8
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=reallive-cctv5&livemode=1&stbId=yu&mode=1&$2M HD
+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV5+.png" group-title="体育频道",CCTV5+体育赛事
+http://39.134.65.71/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+http://39.134.65.106/PLTV/88888888/224/3221225507/1.m3u8
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=reallive-cctv5plus&livemode=1&stbId=yu&mode=1&$2M HD
+
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV16.png" group-title="体育频道",CCTV16奥林匹克
+http://39.135.133.139/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+http://39.134.65.106/PLTV/88888888/224/3221225893/1.m3u8
+
+#EXTINF:-1 tvg-name="超级体育" tvg-logo="https://epg.v1.mk/logo/超级体育.png" group-title="体育频道",NewTV超级体育
+http://39.134.65.106/PLTV/88888888/224/3221225635/1.m3u8
+http://39.134.65.66/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000007755&livemode=1&stbId=yu&mode=1&$4M FHD
+
+#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://epg.v1.mk/logo/精品体育.png" group-title="体育频道",NewTV精品体育
+http://39.134.65.106/PLTV/88888888/224/3221225526/1.m3u8
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6460382139625130259&livemode=1&stbId=yu&mode=1&$4M FHD
+
+#EXTINF:-1 group-title="体育频道",睛彩篮球
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=yu&mode=1&$8M FHD
+http://39.134.65.106/PLTV/88888888/224/3221226027/1.m3u8
+http://39.134.65.106/PLTV/88888888/224/3221225895/1.m3u8
+
+#EXTINF:-1 group-title="体育频道",睛彩竞技
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=yu&mode=1&$8M FHD
+http://39.134.65.106/PLTV/88888888/224/3221225897/1.m3u8
+
+#EXTINF:-1 group-title="体育频道",Astro Sport UHD
+https://s1.tvm4a1.cfd/astro/astrosportuhd/AKTV.m3u8
+
+#EXTINF:-1 group-title="体育频道",法国 Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="NBATV" tvg-logo="https://live.fanmingming.cn/tv/NBATV.png",NBATV
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NBATV
+#EXTINF:-1 tvg-name="HKC18台" tvg-logo="https://live.fanmingming.cn/tv/HKC18台.png",HKC18台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=HKC18台
+#EXTINF:-1 tvg-name="NowSports1" tvg-logo="https://live.fanmingming.cn/tv/NowSports1.png",NowSports1
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports1
+#EXTINF:-1 tvg-name="NowSports2" tvg-logo="https://live.fanmingming.cn/tv/NowSports2.png",NowSports2
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports2
+#EXTINF:-1 tvg-name="NowSports3" tvg-logo="https://live.fanmingming.cn/tv/NowSports3.png",NowSports3
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports3
+#EXTINF:-1 tvg-name="NowSports|4|" tvg-logo="https://live.fanmingming.cn/tv/NowSports|4|.png",NowSports|4|
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports|4|
+#EXTINF:-1 tvg-name="NowSports5" tvg-logo="https://live.fanmingming.cn/tv/NowSports5.png",NowSports5
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports5
+#EXTINF:-1 tvg-name="NowSports6" tvg-logo="https://live.fanmingming.cn/tv/NowSports6.png",NowSports6
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports6
+#EXTINF:-1 tvg-name="NowSports7" tvg-logo="https://live.fanmingming.cn/tv/NowSports7.png",NowSports7
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports7
+#EXTINF:-1 tvg-name="NowSports英超1台" tvg-logo="https://live.fanmingming.cn/tv/NowSports英超1台.png",NowSports英超1台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports英超1台
+#EXTINF:-1 tvg-name="NowSports英超2台" tvg-logo="https://live.fanmingming.cn/tv/NowSports英超2台.png",NowSports英超2台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports英超2台
+#EXTINF:-1 tvg-name="NowSports英超3台" tvg-logo="https://live.fanmingming.cn/tv/NowSports英超3台.png",NowSports英超3台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports英超3台
+#EXTINF:-1 tvg-name="NowSports英超|4|台" tvg-logo="https://live.fanmingming.cn/tv/NowSports英超|4|台.png",NowSports英超|4|台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports英超|4|台
+#EXTINF:-1 tvg-name="NowSports英超5台" tvg-logo="https://live.fanmingming.cn/tv/NowSports英超5台.png",NowSports英超5台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports英超5台
+#EXTINF:-1 tvg-name="NowSports英超6台" tvg-logo="https://live.fanmingming.cn/tv/NowSports英超6台.png",NowSports英超6台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports英超6台
+#EXTINF:-1 tvg-name="C18跑马" tvg-logo="https://live.fanmingming.cn/tv/C18跑马.png",C18跑马
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=C18跑马
+#EXTINF:-1 tvg-name="88跑马台" tvg-logo="https://live.fanmingming.cn/tv/88跑马台.png",88跑马台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=88跑马台
+#EXTINF:-1 tvg-name="28AI智慧赛马" tvg-logo="https://live.fanmingming.cn/tv/28AI智慧赛马.png",28AI智慧赛马
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=28AI智慧赛马
+#EXTINF:-1 tvg-name="mySUPER直播足球2台" tvg-logo="https://live.fanmingming.cn/tv/mySUPER直播足球2台.png",mySUPER直播足球2台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=mySUPER直播足球2台
+#EXTINF:-1 tvg-name="mySUPER直播足球3台" tvg-logo="https://live.fanmingming.cn/tv/mySUPER直播足球3台.png",mySUPER直播足球3台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=mySUPER直播足球3台
+#EXTINF:-1 tvg-name="mySUPER直播足球|4|台" tvg-logo="https://live.fanmingming.cn/tv/mySUPER直播足球|4|台.png",mySUPER直播足球|4|台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=mySUPER直播足球|4|台
+#EXTINF:-1 tvg-name="mySUPER直播足球5台" tvg-logo="https://live.fanmingming.cn/tv/mySUPER直播足球5台.png",mySUPER直播足球5台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=mySUPER直播足球5台
+#EXTINF:-1 tvg-name="mySUPER直播足球6台" tvg-logo="https://live.fanmingming.cn/tv/mySUPER直播足球6台.png",mySUPER直播足球6台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=mySUPER直播足球6台
+#EXTINF:-1 tvg-name="ELTA体育1" tvg-logo="https://live.fanmingming.cn/tv/ELTA体育1.png",ELTA体育1
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=ELTA体育1
+#EXTINF:-1 tvg-name="ELTA体育2" tvg-logo="https://live.fanmingming.cn/tv/ELTA体育2.png",ELTA体育2
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=ELTA体育2
+#EXTINF:-1 tvg-name="ELTA体育3" tvg-logo="https://live.fanmingming.cn/tv/ELTA体育3.png",ELTA体育3
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=ELTA体育3
+#EXTINF:-1 tvg-name="ELTA体育|4|" tvg-logo="https://live.fanmingming.cn/tv/ELTA体育|4|.png",ELTA体育|4|
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=ELTA体育|4|
+#EXTINF:-1 tvg-name="GinxTV电竞频道" tvg-logo="https://live.fanmingming.cn/tv/GinxTV电竞频道.png",GinxTV电竞频道
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=GinxTV电竞频道
+#EXTINF:-1 tvg-name="博斯运动1" tvg-logo="https://live.fanmingming.cn/tv/博斯运动1.png",博斯运动1
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯运动1
+#EXTINF:-1 tvg-name="博斯运动2" tvg-logo="https://live.fanmingming.cn/tv/博斯运动2.png",博斯运动2
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯运动2
+#EXTINF:-1 tvg-name="博斯高球1" tvg-logo="https://live.fanmingming.cn/tv/博斯高球1.png",博斯高球1
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯高球1
+#EXTINF:-1 tvg-name="博斯高球2" tvg-logo="https://live.fanmingming.cn/tv/博斯高球2.png",博斯高球2
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯高球2
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.cn/tv/博斯网球.png",博斯网球
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯网球
+#EXTINF:-1 tvg-name="博斯无限" tvg-logo="https://live.fanmingming.cn/tv/博斯无限.png",博斯无限
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯无限
+#EXTINF:-1 tvg-name="博斯无限2" tvg-logo="https://live.fanmingming.cn/tv/博斯无限2.png",博斯无限2
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯无限2
+#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://live.fanmingming.cn/tv/博斯魅力.png",博斯魅力
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯魅力
+#EXTINF:-1 tvg-name="智林体育台" tvg-logo="https://live.fanmingming.cn/tv/智林体育台.png",智林体育台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=智林体育台
+#EXTINF:-1 tvg-name="TRACESportStars" tvg-logo="https://live.fanmingming.cn/tv/TRACESportStars.png",TRACESportStars
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=TRACESportStars
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.cn/tv/纬来体育.png",纬来体育
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=纬来体育
 
 #香港频道
 #EXTINF:-1 group-title="香港频道",HK 天映电影
@@ -613,10 +731,6 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=685905
 http://39.134.65.106/PLTV/88888888/224/3221225538/1.m3u8
 http://39.134.65.3/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 
-#EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://epg.v1.mk/logo/精彩影视.png" group-title="数字频道",精彩影视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000004000000063&livemode=1&stbId=yu&mode=1&$8M FHD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6000000006000320630&livemode=1&stbId=yu&mode=1&$8M FHD
-
 #EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://epg.v1.mk/logo/金牌综艺.png" group-title="数字频道",NewTV金牌综艺
 http://39.134.65.106/PLTV/88888888/224/3221225525/1.m3u8
 http://39.135.135.24/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
@@ -660,58 +774,20 @@ http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8
 
 #EXTINF:-1 group-title="数字频道",求索纪录
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000004000000010&livemode=1&stbId=yu&mode=1&$8M FHD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6000000002000032052&livemode=1&stbId=yu&mode=1&$8M FHD
 http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
 
-#EXTINF:-1 group-title="数字频道",求索动物
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000004000000009&livemode=1&stbId=yu&mode=1&$8M FHD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6000000002000010046&livemode=1&stbId=yu&mode=1&$8M FHD
-
-#EXTINF:-1 group-title="数字频道",求索科学
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000004000000011&livemode=1&stbId=yu&mode=1&$8M FHD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6000000002000032344&livemode=1&stbId=yu&mode=1&$8M FHD
-
 #EXTINF:-1 group-title="数字频道",睛彩篮球
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=yu&mode=1&$8M FHD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=yu&mode=1&$8M FHD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000003000000061&livemode=1&stbId=yu&mode=1&$8M FHD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000003000000065&livemode=1&stbId=yu&mode=1&$8M FHD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000270002&livemode=1&stbId=yu&mode=1&$8M FHD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000270006&livemode=1&stbId=yu&mode=1&$8M FHD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=yu&mode=1&$8M FHD
 http://39.134.65.106/PLTV/88888888/224/3221226027/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225895/1.m3u8
 
 #EXTINF:-1 group-title="数字频道",睛彩竞技
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=yu&mode=1&$8M FHD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=yu&mode=1&$8M FHD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000003000000060&livemode=1&stbId=yu&mode=1&$8M FHD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000270001&livemode=1&stbId=yu&mode=1&$8M FHD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=yu&mode=1&$8M FHD
 http://39.134.65.106/PLTV/88888888/224/3221225897/1.m3u8
 
-#EXTINF:-1 group-title="数字频道",欢笑剧场4K
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000002000009455&livemode=1&stbId=yu&mode=1&$4M FHD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000007000010001&livemode=1&stbId=yu&mode=1&$12M UHD HEVC
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000002000000016&livemode=1&stbId=yu&mode=1&$4M FHD
-
-#EXTINF:-1 group-title="数字频道",都市剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000002000004412&livemode=1&stbId=yu&mode=1&$4M FHD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031111&livemode=1&stbId=yu&mode=1&$8M FHD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000002000000015&livemode=1&stbId=yu&mode=1&$4M FHD
-
 #EXTINF:-1 group-title="数字频道",至臻视界
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=yu&mode=1&$24M UHD
-
-#EXTINF:-1 group-title="数字频道",劲爆体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000002000029972&livemode=1&stbId=yu&mode=1&$4M FHD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000002000000008&livemode=1&stbId=yu&mode=1&$4M FHD
-
-#EXTINF:-1 group-title="数字频道",魅力足球
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031207&livemode=1&stbId=yu&mode=1&$8M FHD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000002000000068&livemode=1&stbId=yu&mode=1&$8M FHD
 
 #电影频道
 #EXTINF:-1 group-title="电影频道",功夫电影
@@ -820,7 +896,7 @@ http://tv.666150.xyz/huya.php?id=30080229
 http://home.kuaidi521.com:35455/douyu/2793084
 http://zzy789.xyz/douyu1.php?id=2793084
 
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电视剧频道",邵氏港剧轮播影院
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电视剧频道",邵氏港剧轮播
 http://home.kuaidi521.com:35455/douyu/4246519
 
 #EXTINF:-1 group-title="电视剧频道",斗鱼华语轮播
