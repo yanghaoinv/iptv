@@ -382,6 +382,9 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=realli
 http://39.135.133.139/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225893/1.m3u8
 
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/风云足球.png" group-title="央视频道",CCTV风云足球
+http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
+
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://epg.v1.mk/logo/超级体育.png" group-title="体育频道",NewTV超级体育
 http://39.134.65.106/PLTV/88888888/224/3221225635/1.m3u8
 http://39.134.65.66/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
@@ -400,8 +403,17 @@ http://39.134.65.106/PLTV/88888888/224/3221225895/1.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=yu&mode=1&$8M FHD
 http://39.134.65.106/PLTV/88888888/224/3221225897/1.m3u8
 
+#EXTINF:-1 group-title="体育频道",五星体育
+http://180.165.132.50:5003/custom7.m3u8?token=7375646f7f243bc6900aec4cf18dac424edcefe4&z=1f48
+
+#EXTINF:-1 group-title="体育频道",纬来体育台
+https://s1.tvm4a1.cfd/aktv2/CH-0/AKTV.m3u8
+
 #EXTINF:-1 group-title="体育频道",Astro Sport UHD
 https://s1.tvm4a1.cfd/astro/astrosportuhd/AKTV.m3u8
+
+#EXTINF:-1 group-title="体育频道",Astro Football
+https://s1.tvm4a1.cfd/astro/CH-0/AKTV.m3u8
 
 #EXTINF:-1 group-title="体育频道",法国 Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
@@ -539,6 +551,7 @@ https://stream1.freetv.fun/68b1246ebb6ebb9be45a97042d751c9f214ed4baa3ecd11827101
 
 #EXTINF:-1 group-title="香港频道",PopC
 https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
+https://s1.tvm4a1.cfd/aktv/popc/AKTV.m3u8
 
 #EXTINF:-1 group-title="香港频道",HK 凤凰电影（SD）
 https://stream1.freetv.fun/75cf3fd3b2e39cb22ee433381aeafdfabd12682b75b524b21992dc0b7284fcaa.m3u8
@@ -554,12 +567,19 @@ https://stream1.freetv.fun/4db377997e788111dc3a7a47fec67132e36bd8221c27f01f0d14a
 https://stream1.freetv.fun/fc542dddf6d96335d494c255d5df19fc0f2c61c46779dd9fe85e54b1559c3460.ctv
 
 #EXTINF:-1 group-title="香港频道",HK TVB翡翠台
+https://s1.tvm4a1.cfd/aktv/CH-0/AKTV.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 https://stream1.freetv.fun/2d6d5de01dfd6fdcaaf4fe4b5ab0188eb1849a91fee22cc73276e6737ce055a8.m3u8
 
 #EXTINF:-1 group-title="香港频道",HK TVB华丽翡翠台
 http://php.jdshipin.com/smt.php?id=Tvbjade
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+
+#EXTINF:17 aktv-group="AKTV" tvg-id="aktv/CH-17" provider-type="iptv",TVBJ1 翡翠综合台(北美)
+https://s1.tvm4a1.cfd/aktv/CH-17/AKTV.m3u8
+
+#EXTINF:21 aktv-group="AKTV" tvg-id="aktv/CH-6" provider-type="iptv",黃金翡翠台
+https://s1.tvm4a1.cfd/aktv/CH-6/AKTV.m3u8
 
 #EXTINF:-1 group-title="香港频道",HK TVB星河
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
@@ -618,7 +638,7 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPla
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 
 #EXTINF:-1 group-title="香港频道",HK TVB Plus
-https://s2.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
+https://s1.tvm4a1.cfd/aktv/tvbplus/AKTV.m3u8
 https://stream1.freetv.fun/5c71ddc1ee039d8057898c807e9cda2dfc61c7534d017fbf7c0de04c5c58c890.ctv
 https://stream1.freetv.fun/6ade45822dc9265d4aba6c1854bfd6a2635b13d96624929150024f662eca25d7.m3u8
 
@@ -800,6 +820,9 @@ http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
 
+#EXTINF:-1 group-title="数字频道",Love Nature HD
+https://s1.tvm4a1.cfd/aktv/lovenaturehd/AKTV.m3u8
+
 #EXTINF:-1 group-title="数字频道",睛彩篮球
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=yu&mode=1&$8M FHD
 http://39.134.65.106/PLTV/88888888/224/3221226027/1.m3u8
@@ -817,6 +840,9 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=300000
 http://cfss.cc/cdn/hy/11352941.m3u8
 http://tv.666150.xyz/huya.php?id=11352941
 
+#EXTINF:-1 group-title="电影频道",AXN
+https://s1.tvm4a1.cfd/aktv/axn/AKTV.m3u8
+
 #EXTINF:-1 group-title="电影频道",Cinemax moviemax east *s
 https://stream1.freetv.fun/9688d1b574cdd431a871ad3a2b6fce97073a816f01b2bac131ac15279907d291.m3u8
 
@@ -830,6 +856,7 @@ https://stream1.freetv.fun/46548b192d8d62dfbff211d0b3d3a179c90b7fb6afe8a90e124a9
 https://stream1.freetv.fun/ec5abcee4ac751e184362443f03e3cb33b96233b0377350fb5c3e35d1340225e.m3u8
 
 #EXTINF:-1 group-title="电影频道",Rock Action
+https://s1.tvm4a1.cfd/aktv/rockaction/AKTV.m3u8
 https://stream1.freetv.fun/1060c60d9bbb1d33de512d316d681a11a1dd5b6364a1e83e1afb18ac9219fa1d.m3u8
 https://stream1.freetv.fun/b148cccc1e5501997ccd2a8ebfec673e42e1bbfacceaa7ab61ba3d05e1152de8.ctv
 
@@ -1310,6 +1337,7 @@ http://nas.hssvm.com:8888/udp/225.1.1.216:5002
 
 #EXTINF:-1 group-title="少儿频道",HK Animax
 https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
+https://s1.tvm4a1.cfd/aktv/animaxhk/AKTV.m3u8
 
 #EXTINF:-1 group-title="少儿频道",HK Viutv Six（少儿）
 https://stream1.freetv.fun/5fe3cb2358c4e355059b3dcc97b64685b5fc5e8ee264f54624bd4c2a75477ade.ctv
