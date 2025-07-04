@@ -489,7 +489,6 @@ http://api.mytv666.top/api/qwt.php?t=体育频道&id=ELTA体育|4|
 
 #香港频道
 #EXTINF:-1 group-title="香港频道",HK 天映电影
-https://s1.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
 https://stream1.freetv.fun/226b412bfdeef100d39a3a86bfebe3dd88a6c1f9dc12d5df3d5cbc24c2c5e6dd.m3u8
 
 #EXTINF:-1 group-title="香港频道",[HD]天映频道 Celestial Movies
@@ -505,7 +504,7 @@ http://cdn9.163189.xyz/smt3.1.1.php?id=TvbClassic
 http://aktv_stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
 
 #EXTINF:-1 group-title="香港频道",HK 美亚电影台
-https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8
+https://s2.tvm4a1.cfd/aktv/hk/AKTV.m3u8
 
 #EXTINF:-1 group-title="香港频道",HK 美亚电影台 [HD]
 https://stream1.freetv.fun/42b1fc4ec1e503820acd3e2c367e0c00b12fcf08340ec5674fa22b0c8260581c.ctv
@@ -516,7 +515,6 @@ http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct
 https://stream1.freetv.fun/68b1246ebb6ebb9be45a97042d751c9f214ed4baa3ecd11827101243551b5fdc.ctv
 
 #EXTINF:-1 group-title="香港频道",PopC
-https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
 https://s1.tvm4a1.cfd/aktv/popc/AKTV.m3u8
 
 #EXTINF:-1 group-title="香港频道",HK 凤凰电影（SD）
@@ -556,7 +554,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 
 #EXTINF:-1 group-title="香港频道",HK TVB 无线新闻
 https://stream1.freetv.fun/ccba0351b8318bedd9168ef7a76e3b2e9a0bee295e05694b0feb45aa0916b97d.ctv
-https://s2.m16tv.cfd/aktv/CH-1/AKTV.m3u8
+https://s2.tvm4a1.cfd/aktv/CH-1/AKTV.m3u8
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
 #EXTINF:-1 group-title="香港频道",HK 香港卫视
@@ -630,19 +628,19 @@ https://stream1.freetv.fun/99f3233e5bc35124a936ce032ec14fdf9c2ad50336346faaa4075
 https://stream1.freetv.fun/8b1ef976b314ce76f7a659b187e36fb6feabe376e2b9fd05c682f386092e487c.m3u8
 
 #EXTINF:-1 group-title="台湾频道",TW Channel 8 HD
-https://s1.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
+https://s1.tvm4a1.cfd/aktv/channel8hd/AKTV.m3u8
 https://stream1.freetv.fun/82b3b5d8a546ef5883bd4b19e425b0b5b8a5133c36aba32abe0230a36d448b50.m3u8
 https://stream1.freetv.fun/810d506d45bac86c654d113bc57e3047f4dfb304db2376c67a47180507bdc7b6.m3u8
 https://stream1.freetv.fun/82b3b5d8a546ef5883bd4b19e425b0b5b8a5133c36aba32abe0230a36d448b50.m3u8
 
 #EXTINF:-1 group-title="台湾频道",TW M-U HD
-https://s1.m16tv.cfd/aktv/channeluhd/AKTV.m3u8
+https://s1.tvm4a1.cfd/aktv/channeluhd/AKTV.m3u8
 
 #EXTINF:-1 group-title="台湾频道",TW 人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 
 #EXTINF:-1 group-title="台湾频道",TW TVBS
-https://s1.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
+https://s1.tvm4a1.cfd/taiwan/tvbs/AKTV.m3u8
 
 #EXTINF:-1 group-title="台湾频道",TW TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
@@ -662,7 +660,7 @@ https://stream1.freetv.fun/ffa3a8fc52b4834c300b3587a667310b5eb8a46d000498709791b
 https://s1.m16tv.cfd/taiwan/CH-1/AKTV.m3u8
 
 #EXTINF:-1 group-title="台湾频道",TW 民视第一台
-https://s1.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
+https://s1.tvm4a1.cfd/taiwan/CH-0/AKTV.m3u8
 
 #EXTINF:-1 group-title="台湾频道",TW 民视新闻
 https://stream1.freetv.fun/53ca0a5de7a07569cee0fb25ff84d53241cdef34fb8ebb2d90ba4151881afb36.ctv
@@ -671,7 +669,7 @@ https://stream1.freetv.fun/53ca0a5de7a07569cee0fb25ff84d53241cdef34fb8ebb2d90ba4
 https://stream1.freetv.fun/637ceff2dfb72b24ad6929da061ccf235af38b9469ba999c577b1c3d1ee25740.ctv
 
 #EXTINF:-1 group-title="台湾频道",TW 东森电影
-https://s2.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
+https://s2.tvm4a1.cfd/aktv2/CH-1/AKTV.m3u8
 
 #数字频道
 #EXTINF:-1 group-title="数字频道",CHC动作电影
@@ -829,7 +827,7 @@ http://cfss.cc/cdn/hy/11352941.m3u8
 http://tv.666150.xyz/huya.php?id=11352941
 
 #EXTINF:-1 group-title="台湾频道",TW 东森电影
-https://s2.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
+https://s2.tvm4a1.cfd/aktv2/CH-1/AKTV.m3u8
 
 #EXTINF:-1 group-title="电影频道",[SD]CCM
 https://stream1.freetv.fun/46548b192d8d62dfbff211d0b3d3a179c90b7fb6afe8a90e124a94d7d4346d58.ctv
