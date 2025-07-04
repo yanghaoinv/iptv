@@ -132,32 +132,39 @@ http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
 http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
 
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CGTN纪录.png" group-title="央视频道",CGTN记录
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7114647837765104058&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8428799834696888424&livemode=1&stbId=yu&mode=1&$2M SD
 https://0472.org/hls/cgtnd.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225509/1.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8428799834696888424&livemode=1&stbId=yu&mode=1&$2M SD
 
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CGTN.png" group-title="央视频道",CGTN英语
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=4810873738577663591&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7745129417417101820&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000009569&livemode=1&stbId=yu&mode=1&$4M SD
 https://0472.org/hls/cgtn.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225510/1.m3u8
 http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 https://stream1.freetv.fun/bd022833292ad7c9cc7f961ee984c8cd022476f5fbedcac021a104260aeb62a0.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7745129417417101820&livemode=1&stbId=yu&mode=1&$8M FHD
 
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CGTN俄语.png" group-title="央视频道",CGTN俄语
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000280004&livemode=1&stbId=yu&mode=1&$4M SD
 https://0472.org/hls/cgtne.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221226096/1.m3u8
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
 
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CGTN法语.png" group-title="央视频道",CGTN法语
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000280003&livemode=1&stbId=yu&mode=1&$4M SD
 https://0472.org/hls/cgtnf.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221226083/1.m3u8
 
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CGTN西语.png" group-title="央视频道",CGTN西语
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000280002&livemode=1&stbId=yu&mode=1&$4M SD
 https://0472.org/hls/cgtnx.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221226094/1.m3u8
 http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CGTN阿语.png" group-title="央视频道",CGTN阿语
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000280001&livemode=1&stbId=yu&mode=1&$4M SD
 https://0472.org/hls/cgtna.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221226081/1.m3u8
 
@@ -169,206 +176,356 @@ http://utv1.hqtvzb.com:9999/hls/world.m3u8
 
 #地方卫视
 #EXTINF:-1 group-title="地方卫视",东南卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7721801662260370363&livemode=1&stbId=yu&mode=1&$2M HD
 http://39.134.65.106/PLTV/88888888/224/3221225950/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225500/1.m3u8
 http://39.134.65.77/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7721801662260370363&livemode=1&stbId=yu&mode=1&$2M HD
 
 #EXTINF:-1 group-title="地方卫视",东方卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=4699937686040264690&livemode=1&stbId=yu&mode=1&$2M HD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6081477947334326291&livemode=1&stbId=yu&mode=1&$2M HD
 http://39.134.65.106/PLTV/88888888/224/3221225672/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225673/1.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6690661682550849647&livemode=1&stbId=yu&mode=1&$2M HD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=4699937686040264690&livemode=1&stbId=yu&mode=1&$2M HD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6081477947334326291&livemode=1&stbId=yu&mode=1&$2M HD
 
 #EXTINF:-1 group-title="地方卫视",北京卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8186688740528366039&livemode=1&stbId=yu&mode=1&$2M HD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8258663409451267714&livemode=1&stbId=yu&mode=1&$2M HD
 http://39.134.65.106/PLTV/88888888/224/3221225678/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225927/1.m3u8
 http://39.135.135.11/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8186688740528366039&livemode=1&stbId=yu&mode=1&$2M HD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8258663409451267714&livemode=1&stbId=yu&mode=1&$2M HD
 
 #EXTINF:-1 group-title="地方卫视",北京纪实科教
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031204&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000002000000065&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000003000000026&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000001910&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000028380&livemode=1&stbId=yu&mode=1&$4M FHD
 http://39.134.65.106/PLTV/88888888/224/3221225670/1.m3u8
 
 #EXTINF:-1 group-title="地方卫视",兵团卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040020&livemode=1&stbId=yu&mode=1&$4M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000266005&livemode=1&stbId=yu&mode=1&$4M SD
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 http://39.135.133.178/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",安多卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000022124&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000266001&livemode=1&stbId=yu&mode=1&$4M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7248678452522064966&livemode=1&stbId=yu&mode=1&$2M SD
 http://39.134.65.106/PLTV/88888888/224/3221225531/1.m3u8
 http://39.134.65.78/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",安徽卫视
-http://39.134.65.106/PLTV/88888888/224/3221225925/1.m3u8
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000027288&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000023002&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8815051804265066702&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6000000001000009954&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000020780&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000030159&livemode=1&stbId=yu&mode=1&$8M FHD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=4774346722046993363&livemode=1&stbId=yu&mode=1&$2M HD
+http://39.134.65.106/PLTV/88888888/224/3221225925/1.m3u8
 
 #EXTINF:-1 group-title="地方卫视",新疆卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040018&livemode=1&stbId=yu&mode=1&$4M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000029441&livemode=1&stbId=yu&mode=1&$4M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5802765535081445534&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5802765535081445534&livemode=1&stbId=yu&mode=1&$2M SD
 http://39.134.65.106/PLTV/88888888/224/3221225582/1.m3u8
 http://39.135.133.147/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5802765535081445534&livemode=1&stbId=yu&mode=1&$2M SD
 
 #EXTINF:-1 group-title="地方卫视",延边卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000003000000049&livemode=1&stbId=yu&mode=1&$4M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000266008&livemode=1&stbId=yu&mode=1&$4M SD
 http://39.134.65.106/PLTV/88888888/224/3221226040/1.m3u8
 http://39.135.133.159/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",重庆卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000025797&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5795701757771275875&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000001096&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000018937&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000265017&livemode=1&stbId=yu&mode=1&$6M FHD HEVC
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=4995134319251569870&livemode=1&stbId=yu&mode=1&$2M HD
 http://39.134.65.106/PLTV/88888888/224/3221225502/1.m3u8
 http://39.134.65.75/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=4995134319251569870&livemode=1&stbId=yu&mode=1&$2M HD
 
 #EXTINF:-1 group-title="地方卫视",广东卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000014694&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000030417&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6006643234125022740&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5306115082857917057&livemode=1&stbId=yu&mode=1&$2M HD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6000000001000031076&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000014176&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000028357&livemode=1&stbId=yu&mode=1&$4M FHD
 http://39.134.65.106/PLTV/88888888/224/3221225962/1.m3u8
 http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5306115082857917057&livemode=1&stbId=yu&mode=1&$2M HD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5616881981321254555&livemode=1&stbId=yu&mode=1&$2M HD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6604532991586541024&livemode=1&stbId=yu&mode=1&$2M HD
 
 #EXTINF:-1 group-title="地方卫视",广西卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040014&livemode=1&stbId=yu&mode=1&$4M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031118&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5411468428139664300&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000019837&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8069815772565148726&livemode=1&stbId=yu&mode=1&$2M SD
 http://39.134.65.106/PLTV/88888888/224/3221226024/1.m3u8
 http://39.135.133.160/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221226009/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225496/1.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8069815772565148726&livemode=1&stbId=yu&mode=1&$2M SD
 
 #EXTINF:-1 group-title="地方卫视",陕西卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040017&livemode=1&stbId=yu&mode=1&$4M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7400528621461986101&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000007495&livemode=1&stbId=yu&mode=1&$4M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7120278140251237664&livemode=1&stbId=yu&mode=1&$2M SD
 http://39.134.65.106/PLTV/88888888/224/3221225989/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225567/1.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7120278140251237664&livemode=1&stbId=yu&mode=1&$2M SD
 
 #EXTINF:-1 group-title="地方卫视",贵州卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000025843&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6399538709763552932&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000003169&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5468064193211864646&livemode=1&stbId=yu&mode=1&$2M SD
 http://39.134.65.79/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225626/index.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225576/1.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5468064193211864646&livemode=1&stbId=yu&mode=1&$2M SD
 
 #EXTINF:-1 group-title="地方卫视",海南卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000006211&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6416920617511796880&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000023773&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7899627377857656087&livemode=1&stbId=yu&mode=1&$2M SD
 http://39.134.65.106/PLTV/88888888/224/3221225530/1.m3u8
 http://39.134.65.75/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7899627377857656087&livemode=1&stbId=yu&mode=1&$2M SD
 
 #EXTINF:-1 group-title="地方卫视",河北卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040016&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000017118&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8360637122634561354&livemode=1&stbId=yu&mode=1&$2M SD
 http://39.134.65.106/PLTV/88888888/224/3221225495/1.m3u8
 http://39.135.133.180/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8360637122634561354&livemode=1&stbId=yu&mode=1&$2M SD
 
 #EXTINF:-1 group-title="地方卫视",河南卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000005000017925&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031119&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000027731&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7304224304099543804&livemode=1&stbId=yu&mode=1&$2M SD
 http://39.134.65.106/PLTV/88888888/224/3221225988/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221226023/1.m3u8
 http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7304224304099543804&livemode=1&stbId=yu&mode=1&$2M SD
 
 #EXTINF:-1 group-title="地方卫视",山东卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000020424&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000027763&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5314654537380139019&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=9216797902845952310&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6000000001000004134&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000012807&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000016568&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000265019&livemode=1&stbId=yu&mode=1&$6M FHD HEVC
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7347081113971056899&livemode=1&stbId=yu&mode=1&$2M HD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7744799445271696577&livemode=1&stbId=yu&mode=1&$2M HD
 
 #EXTINF:-1 group-title="地方卫视",山东教育卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000003000000013&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000004097&livemode=1&stbId=yu&mode=1&$4M SD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7341476808603780321&livemode=1&stbId=yu&mode=1&$2M SD
 
 #EXTINF:-1 group-title="地方卫视",山西卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040023&livemode=1&stbId=yu&mode=1&$4M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000021220&livemode=1&stbId=yu&mode=1&$4M SD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=4821787565788875765&livemode=1&stbId=yu&mode=1&$2M SD
 
 #EXTINF:-1 group-title="地方卫视",黑龙江卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000025203&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000031107&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=4708717482586167604&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8791922236512824525&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6000000001000016510&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000001925&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000009082&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8467838254824392379&livemode=1&stbId=yu&mode=1&$2M HD
 http://39.134.65.106/PLTV/88888888/224/3221226006/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221226056/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221226068/1.m3u8
 http://39.135.133.173/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8467838254824392379&livemode=1&stbId=yu&mode=1&$2M HD
 
 #EXTINF:-1 group-title="地方卫视",康巴卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000003000001598&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000266002&livemode=1&stbId=yu&mode=1&$4M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=9131971102485823367&livemode=1&stbId=yu&mode=1&$2M SD
 http://39.134.65.106/PLTV/88888888/224/3221225527/1.m3u8
 http://39.134.65.65/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",辽宁卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000008940&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000011671&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6354020802043163902&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000001945&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000024033&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000265022&livemode=1&stbId=yu&mode=1&$6M FHD HEVC
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7638375013635582245&livemode=1&stbId=yu&mode=1&$2M HD
 http://39.134.65.106/PLTV/88888888/224/3221225499/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221226089/1.m3u8
 http://39.134.65.4/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7638375013635582245&livemode=1&stbId=yu&mode=1&$2M HD
 
 #EXTINF:-1 group-title="地方卫视",宁夏卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040022&livemode=1&stbId=yu&mode=1&$4M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000031451&livemode=1&stbId=yu&mode=1&$4M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7527747602951312973&livemode=1&stbId=yu&mode=1&$2M SD
 http://39.134.65.106/PLTV/88888888/224/3221225579/1.m3u8
 http://39.134.65.7/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7527747602951312973&livemode=1&stbId=yu&mode=1&$2M SD
 
 #EXTINF:-1 group-title="地方卫视",青海卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040015&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000013359&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6721180114242078041&livemode=1&stbId=yu&mode=1&$2M SD
 http://39.134.65.106/PLTV/88888888/224/3221225573/1.m3u8
 http://39.134.65.76/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6721180114242078041&livemode=1&stbId=yu&mode=1&$2M SD
 
 #EXTINF:-1 group-title="地方卫视",上海卫视
 http://39.135.135.28/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",深圳卫视
-http://39.134.65.106/PLTV/88888888/224/3221225668/1.m3u8
-http://39.135.135.44/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000007410&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000024026&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5810022399100543765&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8902912065170644677&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6000000001000002116&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000009227&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000011645&livemode=1&stbId=yu&mode=1&$4M FHD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5352218613763113657&livemode=1&stbId=yu&mode=1&$2M HD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7696950400632248401&livemode=1&stbId=yu&mode=1&$2M HD
+http://39.134.65.106/PLTV/88888888/224/3221225668/1.m3u8
+http://39.135.135.44/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",四川卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000006119&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6677438387677364824&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000016825&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8744805262559782299&livemode=1&stbId=yu&mode=1&$2M SD
 http://39.134.65.106/PLTV/88888888/224/3221226014/1.m3u8
 http://39.135.133.150/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8744805262559782299&livemode=1&stbId=yu&mode=1&$2M SD
 
 #EXTINF:-1 group-title="地方卫视",天津卫视
-http://39.134.65.106/PLTV/88888888/224/3221225665/1.m3u8
-http://39.135.135.14/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000030788&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000006827&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8389971589569141275&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=9062258020633980548&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6000000001000009186&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000000831&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000003475&livemode=1&stbId=yu&mode=1&$8M FHD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6707942579111517572&livemode=1&stbId=yu&mode=1&$2M HD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8798367982904688776&livemode=1&stbId=yu&mode=1&$2M HD
+http://39.134.65.106/PLTV/88888888/224/3221225665/1.m3u8
+http://39.135.135.14/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",湖北卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000014954&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000022140&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5153590482567519311&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6000000001000015436&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000010355&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000024621&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6956052407855047826&livemode=1&stbId=yu&mode=1&$2M HD
 http://39.134.65.106/PLTV/88888888/224/3221225975/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221226015/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225569/1.m3u8
 http://39.134.65.70/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6956052407855047826&livemode=1&stbId=yu&mode=1&$2M HD
 
 #EXTINF:-1 group-title="地方卫视",湖南卫视
-http://39.134.65.106/PLTV/88888888/224/3221225506/1.m3u8
-http://39.134.65.71/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000006692&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000030452&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000265010&livemode=1&stbId=yu&mode=1&$4M FHD HEVC
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8134113048876071035&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=9156315265568865780&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6000000001000018044&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000009115&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000032695&livemode=1&stbId=yu&mode=1&$8M FHD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6954818217931477266&livemode=1&stbId=yu&mode=1&$2M HD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8655038471675748531&livemode=1&stbId=yu&mode=1&$2M HD
+http://39.134.65.106/PLTV/88888888/224/3221225506/1.m3u8
+http://39.134.65.71/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",吉林卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040013&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031117&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000027730&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6042486520432105075&livemode=1&stbId=yu&mode=1&$2M SD
 http://39.134.65.106/PLTV/88888888/224/3221226028/1.m3u8
 http://39.135.133.161/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6042486520432105075&livemode=1&stbId=yu&mode=1&$2M SD
 
 #EXTINF:-1 group-title="地方卫视",江苏卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000019351&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000018509&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000265009&livemode=1&stbId=yu&mode=1&$4M FHD HEVC
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7397162709759672535&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7782585682414689856&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6000000001000014861&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000001828&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000004684&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=4690153511271751319&livemode=1&stbId=yu&mode=1&$2M HD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=4796340999304424198&livemode=1&stbId=yu&mode=1&$2M HD
 http://39.134.65.106/PLTV/88888888/224/3221225929/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225938/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225503/1.m3u8
 http://39.135.133.181/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=4690153511271751319&livemode=1&stbId=yu&mode=1&$2M HD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=4796340999304424198&livemode=1&stbId=yu&mode=1&$2M HD
 
 #EXTINF:-1 group-title="地方卫视",西藏卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5381760837640571168&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000015894&livemode=1&stbId=yu&mode=1&$4M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6603041244077933770&livemode=1&stbId=yu&mode=1&$2M SD
 http://39.134.65.106/PLTV/88888888/224/3221225570/1.m3u8
 http://39.134.65.72/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6603041244077933770&livemode=1&stbId=yu&mode=1&$2M SD
 
 #EXTINF:-1 group-title="地方卫视",内蒙古卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7331079758781182663&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000014080&livemode=1&stbId=yu&mode=1&$4M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5559214655508729688&livemode=1&stbId=yu&mode=1&$2M SD
 http://39.134.65.106/PLTV/88888888/224/3221226017/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225577/1.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5559214655508729688&livemode=1&stbId=yu&mode=1&$2M SD
 
 #EXTINF:-1 group-title="地方卫视",甘肃卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040021&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031121&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000017827&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8938598377512027715&livemode=1&stbId=yu&mode=1&$2M SD
 http://39.134.65.106/PLTV/88888888/224/3221225584/1.m3u8
 http://39.134.65.67/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8938598377512027715&livemode=1&stbId=yu&mode=1&$2M SD
 
 #EXTINF:-1 group-title="地方卫视",江西卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000032154&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000011210&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8501314381310215409&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000013731&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000265032&livemode=1&stbId=yu&mode=1&$6M FHD HEVC
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000268001&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5616078396620462481&livemode=1&stbId=yu&mode=1&$2M HD
 http://39.134.65.106/PLTV/88888888/224/3221225935/1.m3u8
 http://39.135.133.175/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5616078396620462481&livemode=1&stbId=yu&mode=1&$2M HD
 
 #EXTINF:-1 group-title="地方卫视",浙江卫视
-http://39.134.65.106/PLTV/88888888/224/3221225959/1.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221225514/1.m3u8
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000007275&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000017320&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5053644244529125038&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5822304506273784683&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6000000001000032070&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000009806&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000014260&livemode=1&stbId=yu&mode=1&$8M FHD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=4945391150963996912&livemode=1&stbId=yu&mode=1&$2M HD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7889730693553663314&livemode=1&stbId=yu&mode=1&$2M HD
+http://39.134.65.106/PLTV/88888888/224/3221225959/1.m3u8
+http://39.134.65.106/PLTV/88888888/224/3221225514/1.m3u8
 
 #EXTINF:-1 group-title="地方卫视",云南卫视
-http://39.134.65.106/PLTV/88888888/224/3221225957/1.m3u8
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040019&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031120&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6546334374314681368&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000024694&livemode=1&stbId=yu&mode=1&$4M FHD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8567124785369040339&livemode=1&stbId=yu&mode=1&$2M SD
+http://39.134.65.106/PLTV/88888888/224/3221225957/1.m3u8
+
+#EXTINF:-1 group-title="地方卫视",厦门卫视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5084893189220221988&livemode=1&stbId=yu&mode=1&$2M SD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000266006&livemode=1&stbId=yu&mode=1&$4M SD
 
 #香港频道
 #EXTINF:-1 group-title="香港频道",HK 天映电影
@@ -615,6 +772,10 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=685905
 http://39.134.65.106/PLTV/88888888/224/3221225538/1.m3u8
 http://39.134.65.3/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 
+#EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://epg.v1.mk/logo/精彩影视.png" group-title="数字频道",精彩影视
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000004000000063&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6000000006000320630&livemode=1&stbId=yu&mode=1&$8M FHD
+
 #EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://epg.v1.mk/logo/金牌综艺.png" group-title="数字频道",NewTV金牌综艺
 http://39.134.65.106/PLTV/88888888/224/3221225525/1.m3u8
 http://39.135.135.24/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
@@ -658,20 +819,58 @@ http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8
 
 #EXTINF:-1 group-title="数字频道",求索纪录
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000004000000010&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6000000002000032052&livemode=1&stbId=yu&mode=1&$8M FHD
 http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
 
-#EXTINF:-1 group-title="数字频道",晴彩篮球
+#EXTINF:-1 group-title="数字频道",求索动物
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000004000000009&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6000000002000010046&livemode=1&stbId=yu&mode=1&$8M FHD
+
+#EXTINF:-1 group-title="数字频道",求索科学
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000004000000011&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6000000002000032344&livemode=1&stbId=yu&mode=1&$8M FHD
+
+#EXTINF:-1 group-title="数字频道",睛彩篮球
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000003000000061&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000003000000065&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000270002&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000270006&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=yu&mode=1&$8M FHD
 http://39.134.65.106/PLTV/88888888/224/3221226027/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225895/1.m3u8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=yu&mode=1&$8M FHD
 
-#EXTINF:-1 group-title="数字频道",晴彩竞技
-http://39.134.65.106/PLTV/88888888/224/3221225897/1.m3u8
+#EXTINF:-1 group-title="数字频道",睛彩竞技
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000003000000060&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000270001&livemode=1&stbId=yu&mode=1&$8M FHD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=yu&mode=1&$8M FHD
+http://39.134.65.106/PLTV/88888888/224/3221225897/1.m3u8
+
+#EXTINF:-1 group-title="数字频道",欢笑剧场4K
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000002000009455&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000007000010001&livemode=1&stbId=yu&mode=1&$12M UHD HEVC
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000002000000016&livemode=1&stbId=yu&mode=1&$4M FHD
+
+#EXTINF:-1 group-title="数字频道",都市剧场
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000002000004412&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031111&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000002000000015&livemode=1&stbId=yu&mode=1&$4M FHD
 
 #EXTINF:-1 group-title="数字频道",至臻视界
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=yu&mode=1&$24M UHD
+
+#EXTINF:-1 group-title="数字频道",劲爆体育
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000002000029972&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000002000000008&livemode=1&stbId=yu&mode=1&$4M FHD
+
+#EXTINF:-1 group-title="数字频道",魅力足球
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031207&livemode=1&stbId=yu&mode=1&$8M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000002000000068&livemode=1&stbId=yu&mode=1&$8M FHD
 
 #电影频道
 #EXTINF:-1 group-title="电影频道",功夫电影
