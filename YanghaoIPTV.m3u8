@@ -415,7 +415,7 @@ https://s1.tvm4a1.cfd/astro/CH-0/AKTV.m3u8
 #EXTINF:-1 group-title="体育频道",法国 Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-name="NBATV" tvg-logo="https://live.fanmingming.cn/tv/NBATV.png",group-title="体育频道",NBATV
+#EXTINF:-1 tvg-name="NBATV" tvg-logo="https://live.fanmingming.cn/tv/NBATV.png",group-title="体育频道",NBA TV
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=NBATV
 
 #EXTINF:-1 tvg-name="HKC18台" tvg-logo="https://live.fanmingming.cn/tv/HKC18台.png",group-title="体育频道",HKC18台
@@ -486,37 +486,6 @@ http://api.mytv666.top/api/qwt.php?t=体育频道&id=ELTA体育3
 
 #EXTINF:-1 tvg-name="ELTA体育|4|" tvg-logo="https://live.fanmingming.cn/tv/ELTA体育|4|.png",group-title="体育频道",ELTA体育|4|
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=ELTA体育|4|
-
-#EXTINF:-1 tvg-name="GinxTV电竞频道" tvg-logo="https://live.fanmingming.cn/tv/GinxTV电竞频道.png",group-title="体育频道",GinxTV电竞频道
-1
-http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯运动1
-
-#EXTINF:-1 tvg-name="博斯运动2" tvg-logo="https://live.fanmingming.cn/tv/博斯运动2.png",group-title="体育频道",博斯运动2
-http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯运动2
-
-#EXTINF:-1 tvg-name="博斯高球1" tvg-logo="https://live.fanmingming.cn/tv/博斯高球1.png",group-title="体育频道",博斯高球1
-http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯高球1
-
-#EXTINF:-1 tvg-name="博斯高球2" tvg-logo="https://live.fanmingming.cn/tv/博斯高球2.png",group-title="体育频道",博斯高球2
-http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯高球2
-
-#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.cn/tv/博斯网球.png",group-title="体育频道",博斯网球
-http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯网球
-
-#EXTINF:-1 tvg-name="博斯无限" tvg-logo="https://live.fanmingming.cn/tv/博斯无限.png",group-title="体育频道",博斯无限
-http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯无限
-
-#EXTINF:-1 tvg-name="博斯无限2" tvg-logo="https://live.fanmingming.cn/tv/博斯无限2.png",group-title="体育频道",博斯无限2
-http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯无限2
-
-#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://live.fanmingming.cn/tv/博斯魅力.png",group-title="体育频道",博斯魅力
-http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯魅力
-
-#EXTINF:-1 tvg-name="智林体育台" tvg-logo="https://live.fanmingming.cn/tv/智林体育台.png",group-title="体育频道",智林体育台
-http://api.mytv666.top/api/qwt.php?t=体育频道&id=智林体育台
-
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.cn/tv/纬来体育.png",group-title="体育频道",纬来体育
-http://api.mytv666.top/api/qwt.php?t=体育频道&id=纬来体育
 
 #香港频道
 #EXTINF:-1 group-title="香港频道",HK 天映电影
