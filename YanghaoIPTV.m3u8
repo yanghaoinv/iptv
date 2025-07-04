@@ -575,10 +575,10 @@ https://stream1.freetv.fun/2d6d5de01dfd6fdcaaf4fe4b5ab0188eb1849a91fee22cc73276e
 http://php.jdshipin.com/smt.php?id=Tvbjade
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 
-#EXTINF:17 aktv-group="AKTV" tvg-id="aktv/CH-17" provider-type="iptv",TVBJ1 翡翠综合台(北美)
+#EXTINF:-1 group-title="香港频道",TVBJ1 翡翠综合台(北美)
 https://s1.tvm4a1.cfd/aktv/CH-17/AKTV.m3u8
 
-#EXTINF:21 aktv-group="AKTV" tvg-id="aktv/CH-6" provider-type="iptv",黃金翡翠台
+#EXTINF:-1 group-title="香港频道",黃金翡翠台
 https://s1.tvm4a1.cfd/aktv/CH-6/AKTV.m3u8
 
 #EXTINF:-1 group-title="香港频道",HK TVB星河
