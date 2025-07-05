@@ -1212,3 +1212,25 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchan
 
 #EXTINF:-1 group-title="少儿频道",[HD]Fnx（少儿）
 https://stream1.freetv.fun/c4f5beae0b10f3f2af542b28adef9ddac055ea694013fcfbca51ae4dd0769ef5.m3u8
+
+#龙华港澳台
+#EXTINF:-1 group-title="港澳台频道",TW 龙华电影
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+
+#EXTINF:-1 group-title="港澳台频道",TW 龙华经典
+https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+
+#EXTINF:-1 group-title="港澳台频道",TW 龙华卡通
+https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+
+#EXTINF:-1 group-title="港澳台频道",TW 龙华偶像
+https://cdn8.163189.xyz/live/lhox/stream.m3u8
+
+#EXTINF:-1 group-title="港澳台频道",TW 龙华日韩
+https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+
+#EXTINF:-1 group-title="港澳台频道",TW 龙华戏剧
+https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+
+#EXTINF:-1 group-title="港澳台频道",TW 龙华洋片
+https://cdn8.163189.xyz/live/lhyp/stream.m3u8
