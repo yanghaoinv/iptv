@@ -777,7 +777,7 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=715125
 http://cfss.cc/cdn/hy/11352941.m3u8
 http://tv.666150.xyz/huya.php?id=11352941
 
-#EXTINF:-1 group-title="台湾频道",TW 东森电影
+#EXTINF:-1 group-title="电影频道",TW 东森电影
 https://s2.tvm4a1.cfd/aktv2/CH-1/AKTV.m3u8
 
 #EXTINF:-1 group-title="电影频道",[SD]CCM
