@@ -1157,13 +1157,13 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 group-title="国际频道",美国 Yahoo! Finance (1080p)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
-#EXTINF:28 aktv-group="AKTV3" tvg-id="aktv3/CH-0" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", group-title="国际频道"，朝鲜恩情台
+#EXTINF:28 group-title="国际频道",朝鲜恩情台
 https://s1.tvm4a1.cfd/aktv3/CH-0/AKTV.m3u8
 
-#EXTINF:29 aktv-group="AKTV-JP" tvg-id="aktvjp/japannews24hlive" tvg-logo="" provider="AKTV-JP" provider-logo="" provider-type="iptv", group-title="国际频道"，Japan News 24H LIVE
+#EXTINF:29 group-title="国际频道",Japan News 24H LIVE
 https://s1.tvm4a1.cfd/aktvjp/japannews24hlive/AKTV.m3u8
 
-#EXTINF:30 aktv-group="AKTV-JP" tvg-id="aktvjp/ntv" tvg-logo="" provider="AKTV-JP" provider-logo="" provider-type="iptv", group-title="国际频道"，日テレNEWS LIVE
+#EXTINF:30 group-title="国际频道",日テレNEWS LIVE
 https://s1.tvm4a1.cfd/aktvjp/ntv/AKTV.m3u8
 
 #EXTINF:-1 group-title="国际频道",南非 Wild Earth
