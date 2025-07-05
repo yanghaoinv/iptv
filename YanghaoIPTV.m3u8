@@ -504,7 +504,7 @@ http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports2
 #EXTINF:-1 tvg-name="NowSports3" tvg-logo="https://live.fanmingming.cn/tv/NowSports3.png",group-title="体育频道",NowSports3
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports3
 
-#EXTINF:-1 tvg-name="NowSports|4|" tvg-logo="https://live.fanmingming.cn/tv/NowSports|4|.png",group-title="体育频道",NowSports|4|
+#EXTINF:-1 tvg-name="NowSports|4|" tvg-logo="https://live.fanmingming.cn/tv/NowSports|4|.png",group-title="体育频道",NowSports4
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports4
 
 #EXTINF:-1 tvg-name="NowSports5" tvg-logo="https://live.fanmingming.cn/tv/NowSports5.png",group-title="体育频道",NowSports5
@@ -541,7 +541,7 @@ http://api.mytv666.top/api/qwt.php?t=体育频道&id=mySUPER直播足球2台
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=mySUPER直播足球3台
 
 #EXTINF:-1 tvg-name="mySUPER直播足球|4|台" tvg-logo="https://live.fanmingming.cn/tv/mySUPER直播足球|4|台.png",group-title="体育频道",mySUPER直播足球|4|台
-http://api.mytv666.top/api/qwt.php?t=体育频道&id=mySUPER直播足球|4|台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=mySUPER直播足球4台
 
 #EXTINF:-1 tvg-name="mySUPER直播足球5台" tvg-logo="https://live.fanmingming.cn/tv/mySUPER直播足球5台.png",group-title="体育频道",mySUPER直播足球5台
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=mySUPER直播足球5台
@@ -559,7 +559,7 @@ http://api.mytv666.top/api/qwt.php?t=体育频道&id=ELTA体育2
 http://api.mytv666.top/api/qwt.php?t=体育频道&id=ELTA体育3
 
 #EXTINF:-1 tvg-name="ELTA体育|4|" tvg-logo="https://live.fanmingming.cn/tv/ELTA体育|4|.png",group-title="体育频道",ELTA体育|4|
-http://api.mytv666.top/api/qwt.php?t=体育频道&id=ELTA体育|4|
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=ELTA体育4
 
 #港澳台频道
 #EXTINF:1 group-title="港澳台频道",Animax (HK)
