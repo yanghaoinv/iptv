@@ -423,40 +423,40 @@ http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" http-user-agent="iPhone" http-header="Referer=https://live.kankanews.com/" group-title="体育频道",五星体育
 http://118.89.87.74:88/live.php?id=五星体育
 
-#EXTINF:-1 group-title="体育频道",咪咕直播7（足球）
+#EXTINF:-1 group-title="体育频道",咪咕直播7
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
 
-#EXTINF:-1 group-title="体育频道",咪咕直播8（足球）
+#EXTINF:-1 group-title="体育频道",咪咕直播8
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
 
-#EXTINF:-1 group-title="体育频道",咪咕直播12（足球）
+#EXTINF:-1 group-title="体育频道",咪咕直播12
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
 
-#EXTINF:-1 group-title="体育频道",咪咕直播14（篮球）
+#EXTINF:-1 group-title="体育频道",咪咕直播14
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
 
-#EXTINF:-1 group-title="体育频道",咪咕直播18（足球）
+#EXTINF:-1 group-title="体育频道",咪咕直播18
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
 
-#EXTINF:-1 group-title="体育频道",咪咕直播21（足球）
+#EXTINF:-1 group-title="体育频道",咪咕直播21
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
 
-#EXTINF:-1 group-title="体育频道",咪咕直播23（足球）
+#EXTINF:-1 group-title="体育频道",咪咕直播23
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
 
-#EXTINF:-1 group-title="体育频道",咪咕直播24（篮球）
+#EXTINF:-1 group-title="体育频道",咪咕直播24
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
 
-#EXTINF:-1 group-title="体育频道",咪咕直播23（足球）
+#EXTINF:-1 group-title="体育频道",咪咕直播26
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
 
-#EXTINF:-1 group-title="体育频道",咪咕直播29（篮球）
+#EXTINF:-1 group-title="体育频道",咪咕直播29
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
 
-#EXTINF:-1 group-title="体育频道",咪咕直播29（篮球）
+#EXTINF:-1 group-title="体育频道",咪咕直播30
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
 
-#EXTINF:-1 group-title="体育频道",咪咕直播32（足球）
+#EXTINF:-1 group-title="体育频道",咪咕直播32
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
 
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://epg.v1.mk/logo/超级体育.png" group-title="体育频道",NewTV超级体育
