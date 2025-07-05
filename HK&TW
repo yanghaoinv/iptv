@@ -2,15 +2,8 @@
 #港澳台
 #EXTINF:-1 group-title="港澳台",HK 千禧经典
 http://php.jdshipin.com/smt.php?id=Tvbclassic
-
-#EXTINF:-1 group-title="港澳台",HK 千禧经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-
-#EXTINF:-1 group-title="港澳台",HK 千禧经典
 http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
-
-#EXTINF:-1 group-title="港澳台",HK 亚洲电视
-https://stream1.freetv.fun/29a6a177ae45ff9aed3821d33892a2779fe55e485578ab82f4e3520d43b5efac.ctv
 
 #EXTINF:-1 group-title="港澳台",HK 经典电影
 https://stream1.freetv.fun/68b1246ebb6ebb9be45a97042d751c9f214ed4baa3ecd11827101243551b5fdc.ctv
@@ -18,19 +11,15 @@ https://stream1.freetv.fun/68b1246ebb6ebb9be45a97042d751c9f214ed4baa3ecd11827101
 #EXTINF:-1 group-title="港澳台",HK TVB明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
-https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.ctv
 
 #EXTINF:-1 group-title="港澳台",HK 明珠台
 https://stream1.freetv.fun/4db377997e788111dc3a7a47fec67132e36bd8221c27f01f0d14ae82d86bc4ff.ctv
-https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.m3u8
 https://stream1.freetv.fun/4db377997e788111dc3a7a47fec67132e36bd8221c27f01f0d14ae82d86bc4ff.ctv
 https://stream1.freetv.fun/b49f11a7e68a76202daba76fb5c90eb8ef1c34d977c5e9eac0825112f74f87d3.ctv
+http://php.jdshipin.com:8880/iptv.php?id=mzt
 
 #EXTINF:-1 group-title="港澳台",翡翠
 https://stream1.freetv.fun/ec738c8f8b5d5706670eb42e4fe79edc5d6f471ba93d0eb20dff4c372efef4db.ctv
-
-#EXTINF:-1 group-title="港澳台",HK TVB翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 
 #EXTINF:-1 group-title="港澳台",HK TVB翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
@@ -40,9 +29,6 @@ http://php.jdshipin.com:8880/smt.php?id=jade_twn
 
 #EXTINF:-1 group-title="港澳台",HK TVB翡翠台
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-
-#EXTINF:-1 group-title="港澳台",HK TVB翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 
 #EXTINF:-1 group-title="港澳台",HK TVB翡翠台
 https://stream1.freetv.fun/2d6d5de01dfd6fdcaaf4fe4b5ab0188eb1849a91fee22cc73276e6737ce055a8.m3u8
@@ -56,13 +42,8 @@ http://php.jdshipin.com/smt.php?id=Tvbjade
 #EXTINF:-1 group-title="港澳台",HK TVB华丽翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 
-#EXTINF:-1 group-title="港澳台",HK TVB华丽翡翠台
-http://php.jdshipin.com:8880/iptv.php?id=mzt
-
 #EXTINF:-1 group-title="港澳台",HK TVB星河
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-
-#EXTINF:-1 group-title="港澳台",HK TVB星河
 http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 
 #EXTINF:-1 group-title="港澳台",HK TVB娱乐新闻
@@ -73,9 +54,6 @@ http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 
 #EXTINF:-1 group-title="港澳台",HK TVB 无线新闻
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
-
-#EXTINF:-1 group-title="港澳台",HK TVB 无线新闻
-https://stream1.freetv.fun/ccba0351b8318bedd9168ef7a76e3b2e9a0bee295e05694b0feb45aa0916b97d.ctv
 
 #EXTINF:-1 group-title="港澳台",HK 香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -90,43 +68,28 @@ https://stream1.freetv.fun/e06e2245cd56eb5f8705bdbc4a622a8b6be2c249723c987bedf61
 http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 https://stream1.freetv.fun/75e234378589af95bef39f3fc9b46fd9f199d2b0750b6ef7082cd363b1fb1654.m3u8
 https://stream1.freetv.fun/4d7545d1bbe9e3f8424f201e579f2648b2b2d7c55f9ddb3201f40c848807fc57.ctv
-https://stream1.freetv.fun/ada32bf1237524edb183dcdef8285a2da3dd390b3d59be112c09d1a9c38c1077.m3u8
 https://stream1.freetv.fun/db3451296672e22dfbd5f27d12f32675e8f9e4ca2379aa8097aeb2053a407e3f.m3u8
 
 #EXTINF:-1 group-title="港澳台",HK 凤凰中文
 http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 https://stream1.freetv.fun/a3cfcb6f4429baaa2f182afaf1ab55003d71ca680ca0afd61968d36b33f26f03.m3u8
 https://stream1.freetv.fun/a46f52861e9ace633f2259316777ba8dbeeaffc6dc31608c64a6b0896cb10839.m3u8
-https://stream1.freetv.fun/653363b4a3d6b0c5850c53b115d02d5e5e57d7d4c2954ef7c4163640e2cdd991.m3u8
 
 #EXTINF:-1 group-title="港澳台",HK 凤凰资讯
-http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 https://stream1.freetv.fun/bd6353b3b7788e2290c3f5064f9e9d1c8aa1b7ed2aae5b433276b3ca95a62fde.m3u8
 https://stream1.freetv.fun/8207fefca4ec53194577b2ed278461db2f591ad800e535ba46d497749e2d7ee5.m3u8
 https://stream1.freetv.fun/55317db1dd958d493bc8a11eed6f260f7c0903ab196dbbb4b5bf379800ba397f.m3u8
 
-#EXTINF:-1 group-title="港澳台",HK 星空卫视
-https://stream1.freetv.fun/f56c9bcb95c7e6d158fe059bc1a64418c050b268ecb63c9f3257ee2307b90bc1.ctv
-https://stream1.freetv.fun/4d6218212c494c9898b8a15b7fc8a3dae025bf257c6ef7ea518e4ac0719da009.ctv
-https://stream1.freetv.fun/a2764fcf64d61e4ea32f4f9972a630f99d2d3fac7cef4d2afb96818616f8e9d7.m3u8
-
 #EXTINF:-1 group-title="港澳台",HK 港台电视 31
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-
-#EXTINF:-1 group-title="港澳台",HK 港台电视 31
 https://stream1.freetv.fun/9d329ece816bf018e27f1af986e467d2a6d52301609d4f945cb12ed6e82296d5.ctv
 
 #EXTINF:-1 group-title="港澳台",HK 港台电视 32
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-
-#EXTINF:-1 group-title="港澳台",HK 港台电视 32
 https://stream1.freetv.fun/095e0fbddd7f83951ec8bfefd84d7bc686b37471cac33cd388502184f6bd105b.ctv
 
 #EXTINF:-1 group-title="港澳台",HK TVB Plus
 https://stream1.freetv.fun/5c71ddc1ee039d8057898c807e9cda2dfc61c7534d017fbf7c0de04c5c58c890.ctv
-
-#EXTINF:-1 group-title="港澳台",HK 亚洲电视
-https://stream1.freetv.fun/29a6a177ae45ff9aed3821d33892a2779fe55e485578ab82f4e3520d43b5efac.ctv
 
 #EXTINF:-1 group-title="港澳台",HK 耀才财经
 https://stream1.freetv.fun/9372d5d53589816008f331a4592de1cdf0e5eb37cd47a052d60a74be9041e816.m3u8
@@ -134,9 +97,11 @@ https://stream1.freetv.fun/af30f1b48fa2cdbdb0ebff591c56276ebfee16591c4183a5bf068
 
 #EXTINF:-1 group-title="港澳台",HK Mech plus
 https://stream1.freetv.fun/5820e487e8d8a390c149c1197fbec044d733def9f7ca1a1e1d7914a46db67787.m3u8
+
 #EXTINF:-1 group-title="港澳台",HK Viutv
 https://stream1.freetv.fun/566447a554a11bb540e5e37ea32162caa2959fefd3707625f70de6ac96255364.m3u8
 https://stream1.freetv.fun/855fcf2cb6242c3bbf91d073a966eefcecb239f58f03460b4947d32ee7785d2c.ctv
+
 #EXTINF:-1 group-title="港澳台",HK viutv six
 https://stream1.freetv.fun/5fe3cb2358c4e355059b3dcc97b64685b5fc5e8ee264f54624bd4c2a75477ade.ctv
 
@@ -152,25 +117,17 @@ http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 
 #EXTINF:-1 group-title="港澳台频道",TW 美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-
-#EXTINF:-1 group-title="港澳台频道",TW 美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 #EXTINF:-1 group-title="电影",HK 美亚电影 [HD]
 https://stream1.freetv.fun/42b1fc4ec1e503820acd3e2c367e0c00b12fcf08340ec5674fa22b0c8260581c.ctv
-http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 
 #EXTINF:-1 group-title="港澳台频道",TW 爱尔达影剧355
 https://stream1.freetv.fun/8b1ef976b314ce76f7a659b187e36fb6feabe376e2b9fd05c682f386092e487c.m3u8
 
 #EXTINF:-1 group-title="港澳台",TW 台視新聞
 https://stream1.freetv.fun/d96ca80f2e6d7eb1a1737aaf17284caded271210e4432dfb4378a9ab6d8ef7b2.m3u8
-
-#EXTINF:-1 group-title="港澳台频道",TW 台視新聞
 https://stream1.freetv.fun/ffa3a8fc52b4834c300b3587a667310b5eb8a46d000498709791be4bd1799514.m3u8
-
-#EXTINF:-1 group-title="港澳台频道",TW 台视新聞
-https://stream1.freetv.fun/9e87c84976d8ad7ce1dac1ba154da29c85371dffd4a6c00a3dfde2bf1fed5735.m3u8
 
 #EXTINF:-1 group-title="港澳台频道",TW 龙华电影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
