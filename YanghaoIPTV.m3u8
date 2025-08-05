@@ -106,31 +106,26 @@ http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CGTN纪录.png" group-title="央视频道",CGTN记录
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8428799834696888424&livemode=1&stbId=yu&mode=1&$2M SD
 https://0472.org/hls/cgtnd.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221225509/1.m3u8
 
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CGTN.png" group-title="央视频道",CGTN英语
-https://0472.org/hls/cgtn.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221225510/1.m3u8
 https://0472.org/hls/cgtn.m3u8
 http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CGTN俄语.png" group-title="央视频道",CGTN俄语
 https://0472.org/hls/cgtne.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221226096/1.m3u8
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
 
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CGTN法语.png" group-title="央视频道",CGTN法语
 https://0472.org/hls/cgtnf.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221226083/1.m3u8
+http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CGTN西语.png" group-title="央视频道",CGTN西语
 https://0472.org/hls/cgtnx.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221226094/1.m3u8
 http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CGTN阿语.png" group-title="央视频道",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221226081/1.m3u8
+http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/中国天气.png" group-title="央视频道",中国天气
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
