@@ -149,25 +149,17 @@ http://8.138.7.223/tv/lotustv.m3u8
 https://stream1.freetv.fun/86d5fbc137de996ef87f330ef4e7fab1e7bd7701f52c0297beabe58fac86df0b.m3u8
 
 #EXTINF:-1 group-title="地方卫视",东南卫视
-
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7721801662260370363&livemode=1&stbId=yu&mode=1&$2M HD
-http://39.134.65.106/PLTV/88888888/224/3221225950/1.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221225500/1.m3u8
-http://39.134.65.77/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
+
 
 #EXTINF:-1 group-title="地方卫视",东方卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=4699937686040264690&livemode=1&stbId=yu&mode=1&$2M HD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6081477947334326291&livemode=1&stbId=yu&mode=1&$2M HD
-http://39.134.65.106/PLTV/88888888/224/3221225672/1.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221225673/1.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6690661682550849647&livemode=1&stbId=yu&mode=1&$2M HD
 
 #EXTINF:-1 group-title="地方卫视",北京卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8186688740528366039&livemode=1&stbId=yu&mode=1&$2M HD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8258663409451267714&livemode=1&stbId=yu&mode=1&$2M HD
-http://39.134.65.106/PLTV/88888888/224/3221225678/1.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221225927/1.m3u8
-http://39.135.135.11/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",北京纪实科教
 http://39.134.65.106/PLTV/88888888/224/3221225670/1.m3u8
@@ -182,13 +174,10 @@ http://39.134.65.78/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index
 
 #EXTINF:-1 group-title="地方卫视",安徽卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=4774346722046993363&livemode=1&stbId=yu&mode=1&$2M HD
-http://39.134.65.106/PLTV/88888888/224/3221225925/1.m3u8
 
 #EXTINF:-1 group-title="地方卫视",新疆卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5802765535081445534&livemode=1&stbId=yu&mode=1&$2M SD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5802765535081445534&livemode=1&stbId=yu&mode=1&$2M SD
-http://39.134.65.106/PLTV/88888888/224/3221225582/1.m3u8
-http://39.135.133.147/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",延边卫视
 http://39.134.65.106/PLTV/88888888/224/3221226040/1.m3u8
@@ -196,46 +185,27 @@ http://39.135.133.159/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/ind
 
 #EXTINF:-1 group-title="地方卫视",重庆卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=4995134319251569870&livemode=1&stbId=yu&mode=1&$2M HD
-http://39.134.65.106/PLTV/88888888/224/3221225502/1.m3u8
-http://39.134.65.75/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",广东卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5306115082857917057&livemode=1&stbId=yu&mode=1&$2M HD
-http://39.134.65.106/PLTV/88888888/224/3221225962/1.m3u8
-http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",广西卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8069815772565148726&livemode=1&stbId=yu&mode=1&$2M SD
-http://39.134.65.106/PLTV/88888888/224/3221226024/1.m3u8
-http://39.135.133.160/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221226009/1.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221225496/1.m3u8
 
 #EXTINF:-1 group-title="地方卫视",陕西卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7120278140251237664&livemode=1&stbId=yu&mode=1&$2M SD
-http://39.134.65.106/PLTV/88888888/224/3221225989/1.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221225567/1.m3u8
 
 #EXTINF:-1 group-title="地方卫视",贵州卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5468064193211864646&livemode=1&stbId=yu&mode=1&$2M SD
-http://39.134.65.79/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225626/index.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221225576/1.m3u8
 
 #EXTINF:-1 group-title="地方卫视",海南卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7899627377857656087&livemode=1&stbId=yu&mode=1&$2M SD
-http://39.134.65.106/PLTV/88888888/224/3221225530/1.m3u8
-http://39.134.65.75/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",河北卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8360637122634561354&livemode=1&stbId=yu&mode=1&$2M SD
-http://39.134.65.106/PLTV/88888888/224/3221225495/1.m3u8
-http://39.135.133.180/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",河南卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7304224304099543804&livemode=1&stbId=yu&mode=1&$2M SD
-http://39.134.65.106/PLTV/88888888/224/3221225988/1.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221226023/1.m3u8
-http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",山东卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7347081113971056899&livemode=1&stbId=yu&mode=1&$2M HD
@@ -249,10 +219,6 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=482178
 
 #EXTINF:-1 group-title="地方卫视",黑龙江卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8467838254824392379&livemode=1&stbId=yu&mode=1&$2M HD
-http://39.134.65.106/PLTV/88888888/224/3221226006/1.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221226056/1.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221226068/1.m3u8
-http://39.135.133.173/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",康巴卫视
 http://39.134.65.106/PLTV/88888888/224/3221225527/1.m3u8
@@ -260,19 +226,12 @@ http://39.134.65.65/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index
 
 #EXTINF:-1 group-title="地方卫视",辽宁卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7638375013635582245&livemode=1&stbId=yu&mode=1&$2M HD
-http://39.134.65.106/PLTV/88888888/224/3221225499/1.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221226089/1.m3u8
-http://39.134.65.4/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",宁夏卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7527747602951312973&livemode=1&stbId=yu&mode=1&$2M SD
-http://39.134.65.106/PLTV/88888888/224/3221225579/1.m3u8
-http://39.134.65.7/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",青海卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6721180114242078041&livemode=1&stbId=yu&mode=1&$2M SD
-http://39.134.65.106/PLTV/88888888/224/3221225573/1.m3u8
-http://39.134.65.76/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",上海卫视
 http://39.135.135.28/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
@@ -281,85 +240,52 @@ http://39.135.135.28/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/inde
 http://148.135.93.213/live.php?id=深圳卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5352218613763113657&livemode=1&stbId=yu&mode=1&$2M HD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7696950400632248401&livemode=1&stbId=yu&mode=1&$2M HD
-http://39.134.65.106/PLTV/88888888/224/3221225668/1.m3u8
-http://39.135.135.44/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",四川卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8744805262559782299&livemode=1&stbId=yu&mode=1&$2M SD
-http://39.134.65.106/PLTV/88888888/224/3221226014/1.m3u8
-http://39.135.133.150/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",天津卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6707942579111517572&livemode=1&stbId=yu&mode=1&$2M HD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8798367982904688776&livemode=1&stbId=yu&mode=1&$2M HD
-http://39.134.65.106/PLTV/88888888/224/3221225665/1.m3u8
-http://39.135.135.14/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",湖北卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6956052407855047826&livemode=1&stbId=yu&mode=1&$2M HD
-http://39.134.65.106/PLTV/88888888/224/3221225975/1.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221226015/1.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221225569/1.m3u8
-http://39.134.65.70/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",湖南卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6954818217931477266&livemode=1&stbId=yu&mode=1&$2M HD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8655038471675748531&livemode=1&stbId=yu&mode=1&$2M HD
-http://39.134.65.106/PLTV/88888888/224/3221225506/1.m3u8
-http://39.134.65.71/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",吉林卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6042486520432105075&livemode=1&stbId=yu&mode=1&$2M SD
-http://39.134.65.106/PLTV/88888888/224/3221226028/1.m3u8
-http://39.135.133.161/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",江苏卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=4690153511271751319&livemode=1&stbId=yu&mode=1&$2M HD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=4796340999304424198&livemode=1&stbId=yu&mode=1&$2M HD
-http://39.134.65.106/PLTV/88888888/224/3221225929/1.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221225938/1.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221225503/1.m3u8
-http://39.135.133.181/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",西藏卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6603041244077933770&livemode=1&stbId=yu&mode=1&$2M SD
-http://39.134.65.106/PLTV/88888888/224/3221225570/1.m3u8
-http://39.134.65.72/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",内蒙古卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5559214655508729688&livemode=1&stbId=yu&mode=1&$2M SD
-http://39.134.65.106/PLTV/88888888/224/3221226017/1.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221225577/1.m3u8
 
 #EXTINF:-1 group-title="地方卫视",甘肃卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8938598377512027715&livemode=1&stbId=yu&mode=1&$2M SD
-http://39.134.65.106/PLTV/88888888/224/3221225584/1.m3u8
-http://39.134.65.67/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",江西卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5616078396620462481&livemode=1&stbId=yu&mode=1&$2M HD
-http://39.134.65.106/PLTV/88888888/224/3221225935/1.m3u8
-http://39.135.133.175/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",浙江卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=4945391150963996912&livemode=1&stbId=yu&mode=1&$2M HD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7889730693553663314&livemode=1&stbId=yu&mode=1&$2M HD
-http://39.134.65.106/PLTV/88888888/224/3221225959/1.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221225514/1.m3u8
 
 #EXTINF:-1 group-title="地方卫视",云南卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8567124785369040339&livemode=1&stbId=yu&mode=1&$2M SD
-http://39.134.65.106/PLTV/88888888/224/3221225957/1.m3u8
 
 #体育频道
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV5.png" group-title="体育频道",CCTV5体育
-http://39.135.133.134/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221225818/1.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=reallive-cctv5&livemode=1&stbId=yu&mode=1&$2M HD
 
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV5+.png" group-title="体育频道",CCTV5+体育赛事
-http://39.134.65.71/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221225507/1.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=reallive-cctv5plus&livemode=1&stbId=yu&mode=1&$2M HD
 
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV16.png" group-title="体育频道",CCTV16奥林匹克
@@ -373,22 +299,16 @@ http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
 http://118.89.87.74:88/live.php?id=五星体育
 
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://epg.v1.mk/logo/超级体育.png" group-title="体育频道",NewTV超级体育
-http://39.134.65.106/PLTV/88888888/224/3221225635/1.m3u8
-http://39.134.65.66/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000007755&livemode=1&stbId=yu&mode=1&$4M FHD
 
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://epg.v1.mk/logo/精品体育.png" group-title="体育频道",NewTV精品体育
-http://39.134.65.106/PLTV/88888888/224/3221225526/1.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6460382139625130259&livemode=1&stbId=yu&mode=1&$4M FHD
 
 #EXTINF:-1 group-title="体育频道",睛彩篮球
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=yu&mode=1&$8M FHD
-http://39.134.65.106/PLTV/88888888/224/3221226027/1.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221225895/1.m3u8
 
 #EXTINF:-1 group-title="体育频道",睛彩竞技
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=yu&mode=1&$8M FHD
-http://39.134.65.106/PLTV/88888888/224/3221225897/1.m3u8
 
 #EXTINF:27 group-title="体育频道",緯來體育台
 http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
@@ -414,116 +334,116 @@ http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
 #EXTINF:39 group-title="体育频道",TNT SPORTS 3
 http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
 
-#AKTVAKTV港澳台频道
-#EXTINF:1 group-title="AKTV港澳台频道",Animax (HK)
+#AKTV港澳台
+#EXTINF:1 group-title="AKTV港澳台",Animax (HK)
 http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
 
-#EXTINF:2 group-title="AKTV港澳台频道",AXN
+#EXTINF:2 group-title="AKTV港澳台",AXN
 http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
 
-#EXTINF:3 group-title="AKTV港澳台频道",Channel 5 HD
+#EXTINF:3 group-title="AKTV港澳台",Channel 5 HD
 http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
 
-#EXTINF:4 group-title="AKTV港澳台频道",Channel 8 HD
+#EXTINF:4 group-title="AKTV港澳台",Channel 8 HD
 http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
 
-#EXTINF:5 group-title="AKTV港澳台频道",Channel U HD
+#EXTINF:5 group-title="AKTV港澳台",Channel U HD
 http://s1.an94tv.cfd/aktv/channeluhd/AKTV.m3u8
 
-#EXTINF:6 group-title="AKTV港澳台频道",Love Nature HD
+#EXTINF:6 group-title="AKTV港澳台",Love Nature HD
 http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
 
-#EXTINF:7 group-title="AKTV港澳台频道",PopC
+#EXTINF:7 group-title="AKTV港澳台",PopC
 http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
 
-#EXTINF:8 group-title="AKTV港澳台频道",ROCK Action
+#EXTINF:8 group-title="AKTV港澳台",ROCK Action
 http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
 
-#EXTINF:9 group-title="AKTV港澳台频道",TVB Plus
+#EXTINF:9 group-title="AKTV港澳台",TVB Plus
 http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
 
-#EXTINF:10 group-title="AKTV港澳台频道",tvN
+#EXTINF:10 group-title="AKTV港澳台",tvN
 http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
 
-#EXTINF:11 group-title="AKTV港澳台频道",天映經典(1080)
+#EXTINF:11 group-title="AKTV港澳台",天映經典(1080)
 http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
 
-#EXTINF:12 group-title="AKTV港澳台频道",明珠剧集台(北美)
+#EXTINF:12 group-title="AKTV港澳台",明珠剧集台(北美)
 http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
 
-#EXTINF:13 group-title="AKTV港澳台频道",明珠台
+#EXTINF:13 group-title="AKTV港澳台",明珠台
 http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
 
-#EXTINF:14 group-title="AKTV港澳台频道",無線新聞台
+#EXTINF:14 group-title="AKTV港澳台",無線新聞台
 http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
 
-#EXTINF:15 group-title="AKTV港澳台频道",美亞電影台(HK)
+#EXTINF:15 group-title="AKTV港澳台",美亞電影台(HK)
 http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
 
-#EXTINF:16 group-title="AKTV港澳台频道",翡翠剧集台(北美)
+#EXTINF:16 group-title="AKTV港澳台",翡翠剧集台(北美)
 http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
 
-#EXTINF:17 group-title="AKTV港澳台频道",翡翠台
+#EXTINF:17 group-title="AKTV港澳台",翡翠台
 http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
 
-#EXTINF:18 group-title="AKTV港澳台频道",翡翠综合台(北美)
+#EXTINF:18 group-title="AKTV港澳台",翡翠综合台(北美)
 http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
 
-#EXTINF:19 group-title="AKTV港澳台频道",鳳凰衛視中文台
+#EXTINF:19 group-title="AKTV港澳台",鳳凰衛視中文台
 http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
 
-#EXTINF:20 group-title="AKTV港澳台频道",鳳凰衛視資訊台
+#EXTINF:20 group-title="AKTV港澳台",鳳凰衛視資訊台
 http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
 
-#EXTINF:21 group-title="AKTV港澳台频道",鳳凰衛視香港台
+#EXTINF:21 group-title="AKTV港澳台",鳳凰衛視香港台
 http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
 
-#EXTINF:22 group-title="AKTV港澳台频道",黃金翡翠台
+#EXTINF:22 group-title="AKTV港澳台",黃金翡翠台
 http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
 
-#EXTINF:23 group-title="AKTV港澳台频道",Sky Sports F1
+#EXTINF:23 group-title="AKTV港澳台",Sky Sports F1
 http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
 
-#EXTINF:24 group-title="AKTV港澳台频道",天映电影
+#EXTINF:24 group-title="AKTV港澳台",天映电影
 http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
 
-#EXTINF:25 group-title="AKTV港澳台频道",好萊塢電影台
+#EXTINF:25 group-title="AKTV港澳台",好萊塢電影台
 http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
 
-#EXTINF:26 group-title="AKTV港澳台频道",東森洋片
+#EXTINF:26 group-title="AKTV港澳台",東森洋片
 http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
 
-#EXTINF:27 group-title="AKTV港澳台频道",緯來體育台
+#EXTINF:27 group-title="AKTV港澳台",緯來體育台
 http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
 
-#EXTINF:40 group-title="AKTV港澳台频道",中天亚洲台
+#EXTINF:40 group-title="AKTV港澳台",中天亚洲台
 http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
 
-#EXTINF:41 group-title="AKTV港澳台频道",KLT-靖天國際台
+#EXTINF:41 group-title="AKTV港澳台",KLT-靖天國際台
 http://s1.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
 
-#EXTINF:42 group-title="AKTV港澳台频道",TVBS
+#EXTINF:42 group-title="AKTV港澳台",TVBS
 http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
 
-#EXTINF:43 group-title="AKTV港澳台频道",民視
+#EXTINF:43 group-title="AKTV港澳台",民視
 http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
 
-#EXTINF:44 group-title="AKTV港澳台频道",民視第一台
+#EXTINF:44 group-title="AKTV港澳台",民視第一台
 http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
 
-#EXTINF:45 group-title="AKTV港澳台频道",龍華日韓台
+#EXTINF:45 group-title="AKTV港澳台",龍華日韓台
 http://s1.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
 
-#EXTINF:46 group-title="AKTV港澳台频道",TVB 星河
+#EXTINF:46 group-title="AKTV港澳台",TVB 星河
 http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
 
-#EXTINF:47 group-title="AKTV港澳台频道",TVBS新聞
+#EXTINF:47 group-title="AKTV港澳台",TVBS新聞
 http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
 
-#EXTINF:48 group-title="AKTV港澳台频道",中天新闻台
+#EXTINF:48 group-title="AKTV港澳台",中天新闻台
 http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 
-#EXTINF:49 group-title="AKTV港澳台频道",東森新聞
+#EXTINF:49 group-title="AKTV港澳台",東森新聞
 http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 
 #数字频道
@@ -535,7 +455,6 @@ http://148.135.93.213/live.php?id=CHC家庭影院
 
 #EXTINF:-1 group-title="数字频道",CHC影迷电影
 http://148.135.93.213/live.php?id=CHC影迷电影
-
 
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://epg.v1.mk/logo/黑莓电影.png" group-title="数字频道",NewTV黑莓电影
 http://39.134.65.106/PLTV/88888888/224/3221225681/1.m3u8
@@ -1129,23 +1048,23 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchan
 https://stream1.freetv.fun/c4f5beae0b10f3f2af542b28adef9ddac055ea694013fcfbca51ae4dd0769ef5.m3u8
 
 #龙华港澳台
-#EXTINF:-1 group-title="AKTV港澳台频道",TW 龙华电影
+#EXTINF:-1 group-title="AKTV港澳台",TW 龙华电影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 
-#EXTINF:-1 group-title="AKTV港澳台频道",TW 龙华经典
+#EXTINF:-1 group-title="AKTV港澳台",TW 龙华经典
 https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 
-#EXTINF:-1 group-title="AKTV港澳台频道",TW 龙华卡通
+#EXTINF:-1 group-title="AKTV港澳台",TW 龙华卡通
 https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 
-#EXTINF:-1 group-title="AKTV港澳台频道",TW 龙华偶像
+#EXTINF:-1 group-title="AKTV港澳台",TW 龙华偶像
 https://cdn8.163189.xyz/live/lhox/stream.m3u8
 
-#EXTINF:-1 group-title="AKTV港澳台频道",TW 龙华日韩
+#EXTINF:-1 group-title="AKTV港澳台",TW 龙华日韩
 https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 
-#EXTINF:-1 group-title="AKTV港澳台频道",TW 龙华戏剧
+#EXTINF:-1 group-title="AKTV港澳台",TW 龙华戏剧
 https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 
-#EXTINF:-1 group-title="AKTV港澳台频道",TW 龙华洋片
+#EXTINF:-1 group-title="AKTV港澳台",TW 龙华洋片
 https://cdn8.163189.xyz/live/lhyp/stream.m3u8
