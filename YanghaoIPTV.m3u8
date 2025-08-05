@@ -740,65 +740,7 @@ http://tv.666150.xyz/huya.php?id=11342428
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",末日电影合集
 http://43.138.0.72:35455/yy/1354889019
 
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",周星驰电影
-http://tv.666150.xyz/huya.php?id=11342412
-
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",林正英电影
-http://tv.666150.xyz/huya.php?id=11342421
-
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",刘德华电影
-http://tv.666150.xyz/huya.php?id=11342424
-
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",古天乐电影
-http://tv.666150.xyz/huya.php?id=29982675
-
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",成龙电影
-http://home.kuaidi521.com:35455/douyu/3379942
-
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",李连杰电影
-http://tv.666150.xyz/huya.php?id=11342390
-
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",甄子丹电影
-http://tv.666150.xyz/huya.php?id=11352935
-
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",沈腾电影
-http://tv.666150.xyz/huya.php?id=11601968
-
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",黄渤电影
-http://tv.666150.xyz/huya.php?id=11352876
-
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",强森电影
-http://tv.666150.xyz/huya.php?id=21059581
-
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",王晶电影
-http://tv.666150.xyz/huya.php?id=11602058
-
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",金庸武侠
-http://tv.666150.xyz/huya.php?id=11342435
-
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",贺岁电影
-http://tv.666150.xyz/huya.php?id=11601986
-
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",狄仁杰电影
-http://tv.666150.xyz/huya.php?id=30080229
-
 #电视剧频道
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电视剧频道",斗鱼港剧轮播
-http://home.kuaidi521.com:35455/douyu/2793084
-http://zzy789.xyz/douyu1.php?id=2793084
-
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电视剧频道",经典剧场轮播
-http://home.kuaidi521.com:35455/douyu/4246519
-
-#EXTINF:-1 group-title="电视剧频道",斗鱼华语轮播
-http://tc-tct.douyucdn2.cn/dyliveflv1a/3928r9p0BHMDG_2000.xs?wsAuth=3c48b706fe90d736d90b5622adfc09d2&token=web-h5-0-3928-15d95fcfde11a749199abfc5ac7bdee6727c6402febadfb8&logo=0&expire=0&did=24482b48b98804f2b0a5b17400041701
-
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电视剧频道",斗鱼武侠轮播
-http://home.kuaidi521.com:35455/douyu/5061550
-
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电视剧频道",冰冰剧场轮播
-http://home.kuaidi521.com:35455/douyu/74374
-
 #EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://epg.v1.mk/logo/爱情喜剧.png" group-title="电视剧频道",NewTV爱情喜剧
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8393829412396288037&livemode=1&stbId=yu&mode=1&$4M FHD
 
