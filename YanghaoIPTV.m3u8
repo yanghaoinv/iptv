@@ -238,17 +238,10 @@ http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227391/index.m3u
 #地方卫视
 #EXTINF:-1 group-title="地方卫视",HK 香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-https://stream1.freetv.fun/34f6acf29bad26306c95cfa1074b9da576841c52efc6ea4f7f523a4df83f3d36.m3u8
-https://stream1.freetv.fun/341ccd5e93f4fade0e7db42bf55f61e6438c9fc9e5be23b9a484a1da21ec079b.ctv
-https://stream1.freetv.fun/7dd43876bc4752a3b299521f4a85dfa7555b350d39c605cf6a408f6f31687a62.m3u8
-https://stream1.freetv.fun/7a042cff75f5f9691fe1825f6cc2038b01bfdd6c7b4a25b24a03f067816e51ca.m3u8
-https://stream1.freetv.fun/17bfdc9eb5ec56f6dc8839c56f3078234b490e441862758d5b76097fb7968ca9.m3u8
-https://stream1.freetv.fun/8fb5ad980db9bb85194eb24010e6c655da429a3426108c336d13dcd848e94e93.ctv
-https://stream1.freetv.fun/e06e2245cd56eb5f8705bdbc4a622a8b6be2c249723c987bedf610bc0a7b35df.m3u8
 
-#EXTINF:-1 group-title="地方卫视",MC 莲花卫视
-http://8.138.7.223/tv/lotustv.m3u8
-https://stream1.freetv.fun/86d5fbc137de996ef87f330ef4e7fab1e7bd7701f52c0297beabe58fac86df0b.m3u8
+#EXTINF:-1 group-title="地方卫视",MC 澳门莲花
+http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+http://live-hdl.macaulotustv.com/lotustv/macaulotustv.m3u8
 
 #EXTINF:-1 group-title="地方卫视",东南卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7721801662260370363&livemode=1&stbId=yu&mode=1&$2M HD
