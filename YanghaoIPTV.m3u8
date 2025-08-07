@@ -589,39 +589,11 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=629850
 #EXTINF:-1 group-title="数字频道",睛彩篮球
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=yu&mode=1&$8M FHD
 
-
 #EXTINF:-1 group-title="数字频道",睛彩竞技
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=yu&mode=1&$8M FHD
 
 #EXTINF:-1 group-title="数字频道",至臻视界
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=yu&mode=1&$24M UHD
-
-#电视剧频道
-#EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://epg.v1.mk/logo/爱情喜剧.png" group-title="电视剧频道",NewTV爱情喜剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8393829412396288037&livemode=1&stbId=yu&mode=1&$4M FHD
-
-#EXTINF:-1 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://epg.v1.mk/logo/精品大剧.png" group-title="电视剧频道",NewTV精品大剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7882297361445410858&livemode=1&stbId=yu&mode=1&$4M FHD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=yu&mode=1
-
-#EXTINF:-1 tvg-name="中国功夫" tvg-logo="https://epg.v1.mk/logo/中国功夫.png" group-title="电视剧频道",NewTV中国功夫
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5897056882324761054&livemode=1&stbId=yu&mode=1&$4M FHD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=yu&mode=1
-
-#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://epg.v1.mk/logo/超级电视剧.png" group-title="电视剧频道",NewTV超级电视剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000024993&livemode=1&stbId=yu&mode=1&$4M FHD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000024993&livemode=1&stbId=yu&mode=1&$4M FHD
-
-#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://epg.v1.mk/logo/古装剧场.png" group-title="电视剧频道",NewTV古装剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6859053933687922163&livemode=1&stbId=yu&mode=1&$4M FHD
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=yu&mode=1
-
-#EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://epg.v1.mk/logo/潮妈辣婆.png" group-title="电视剧频道",NewTV潮妈辣婆
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6516734029835465177&livemode=1&stbId=yu&mode=1&$4M FHD
-
-#EXTINF:-1 group-title="电视剧频道",HK TVB星河
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 
 #SU点播电影
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="SU点播电影",末日电影合集
