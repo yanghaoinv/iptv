@@ -146,9 +146,6 @@ http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://0472.org/hls/cgtna.m3u8
 http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 
-#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/中国天气.png" group-title="央视频道",中国天气
-http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-
 #EXTINF:-1 tvg-name="环球电视台" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CGTN.png" group-title="央视频道",环球电视
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
 
