@@ -8,72 +8,90 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=realli
 http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225812/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV2.png" group-title="央视频道",CCTV2财经
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=8878432746825677699&livemode=1&stbId=yu&mode=1
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8878432746825677699&livemode=1&stbId=yu&mode=1&$2M HD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5353323539453949720&livemode=1&stbId=yu&mode=1&$2M HD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5353323539453949720&livemode=1&stbId=yu&mode=1
 http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225923/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV3.png" group-title="央视频道",CCTV3综艺
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8378175926191110263&livemode=1&stbId=yu&mode=1&$2M HD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8378175926191110263&livemode=1&stbId=yu&mode=1
 http://120.76.248.139/live/bfgd/4200000062.m3u8
 
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV4.png" group-title="央视频道",CCTV4中文国际
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=4719673858948437836&livemode=1&stbId=yu&mode=1&$2M SD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8183388942203045169&livemode=1&stbId=yu&mode=1&$2M HD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8183388942203045169&livemode=1&stbId=yu&mode=1
 http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225802/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV5.png" group-title="央视频道",CCTV5体育
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=reallive-cctv5&livemode=1&stbId=yu&mode=1&$2M HD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv5&livemode=1&stbId=yu&mode=1
 http://120.76.248.139/live/bfgd/4200000064.m3u8
 
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV5+.png" group-title="央视频道",CCTV5+体育赛事
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=reallive-cctv5plus&livemode=1&stbId=yu&mode=1&$2M HD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv5plus&livemode=1&stbId=yu&mode=1
 http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225821/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV6.png" group-title="央视频道",CCTV6电影
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6117099895556651277&livemode=1&stbId=yu&mode=1&$2M HD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6117099895556651277&livemode=1&stbId=yu&mode=1
 http://120.76.248.139/live/bfgd/4200000065.m3u8
 
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV7.png" group-title="央视频道",CCTV7国防军事
 http://148.135.93.213/live.php?id=CCTV7
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=yu&mode=1&$5M FHD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7050628689018054317&livemode=1&stbId=yu&mode=1&$2M HD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7050628689018054317&livemode=1&stbId=yu&mode=1
 http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225805/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV8.png" group-title="央视频道",CCTV8电视剧
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8871488051501921127&livemode=1&stbId=yu&mode=1&$2M HD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8871488051501921127&livemode=1&stbId=yu&mode=1
 http://120.76.248.139/live/bfgd/4200000066.m3u8
 
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV9.png" group-title="央视频道",CCTV9纪录
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6350727550077620987&livemode=1&stbId=yu&mode=1&$2M HD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6275371742726901431&livemode=1&stbId=yu&mode=1&$2M HD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6350727550077620987&livemode=1&stbId=yu&mode=1
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6275371742726901431&livemode=1&stbId=yu&mode=1
 http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225820/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV10.png" group-title="央视频道",CCTV10科教
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7019587760656900133&livemode=1&stbId=yu&mode=1&$2M HD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7019587760656900133&livemode=1&stbId=yu&mode=1
 http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225814/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV11.png" group-title="央视频道",CCTV11戏曲
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8983629816140945539&livemode=1&stbId=yu&mode=1&$2M SD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6351457414282570521&livemode=1&stbId=yu&mode=1&$2M HD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6351457414282570521&livemode=1&stbId=yu&mode=1
 http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225815/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV12.png" group-title="央视频道",CCTV12社会与法
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5325631075193490169&livemode=1&stbId=yu&mode=1&$2M HD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=yu&mode=1
 http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225816/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV13.png" group-title="央视频道",CCTV13新闻
 http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225817/index.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8593685226043367730&livemode=1&stbId=yu&mode=1&$2M SD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6918130250570453526&livemode=1&stbId=yu&mode=1&$2M HD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6918130250570453526&livemode=1&stbId=yu&mode=1
 
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV14.png" group-title="央视频道",CCTV14少儿
 http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225933/index.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6113730085955692619&livemode=1&stbId=yu&mode=1&$2M HD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8203666801302077036&livemode=1&stbId=yu&mode=1&$2M HD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6113730085955692619&livemode=1&stbId=yu&mode=1
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8203666801302077036&livemode=1&stbId=yu&mode=1
 
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV15.png" group-title="央视频道",[SD]CCTV15音乐
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV15.png" group-title="央视频道",CCTV15音乐
 http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225818/index.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=4832596595465032187&livemode=1&stbId=yu&mode=1&$2M HD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=4832596595465032187&livemode=1&stbId=yu&mode=1
 
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV16.png" group-title="央视频道",CCTV16奥林匹克
 http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227125/index.m3u8
@@ -81,6 +99,7 @@ http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227125/index.m3u
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV17.png" group-title="央视频道",CCTV17农业农村
 http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226986/index.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000056836&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=yu&mode=1
 
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/兵器科技.png" group-title="央视频道",CCTV兵器科技
 http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
@@ -573,12 +592,12 @@ http://148.135.93.213/live.php?id=CHC家庭影院
 http://148.135.93.213/live.php?id=CHC影迷电影
 
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://epg.v1.mk/logo/黑莓电影.png" group-title="数字频道",NewTV黑莓电影
-http://39.134.65.106/PLTV/88888888/224/3221225681/1.m3u8
-http://39.135.133.138/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8785669936177902664&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=yu&mode=1
 
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://epg.v1.mk/logo/黑莓动画.png" group-title="数字频道",NewTV黑莓动画
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6497762188035533951&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=yu&mode=1
 
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://epg.v1.mk/logo/超级电影.png" group-title="数字频道",NewTV超级电影
 http://39.134.65.106/PLTV/88888888/224/3221225644/1.m3u8
@@ -596,6 +615,7 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=715125
 
 #EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://epg.v1.mk/logo/爱情喜剧.png" group-title="数字频道",NewTV爱情喜剧
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8393829412396288037&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=yu&mode=1
 
 #EXTINF:-1 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://epg.v1.mk/logo/精品大剧.png" group-title="数字频道",NewTV精品大剧
 http://39.134.65.106/PLTV/88888888/224/3221225536/1.m3u8
@@ -610,6 +630,7 @@ http://39.134.65.106/PLTV/88888888/224/3221225637/1.m3u8
 http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000024993&livemode=1&stbId=yu&mode=1&$4M FHD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000024993&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=yu&mode=1
 
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://epg.v1.mk/logo/古装剧场.png" group-title="数字频道",NewTV古装剧场
 http://39.134.65.106/PLTV/88888888/224/3221225524/1.m3u8
@@ -624,6 +645,10 @@ http://39.134.65.3/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.
 http://39.134.65.106/PLTV/88888888/224/3221225525/1.m3u8
 http://39.135.135.24/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6399725674632152632&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=yu&mode=1
+
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://live.fanmingming.cn/tv/NewTV精品纪录.png" group-title="NewTV频道",NewTV精品纪录
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=yu&mode=1
 
 #EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://epg.v1.mk/logo/军旅剧场.png" group-title="数字频道",NewTV军旅剧场
 http://39.134.65.106/PLTV/88888888/224/3221225560/1.m3u8
@@ -633,10 +658,12 @@ http://39.134.65.76/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index
 http://39.134.65.106/PLTV/88888888/224/3221225642/1.m3u8
 http://39.134.65.4/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000023658&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=yu&mode=1
 
 #EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://epg.v1.mk/logo/潮妈辣婆.png" group-title="数字频道",NewTV潮妈辣婆
 http://39.134.65.70/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6516734029835465177&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=yu&mode=1
 
 #EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://epg.v1.mk/logo/东北热剧.png" group-title="数字频道",NewTV东北热剧
 http://39.134.65.74/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
@@ -649,6 +676,7 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=100000
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://epg.v1.mk/logo/精品体育.png" group-title="数字频道",NewTV精品体育
 http://39.134.65.106/PLTV/88888888/224/3221225526/1.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6460382139625130259&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=yu&mode=1
 
 #EXTINF:-1 tvg-name="精品纪录" tvg-logo="https://epg.v1.mk/logo/精品纪录.png" group-title="数字频道",NewTV精品纪录
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6298506997017621594&livemode=1&stbId=yu&mode=1&$4M FHD
@@ -685,15 +713,18 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=649776
 http://39.134.65.106/PLTV/88888888/224/3221225644/1.m3u8
 http://39.134.65.3/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000002120&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=yu&mode=1
 
 #EXTINF:-1 tvg-name="动作电影" tvg-logo="https://epg.v1.mk/logo/动作电影.png" group-title="电影频道",NewTV动作电影
 http://39.134.65.106/PLTV/88888888/224/3221225555/1.m3u8
 http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8103864434730665389&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=yu&mode=1
 https://stream1.freetv.fun/15258d3d4e90d77fee94d248c85f1f13dc842bf3f9bf804e3884c45abf42f273.m3u8
 
 #EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://epg.v1.mk/logo/惊悚悬疑.png" group-title="电影频道",NewTV惊悚悬疑
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7151256057701199617&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=yu&mode=1
 
 #EXTINF:-1 group-title="电影频道",功夫电影
 http://cfss.cc/cdn/hy/11352941.m3u8
@@ -716,9 +747,11 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=839382
 #EXTINF:-1 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://epg.v1.mk/logo/精品大剧.png" group-title="电视剧频道",NewTV精品大剧
 http://39.134.65.106/PLTV/88888888/224/3221225536/1.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7882297361445410858&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=yu&mode=1
 
 #EXTINF:-1 tvg-name="中国功夫" tvg-logo="https://epg.v1.mk/logo/中国功夫.png" group-title="电视剧频道",NewTV中国功夫
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5897056882324761054&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=yu&mode=1
 http://39.134.65.106/PLTV/88888888/224/3221225604/1.m3u8
 
 #EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://epg.v1.mk/logo/超级电视剧.png" group-title="电视剧频道",NewTV超级电视剧
@@ -731,6 +764,7 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=100000
 http://39.134.65.106/PLTV/88888888/224/3221225524/1.m3u8
 http://39.134.65.73/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6859053933687922163&livemode=1&stbId=yu&mode=1&$4M FHD
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=yu&mode=1
 
 #EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://epg.v1.mk/logo/家庭剧场.png" group-title="电视剧频道",NewTV家庭剧场
 http://39.134.65.106/PLTV/88888888/224/3221225538/1.m3u8
