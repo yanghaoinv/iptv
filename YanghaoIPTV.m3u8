@@ -379,59 +379,6 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=788973
 #EXTINF:-1 group-title="地方卫视",云南卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8567124785369040339&livemode=1&stbId=yu&mode=1&$2M SD
 
-#体育频道
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV5.png" group-title="体育频道",CCTV5体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=reallive-cctv5&livemode=1&stbId=yu&mode=1&$2M HD
-
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV5+.png" group-title="体育频道",CCTV5+体育赛事
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=reallive-cctv5plus&livemode=1&stbId=yu&mode=1&$2M HD
-
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV16.png" group-title="体育频道",CCTV16奥林匹克
-http://39.135.133.139/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-http://39.134.65.106/PLTV/88888888/224/3221225893/1.m3u8
-
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/风云足球.png" group-title="体育频道",CCTV风云足球
-http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
-
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" http-user-agent="iPhone" http-header="Referer=https://live.kankanews.com/" group-title="体育频道",五星体育
-http://118.89.87.74:88/live.php?id=五星体育
-
-#EXTINF:-1 tvg-name="超级体育" tvg-logo="https://epg.v1.mk/logo/超级体育.png" group-title="体育频道",NewTV超级体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000007755&livemode=1&stbId=yu&mode=1&$4M FHD
-
-#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://epg.v1.mk/logo/精品体育.png" group-title="体育频道",NewTV精品体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6460382139625130259&livemode=1&stbId=yu&mode=1&$4M FHD
-
-#EXTINF:-1 group-title="体育频道",睛彩篮球
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=yu&mode=1&$8M FHD
-
-#EXTINF:-1 group-title="体育频道",睛彩竞技
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=yu&mode=1&$8M FHD
-
-#EXTINF:27 group-title="体育频道",緯來體育台
-http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
-
-#EXTINF:33 group-title="体育频道",Astro Football
-http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
-
-#EXTINF:34 group-title="体育频道",Astro Sport UHD
-http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
-
-#EXTINF:35 group-title="体育频道",EuroSport 1
-http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
-
-#EXTINF:36 group-title="体育频道",EuroSport 2
-http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
-
-#EXTINF:37 group-title="体育频道",TNT SPORTS 1
-http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
-
-#EXTINF:38 group-title="体育频道",TNT SPORTS 2
-http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
-
-#EXTINF:39 group-title="体育频道",TNT SPORTS 3
-http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
-
 #AKTV港澳台
 #EXTINF:1 group-title="AKTV港澳台",Animax (HK)
 http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
