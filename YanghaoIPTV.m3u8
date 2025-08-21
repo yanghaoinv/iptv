@@ -259,21 +259,6 @@ http://tencentplaygsm.gztv.com/live/jingsai.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
 #地方卫视
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" http-user-agent="iPhone" group-title="APTV专享",凤凰卫视中文台
-http://148.135.93.213/phenix.php?id=fhzw
-
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" http-user-agent="iPhone" group-title="APTV专享",凤凰卫视资讯台
-http://148.135.93.213/phenix.php?id=fhzx
-
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" http-user-agent="iPhone" group-title="APTV专享",凤凰卫视香港台
-http://148.135.93.213/phenix.php?id=fhhk
-
-#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="APTV专享",香港卫视
-http://148.135.93.213/live.php?id=香港卫视
-
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" http-user-agent="AptvPlayer-UA" group-title="APTV专享",翡翠台
-http://101.35.240.114:88/live.php?id=翡翠台
-
 #EXTINF:-1 group-title="地方卫视",MC 澳门莲花
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 http://live-hdl.macaulotustv.com/lotustv/macaulotustv.m3u8
