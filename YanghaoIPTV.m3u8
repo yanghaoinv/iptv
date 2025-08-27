@@ -826,6 +826,116 @@ http://iptv.jxpan.vip:18888/aio/huya/23863796
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="SU点播电视剧",笑看风云
 http://iptv.jxpan.vip:18888/aio/huya/29465858
 
+#国际频道
+#EXTINF:-1 group-title="国际频道",英国 ABC News Live
+http://41.205.93.154/ABC/index.m3u8
+
+#EXTINF:-1 group-title="国际频道",英国 ABC
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
+
+#EXTINF:-1 group-title="国际频道",英国 BBC News (North America) (1080p)
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us@Asia" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际频道",Bloomberg TV Asia (720p)
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us@AsiaLiveEvent" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际频道",Bloomberg TV Asia Live Event (720p)
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+
+#EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://live.fanmingming.cn/tv/半岛新闻.png" group-title="国际频道",半岛新闻
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 group-title="国际频道",韩国 Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+
+#EXTINF:-1 group-title="国际频道",美国 CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+
+#EXTINF:-1 group-title="国际频道",英国 Real Wild
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="国际频道",美国 GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="国际频道",美国 Trace Urban
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="国际频道",美国 Motorvision.TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="国际频道",美国 Xplore
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
+
+#EXTINF:-1 group-title="国际频道",美国 CNN
+https://jmp2.uk/sam-GBBD8000016N.m3u8
+
+#EXTINF:-1 group-title="国际频道",美国 Fox LiveNow
+https://jmp2.uk/sam-USBA300024TN.m3u8
+
+#EXTINF:-1 group-title="国际频道",美国 NBC News Now
+https://jmp2.uk/sam-GBBB1500004LG.m3u8
+
+#EXTINF:-1 group-title="国际频道",美国 Newsmax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 group-title="国际频道",美国 PBS MPT Baltimore MD (WMPB) (1080p)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+
+#EXTINF:-1 group-title="国际频道",美国 Yahoo! Finance (1080p)
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+
+#EXTINF:29 group-title="国际频道",Japan News 24H LIVE
+https://s1.tvm4a1.cfd/aktvjp/japannews24hlive/AKTV.m3u8
+
+#EXTINF:30 group-title="国际频道",日テレNEWS LIVE
+https://s1.tvm4a1.cfd/aktvjp/ntv/AKTV.m3u8
+
+#EXTINF:-1 group-title="国际频道",南非 Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+
+#EXTINF:-1 group-title="国际频道",印度 Wion News
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+https://stream1.freetv.fun/9b4811f60f163e860f10caced98e080bee47b6512d0f4e4e4b642293680a88d2.m3u8
+
+#EXTINF:-1 group-title="国际频道",新加坡 CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+https://stream1.freetv.fun/d8b66990da8f29a9eae8fef9add9cb28392dc19ba4c56ed61149c88dda834bc9.m3u8
+http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
+
+#EXTINF:29 group-title="国际频道",朝鲜恩情台
+http://s1.an94tv.cfd/aktv3/CH-0/AKTV.m3u8
+
+#EXTINF:30 group-title="国际频道",Japan News 24H LIVE
+http://s1.an94tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
+
+#EXTINF:31 group-title="国际频道",日テレNEWS LIVE
+http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
+
+#EXTINF:32 group-title="国际频道",8TV
+http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
+
+#EXTINF:-1 group-title="国际频道",日本 ANN News
+https://s2.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
+
+#EXTINF:-1 group-title="国际频道",俄罗斯 RT Documentary（英语纪录）
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+
+#EXTINF:-1 group-title="国际频道",俄罗斯 RT News（英语国际）
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+
+#EXTINF:-1 group-title="国际频道",法国 Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 group-title="国际频道",巴西 ric plus
+https://stream1.freetv.fun/7ad21338860fe295e090d166163d0a1881eb006b2d84f887ba867b5d13751711.m3u8
+
+#EXTINF:-1 group-title="国际频道",[HD]mech plus
+https://stream1.freetv.fun/5820e487e8d8a390c149c1197fbec044d733def9f7ca1a1e1d7914a46db67787.m3u8
+
+#EXTINF:-1 group-title="国际频道",[BD]icc plus
+https://stream1.freetv.fun/b019c6ef2fe71105503633ec256f5449fa5675585d7570816210a109536f8382.m3u8
+
 #备用-港澳台
 #EXTINF:-1 tvg-id="千禧经典" tvg-name="千禧经典" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/千禧经典.png" group-title="备用-港澳台",千禧经典
 
@@ -1006,116 +1116,6 @@ https://stream1.freetv.fun/ed79f0e0b3239f6d400bab53fb259f7f53b13c4621dfb82f35647
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-name="DAZN体育2" tvg-logo="https://live.fanmingming.cn/tv/DAZN体育2.png" group-title="备用-港澳台",DAZN体育2
 rtmp://f13h.mine.nu/sat/tv741
-
-#国际频道
-#EXTINF:-1 group-title="国际频道",英国 ABC News Live
-http://41.205.93.154/ABC/index.m3u8
-
-#EXTINF:-1 group-title="国际频道",英国 ABC
-https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
-
-#EXTINF:-1 group-title="国际频道",英国 BBC News (North America) (1080p)
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BloombergTV.us@Asia" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际频道",Bloomberg TV Asia (720p)
-https://bloomberg.com/media-manifest/streams/asia.m3u8
-
-#EXTINF:-1 tvg-id="BloombergTV.us@AsiaLiveEvent" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际频道",Bloomberg TV Asia Live Event (720p)
-https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-
-#EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://live.fanmingming.cn/tv/半岛新闻.png" group-title="国际频道",半岛新闻
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
-#EXTINF:-1 group-title="国际频道",韩国 Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-
-#EXTINF:-1 group-title="国际频道",美国 CBN News
-https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-
-#EXTINF:-1 group-title="国际频道",英国 Real Wild
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 group-title="国际频道",美国 GB News
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 group-title="国际频道",美国 Trace Urban
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
-
-#EXTINF:-1 group-title="国际频道",美国 Motorvision.TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 group-title="国际频道",美国 Xplore
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
-
-#EXTINF:-1 group-title="国际频道",美国 CNN
-https://jmp2.uk/sam-GBBD8000016N.m3u8
-
-#EXTINF:-1 group-title="国际频道",美国 Fox LiveNow
-https://jmp2.uk/sam-USBA300024TN.m3u8
-
-#EXTINF:-1 group-title="国际频道",美国 NBC News Now
-https://jmp2.uk/sam-GBBB1500004LG.m3u8
-
-#EXTINF:-1 group-title="国际频道",美国 Newsmax
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
-#EXTINF:-1 group-title="国际频道",美国 PBS MPT Baltimore MD (WMPB) (1080p)
-https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-
-#EXTINF:-1 group-title="国际频道",美国 Yahoo! Finance (1080p)
-https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-
-#EXTINF:29 group-title="国际频道",Japan News 24H LIVE
-https://s1.tvm4a1.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-
-#EXTINF:30 group-title="国际频道",日テレNEWS LIVE
-https://s1.tvm4a1.cfd/aktvjp/ntv/AKTV.m3u8
-
-#EXTINF:-1 group-title="国际频道",南非 Wild Earth
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-
-#EXTINF:-1 group-title="国际频道",印度 Wion News
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-https://stream1.freetv.fun/9b4811f60f163e860f10caced98e080bee47b6512d0f4e4e4b642293680a88d2.m3u8
-
-#EXTINF:-1 group-title="国际频道",新加坡 CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-https://stream1.freetv.fun/d8b66990da8f29a9eae8fef9add9cb28392dc19ba4c56ed61149c88dda834bc9.m3u8
-http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
-
-#EXTINF:29 group-title="国际频道",朝鲜恩情台
-http://s1.an94tv.cfd/aktv3/CH-0/AKTV.m3u8
-
-#EXTINF:30 group-title="国际频道",Japan News 24H LIVE
-http://s1.an94tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-
-#EXTINF:31 group-title="国际频道",日テレNEWS LIVE
-http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
-
-#EXTINF:32 group-title="国际频道",8TV
-http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
-
-#EXTINF:-1 group-title="国际频道",日本 ANN News
-https://s2.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-
-#EXTINF:-1 group-title="国际频道",俄罗斯 RT Documentary（英语纪录）
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
-
-#EXTINF:-1 group-title="国际频道",俄罗斯 RT News（英语国际）
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-
-#EXTINF:-1 group-title="国际频道",法国 Trace Sports
-https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 group-title="国际频道",巴西 ric plus
-https://stream1.freetv.fun/7ad21338860fe295e090d166163d0a1881eb006b2d84f887ba867b5d13751711.m3u8
-
-#EXTINF:-1 group-title="国际频道",[HD]mech plus
-https://stream1.freetv.fun/5820e487e8d8a390c149c1197fbec044d733def9f7ca1a1e1d7914a46db67787.m3u8
-
-#EXTINF:-1 group-title="国际频道",[BD]icc plus
-https://stream1.freetv.fun/b019c6ef2fe71105503633ec256f5449fa5675585d7570816210a109536f8382.m3u8
 
 #备用-移动IPV6央视卫视
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="备用-移动IPV6央视卫视",CCTV1
@@ -1299,9 +1299,9 @@ http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv3
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="备用-咪咕央视卫视",CCTV-4中文国际
 http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="备用-咪咕央视卫视",CCTV-4欧洲
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4m
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="备用-咪咕央视卫视",CCTV-4美洲
 http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4o
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="备用-咪咕央视卫视",CCTV-4美洲
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4m
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="备用-咪咕央视卫视",CCTV-5体育
 http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="备用-咪咕央视卫视",CCTV-5+体育赛事
