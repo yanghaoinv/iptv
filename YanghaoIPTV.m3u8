@@ -892,7 +892,7 @@ https://stream1.freetv.fun/55317db1dd958d493bc8a11eed6f260f7c0903ab196dbbb4b5bf3
 #EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Phoenix4.png" group-title="港澳台",凤凰电影
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 
-#EXTINF:-1 tvg-name="ASTRO AOD" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ASTROAOD.png" group-title="港澳台频道",天映频道 ASTRO AOD
+#EXTINF:-1 tvg-name="ASTRO AOD" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ASTROAOD.png" group-title="港澳台",天映频道 ASTRO AOD
 http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 
 #EXTINF:-1 group-title="港澳台",HK 港台电视 31
@@ -1003,9 +1003,9 @@ https://stream1.freetv.fun/ed79f0e0b3239f6d400bab53fb259f7f53b13c4621dfb82f35647
 
 #EXTINF:-1 group-title="港澳台",TW 民視新聞
 
-#EXTINF:-1 tvg-name="DAZN体育1" tvg-logo="https://live.fanmingming.cn/tv/DAZN体育1.png" group-title="港澳台频道",DAZN体育1
+#EXTINF:-1 tvg-name="DAZN体育1" tvg-logo="https://live.fanmingming.cn/tv/DAZN体育1.png" group-title="港澳台",DAZN体育1
 rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1 tvg-name="DAZN体育2" tvg-logo="https://live.fanmingming.cn/tv/DAZN体育2.png" group-title="港澳台频道",DAZN体育2
+#EXTINF:-1 tvg-name="DAZN体育2" tvg-logo="https://live.fanmingming.cn/tv/DAZN体育2.png" group-title="港澳台",DAZN体育2
 rtmp://f13h.mine.nu/sat/tv741
 
 #国际频道
