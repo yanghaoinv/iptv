@@ -390,6 +390,7 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=64977621
 
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://epg.v1.mk/logo/超级电影.png" group-title="数字频道",NewTV超级电影
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000002120&livemode=1&stbId=yu&mode=1&$4M FHD
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 
 #EXTINF:-1 tvg-name="动作电影" tvg-logo="https://epg.v1.mk/logo/动作电影.png" group-title="数字频道",NewTV动作电影
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8103864434730665389&livemode=1&stbId=yu&mode=1&$4M FHD
@@ -414,6 +415,7 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=589705
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000024993&livemode=1&stbId=yu&mode=1&$4M FHD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000024993&livemode=1&stbId=yu&mode=1&$4M FHD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=yu&mode=1
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://epg.v1.mk/logo/古装剧场.png" group-title="数字频道",NewTV古装剧场
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6859053933687922163&livemode=1&stbId=yu&mode=1&$4M FHD
@@ -435,6 +437,7 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=65167340
 
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://epg.v1.mk/logo/超级体育.png" group-title="数字频道",NewTV超级体育
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000007755&livemode=1&stbId=yu&mode=1&$4M FHD
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://epg.v1.mk/logo/精品体育.png" group-title="数字频道",NewTV精品体育
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6460382139625130259&livemode=1&stbId=yu&mode=1&$4M FHD
@@ -797,10 +800,10 @@ http://iptv.jxpan.vip:18888/aio/huya/29465858
 
 #国际频道
 #EXTINF:-1 group-title="国际频道",新加坡 CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 https://stream1.freetv.fun/d8b66990da8f29a9eae8fef9add9cb28392dc19ba4c56ed61149c88dda834bc9.m3u8
-http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://live.fanmingming.cn/tv/半岛新闻.png" group-title="国际频道",半岛电视台
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -859,6 +862,7 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 
 #EXTINF:-1 group-title="国际频道",韩国 Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
 #EXTINF:29 group-title="国际频道",Japan News 24H LIVE
 https://s1.tvm4a1.cfd/aktvjp/japannews24hlive/AKTV.m3u8
@@ -907,6 +911,38 @@ https://stream1.freetv.fun/5820e487e8d8a390c149c1197fbec044d733def9f7ca1a1e1d791
 https://stream1.freetv.fun/b019c6ef2fe71105503633ec256f5449fa5675585d7570816210a109536f8382.m3u8
 
 #备用-港澳台
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="备用-港澳台",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+https://stream1.freetv.fun/341ccd5e93f4fade0e7db42bf55f61e6438c9fc9e5be23b9a484a1da21ec079b.ctv
+https://stream1.freetv.fun/7dd43876bc4752a3b299521f4a85dfa7555b350d39c605cf6a408f6f31687a62.m3u8
+https://stream1.freetv.fun/7a042cff75f5f9691fe1825f6cc2038b01bfdd6c7b4a25b24a03f067816e51ca.m3u8
+https://stream1.freetv.fun/17bfdc9eb5ec56f6dc8839c56f3078234b490e441862758d5b76097fb7968ca9.m3u8
+https://stream1.freetv.fun/8fb5ad980db9bb85194eb24010e6c655da429a3426108c336d13dcd848e94e93.ctv
+https://stream1.freetv.fun/e06e2245cd56eb5f8705bdbc4a622a8b6be2c249723c987bedf610bc0a7b35df.m3u8
+
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="备用-港澳台",凤凰香港
+https://stream1.freetv.fun/4d7545d1bbe9e3f8424f201e579f2648b2b2d7c55f9ddb3201f40c848807fc57.ctv
+http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+https://stream1.freetv.fun/75e234378589af95bef39f3fc9b46fd9f199d2b0750b6ef7082cd363b1fb1654.m3u8
+https://stream1.freetv.fun/db3451296672e22dfbd5f27d12f32675e8f9e4ca2379aa8097aeb2053a407e3f.m3u8
+
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="备用-港澳台",凤凰中文
+http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+https://stream1.freetv.fun/a3cfcb6f4429baaa2f182afaf1ab55003d71ca680ca0afd61968d36b33f26f03.m3u8
+https://stream1.freetv.fun/a46f52861e9ace633f2259316777ba8dbeeaffc6dc31608c64a6b0896cb10839.m3u8
+
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="备用-港澳台",凤凰资讯
+https://stream1.freetv.fun/8207fefca4ec53194577b2ed278461db2f591ad800e535ba46d497749e2d7ee5.m3u8
+https://stream1.freetv.fun/55317db1dd958d493bc8a11eed6f260f7c0903ab196dbbb4b5bf379800ba397f.m3u8
+
+#EXTINF:-1 tvg-id="TVB无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="备用-港澳台",TVB无线新闻
+http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+
+#EXTINF:-1 group-title="备用-港澳台",TVB 娱乐新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+
 #EXTINF:-1 tvg-id="千禧经典" tvg-name="千禧经典" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/千禧经典.png" group-title="备用-港澳台",千禧经典
 
 
@@ -931,45 +967,22 @@ http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 group-title="备用-港澳台",TVB 亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
-#EXTINF:-1 group-title="备用-港澳台",TVB 星河
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
-
-#EXTINF:-1 group-title="备用-港澳台",TVB 娱乐新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-
-#EXTINF:-1 tvg-id="TVB无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="备用-港澳台",TVB无线新闻
-http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-http://php.jdshipin.com:8880/smt.php?id=inews_twn
-
 #EXTINF:-1 tvg-id="TVB无线星河" tvg-name="无线星河" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/TVB6.png" group-title="备用-港澳台",TVB无线星河
 http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
 #http://php.jdshipin.com:8880/smt.php?id=Xinhe
 
-#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="备用-港澳台",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-https://stream1.freetv.fun/341ccd5e93f4fade0e7db42bf55f61e6438c9fc9e5be23b9a484a1da21ec079b.ctv
-https://stream1.freetv.fun/7dd43876bc4752a3b299521f4a85dfa7555b350d39c605cf6a408f6f31687a62.m3u8
-https://stream1.freetv.fun/7a042cff75f5f9691fe1825f6cc2038b01bfdd6c7b4a25b24a03f067816e51ca.m3u8
-https://stream1.freetv.fun/17bfdc9eb5ec56f6dc8839c56f3078234b490e441862758d5b76097fb7968ca9.m3u8
-https://stream1.freetv.fun/8fb5ad980db9bb85194eb24010e6c655da429a3426108c336d13dcd848e94e93.ctv
-https://stream1.freetv.fun/e06e2245cd56eb5f8705bdbc4a622a8b6be2c249723c987bedf610bc0a7b35df.m3u8
+#EXTINF:-1 group-title="备用-港澳台",TVB 星河
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="备用-港澳台",凤凰香港
-https://stream1.freetv.fun/4d7545d1bbe9e3f8424f201e579f2648b2b2d7c55f9ddb3201f40c848807fc57.ctv
-http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-https://stream1.freetv.fun/75e234378589af95bef39f3fc9b46fd9f199d2b0750b6ef7082cd363b1fb1654.m3u8
-https://stream1.freetv.fun/db3451296672e22dfbd5f27d12f32675e8f9e4ca2379aa8097aeb2053a407e3f.m3u8
+#EXTINF:-1 group-title="备用-港澳台",HOY 76
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="备用-港澳台",凤凰中文
-http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-https://stream1.freetv.fun/a3cfcb6f4429baaa2f182afaf1ab55003d71ca680ca0afd61968d36b33f26f03.m3u8
-https://stream1.freetv.fun/a46f52861e9ace633f2259316777ba8dbeeaffc6dc31608c64a6b0896cb10839.m3u8
+#EXTINF:-1 tvg-name="香港开电视" group-title="备用-港澳台",HOY 77
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="备用-港澳台",凤凰资讯
-https://stream1.freetv.fun/8207fefca4ec53194577b2ed278461db2f591ad800e535ba46d497749e2d7ee5.m3u8
-https://stream1.freetv.fun/55317db1dd958d493bc8a11eed6f260f7c0903ab196dbbb4b5bf379800ba397f.m3u8
+#EXTINF:-1 group-title="港澳台「P」",HOY 78 资讯台
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 
 #EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Phoenix4.png" group-title="备用-港澳台",凤凰电影
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
