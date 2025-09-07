@@ -973,6 +973,10 @@ http://106.52.196.79:80/TV/mui.php?id=cctv2
 http://106.52.196.79:80/TV/mui.php?id=cctv3
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png" group-title="备用-咪咕央视",CCTV4
 http://106.52.196.79:80/TV/mui.php?id=cctv4
+#EXTINF:-1 tvg-name="CCTV4o" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4欧洲.png" group-title="备用-咪咕央视",CCTV4-欧洲
+http://106.52.196.79:80/TV/mui.php?id=cctv4o
+#EXTINF:-1 tvg-name="CCTV4m" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4美洲.png" group-title="备用-咪咕央视",CCTV4-美洲
+http://106.52.196.79:80/TV/mui.php?id=cctv4m
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="备用-咪咕央视",CCTV5
 http://106.52.196.79:80/TV/mui.php?id=cctv5
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5+.png" group-title="备用-咪咕央视",CCTV5+
@@ -1001,10 +1005,6 @@ http://106.52.196.79:80/TV/mui.php?id=cctv15
 http://106.52.196.79:80/TV/mui.php?id=cctv16
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV17.png" group-title="备用-咪咕央视",CCTV17
 http://106.52.196.79:80/TV/mui.php?id=cctv17
-#EXTINF:-1 tvg-name="CCTV4o" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4欧洲.png" group-title="备用-咪咕央视",CCTV4-欧洲
-http://106.52.196.79:80/TV/mui.php?id=cctv4o
-#EXTINF:-1 tvg-name="CCTV4m" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4美洲.png" group-title="备用-咪咕央视",CCTV4-美洲
-http://106.52.196.79:80/TV/mui.php?id=cctv4m
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" http-user-agent="AptvPlayer-UA" group-title="备用-咪咕央视",CCTV1
 http://101.35.240.114:88/live.php?id=CCTV1
