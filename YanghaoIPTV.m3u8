@@ -1205,7 +1205,6 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=691813
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6918130250570453526&livemode=1&stbId=yu&mode=1
 
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/CCTV14.png" group-title="备用-自有央视卫视",CCTV14少儿
-http://101.35.240.114:88/live.php?id=CCTV14
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6113730085955692619&livemode=1&stbId=yu&mode=1&$2M HD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8203666801302077036&livemode=1&stbId=yu&mode=1&$2M HD
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6113730085955692619&livemode=1&stbId=yu&mode=1
