@@ -766,13 +766,13 @@ https://stream1.freetv.fun/d8b66990da8f29a9eae8fef9add9cb28392dc19ba4c56ed61149c
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 group-title="国际频道",美国 CNN
-https://jmp2.uk/sam-GBBD8000016N.m3u8
+
 
 #EXTINF:-1 group-title="国际频道",美国 Fox LiveNow
-https://jmp2.uk/sam-USBA300024TN.m3u8
+
 
 #EXTINF:-1 group-title="国际频道",美国 NBC News Now
-https://jmp2.uk/sam-GBBB1500004LG.m3u8
+
 
 #EXTINF:-1 group-title="国际频道",美国 Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
@@ -821,33 +821,12 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
-#EXTINF:29 group-title="国际频道",Japan News 24H LIVE
-https://s1.tvm4a1.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-
-#EXTINF:30 group-title="国际频道",日テレNEWS LIVE
-https://s1.tvm4a1.cfd/aktvjp/ntv/AKTV.m3u8
-
 #EXTINF:-1 group-title="国际频道",南非 Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
 #EXTINF:-1 group-title="国际频道",印度 Wion News
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 https://stream1.freetv.fun/9b4811f60f163e860f10caced98e080bee47b6512d0f4e4e4b642293680a88d2.m3u8
-
-#EXTINF:29 group-title="国际频道",朝鲜恩情台
-http://s1.an94tv.cfd/aktv3/CH-0/AKTV.m3u8
-
-#EXTINF:30 group-title="国际频道",Japan News 24H LIVE
-http://s1.an94tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-
-#EXTINF:31 group-title="国际频道",日テレNEWS LIVE
-http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
-
-#EXTINF:32 group-title="国际频道",8TV
-http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
-
-#EXTINF:-1 group-title="国际频道",日本 ANN News
-https://s2.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
 
 #EXTINF:-1 group-title="国际频道",俄罗斯 RT Documentary（英语纪录）
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
