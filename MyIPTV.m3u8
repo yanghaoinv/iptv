@@ -301,6 +301,40 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=300000
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://live.fanmingming.cn/tv/上海第一财经.png" group-title="数字频道",第一财经
 http://8.138.7.223/tv/shtv.php?id=dycj
 
+#BXTV港澳台
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰中文台.png" group-title="BXTV港澳台",鳳凰衛視中文台
+http://bxtv.3a.ink/api.php?id=fhzw
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯台.png" group-title="BXTV港澳台",鳳凰衛視資訊台
+http://bxtv.3a.ink/api.php?id=fhzx
+#EXTINF:-1 tvg-name="鳳凰衛視香港台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰香港台.png" group-title="BXTV港澳台",鳳凰衛視香港台
+http://bxtv.3a.ink/api.php?id=fhhk
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="BXTV港澳台",翡翠台
+http://bxtv.3a.ink/api.php?id=fct
+#EXTINF:-1 tvg-name="myTV SUPER 18台" tvg-logo="https://live.fanmingming.cn/tv/myTV SUPER 18台.png" group-title="BXTV港澳台",myTV SUPER 18台
+http://bxtv.3a.ink/api.php?id=18
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.cn/tv/TVB Plus.png" group-title="BXTV港澳台",TVB Plus
+http://bxtv.3a.ink/api.php?id=tvbp
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.cn/tv/明珠台.png" group-title="BXTV港澳台",明珠台
+http://bxtv.3a.ink/api.php?id=mz
+#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="https://live.fanmingming.cn/tv/無線新聞台.png" group-title="BXTV港澳台",無線新聞台
+http://bxtv.3a.ink/api.php?id=wxxw
+#EXTINF:-1 tvg-name="美亞電影台" tvg-logo="https://live.fanmingming.cn/tv/美亞電影台.png" group-title="BXTV港澳台",美亞電影台
+http://bxtv.3a.ink/api.php?id=meiya
+#EXTINF:-1 tvg-name="PopC" tvg-logo="https://live.fanmingming.cn/tv/PopC.png" group-title="BXTV港澳台",PopC
+http://bxtv.3a.ink/api.php?id=popc
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://live.fanmingming.cn/tv/VIUTV.png" group-title="BXTV港澳台",VIUTV
+http://bxtv.3a.ink/api.php?id=viutv
+#EXTINF:-1 tvg-name="千禧經典台" tvg-logo="https://live.fanmingming.cn/tv/千禧經典台.png" group-title="BXTV港澳台",千禧經典台
+http://bxtv.3a.ink/api.php?id=qxjd
+#EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://live.fanmingming.cn/tv/NOW新闻.png" group-title="BXTV港澳台",NOW新闻
+http://bxtv.3a.ink/api.php?id=now
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png" group-title="BXTV港澳台",广东体育
+http://bxtv.3a.ink/api.php?id=gdty
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="BXTV港澳台",广东珠江
+http://bxtv.3a.ink/api.php?id=gdzj
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://live.fanmingming.cn/tv/中天新聞台.png" group-title="BXTV港澳台",中天新聞台
+http://bxtv.3a.ink/api.php?id=ztxw
+
 #备用-港澳台
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="备用-港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -313,9 +347,9 @@ https://stream1.freetv.fun/e06e2245cd56eb5f8705bdbc4a622a8b6be2c249723c987bedf61
 
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="备用-港澳台",凤凰香港
 https://stream1.freetv.fun/4d7545d1bbe9e3f8424f201e579f2648b2b2d7c55f9ddb3201f40c848807fc57.ctv
-http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 https://stream1.freetv.fun/75e234378589af95bef39f3fc9b46fd9f199d2b0750b6ef7082cd363b1fb1654.m3u8
 https://stream1.freetv.fun/db3451296672e22dfbd5f27d12f32675e8f9e4ca2379aa8097aeb2053a407e3f.m3u8
+http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="备用-港澳台",凤凰中文
 http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
@@ -325,6 +359,7 @@ https://stream1.freetv.fun/a46f52861e9ace633f2259316777ba8dbeeaffc6dc31608c64a6b
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="备用-港澳台",凤凰资讯
 https://stream1.freetv.fun/8207fefca4ec53194577b2ed278461db2f591ad800e535ba46d497749e2d7ee5.m3u8
 https://stream1.freetv.fun/55317db1dd958d493bc8a11eed6f260f7c0903ab196dbbb4b5bf379800ba397f.m3u8
+http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png" group-title="备用-港澳台",星空卫视
 http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
@@ -333,6 +368,9 @@ http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
+
+#EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="https://isus.cc/share/logo/TVBPlus.png" group-title="备用-港澳台",TVB Plus
+http://bxtv.3a.ink/api.php?id=tvbp
 
 #EXTINF:-1 group-title="备用-港澳台",TVB 娱乐新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
@@ -343,11 +381,15 @@ https://stream.iptv-search.com/main.php?id=%E5%8D%83%E7%A6%A7%E7%BB%8F%E5%85%B8&
 http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
 
+#EXTINF:-1 tvg-id="环球电视" tvg-name="环球电视" tvg-logo="https://live.fanmingming.cn/tv/环球电视台.png" group-title="备用-港澳台",环球电视
+http://utv1.hqtvzb.com:9999/hls/world.m3u8
+
 #EXTINF:-1 group-title="备用-港澳台",HK 经典电影
 https://stream1.freetv.fun/68b1246ebb6ebb9be45a97042d751c9f214ed4baa3ecd11827101243551b5fdc.ctv
 
 #EXTINF:-1 group-title="备用-港澳台",HK TVB明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png" group-title="备用-港澳台",TVB 明珠台
 http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
@@ -362,6 +404,11 @@ https://stream1.freetv.fun/ec738c8f8b5d5706670eb42e4fe79edc5d6f471ba93d0eb20dff4
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+
+#EXTINF:-1 tvg-id="华丽翡翠" tvg-name="华丽翡翠" tvg-logo="https://live.fanmingming.cn/tv/华丽翡翠.png" group-title="港澳台频道",华丽翡翠台
+http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+http://cdn9.163189.xyz/smt1.1.php?id=Wlt
 
 #EXTINF:-1 group-title="备用-港澳台",TVB 亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
