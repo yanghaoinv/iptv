@@ -62,6 +62,8 @@ http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
 http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/央视台球.png" group-title="央视频道",CCTV-央视台球
 http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
+#EXTINF:-1 tvg-id="环球电视" tvg-name="环球电视" tvg-logo="https://live.fanmingming.cn/tv/环球电视台.png" group-title="备用-港澳台",环球电视
+http://utv1.hqtvzb.com:9999/hls/world.m3u8
 
 #卫视频道
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖南卫视.png" http-user-agent="AptvPlayer-UA" group-title="卫视频道",湖南卫视
@@ -333,12 +335,6 @@ http://bxtv.3a.ink/api.php?id=ztxw
 
 #备用-港澳台
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="备用-港澳台",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-https://stream1.freetv.fun/341ccd5e93f4fade0e7db42bf55f61e6438c9fc9e5be23b9a484a1da21ec079b.ctv
-https://stream1.freetv.fun/7dd43876bc4752a3b299521f4a85dfa7555b350d39c605cf6a408f6f31687a62.m3u8
-https://stream1.freetv.fun/7a042cff75f5f9691fe1825f6cc2038b01bfdd6c7b4a25b24a03f067816e51ca.m3u8
-https://stream1.freetv.fun/17bfdc9eb5ec56f6dc8839c56f3078234b490e441862758d5b76097fb7968ca9.m3u8
-https://stream1.freetv.fun/8fb5ad980db9bb85194eb24010e6c655da429a3426108c336d13dcd848e94e93.ctv
 https://stream1.freetv.fun/e06e2245cd56eb5f8705bdbc4a622a8b6be2c249723c987bedf610bc0a7b35df.m3u8
 
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="备用-港澳台",凤凰香港
@@ -368,8 +364,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
 
-#EXTINF:-1 tvg-id="环球电视" tvg-name="环球电视" tvg-logo="https://live.fanmingming.cn/tv/环球电视台.png" group-title="备用-港澳台",环球电视
-http://utv1.hqtvzb.com:9999/hls/world.m3u8
 
 #EXTINF:-1 group-title="备用-港澳台",HK 经典电影
 https://stream1.freetv.fun/68b1246ebb6ebb9be45a97042d751c9f214ed4baa3ecd11827101243551b5fdc.ctv
@@ -378,7 +372,6 @@ https://stream1.freetv.fun/68b1246ebb6ebb9be45a97042d751c9f214ed4baa3ecd11827101
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 https://stream1.freetv.fun/4db377997e788111dc3a7a47fec67132e36bd8221c27f01f0d14ae82d86bc4ff.ctv
 https://stream1.freetv.fun/4db377997e788111dc3a7a47fec67132e36bd8221c27f01f0d14ae82d86bc4ff.ctv
-
 
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png" group-title="备用-港澳台",TVB 明珠台
 http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
@@ -430,7 +423,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
 
 #EXTINF:-1 group-title="备用-港澳台",HK TVB Plus
-https://cdn.163189.xyz/live/tvbp/stream.m3u8
 https://stream1.freetv.fun/5c71ddc1ee039d8057898c807e9cda2dfc61c7534d017fbf7c0de04c5c58c890.ctv
 
 #EXTINF:-1 tvg-id="耀才财经" tvg-name="耀才财经" tvg-logo="https://live.fanmingming.cn/tv/耀才财经.png" group-title="备用-港澳台",耀才财经
