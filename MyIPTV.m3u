@@ -62,7 +62,7 @@ http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
 http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/央视台球.png" group-title="央视频道",CCTV-央视台球
 http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
-#EXTINF:-1 tvg-id="环球电视" tvg-name="环球电视" tvg-logo="https://live.fanmingming.cn/tv/环球电视台.png" group-title="备用-港澳台",环球电视
+#EXTINF:-1 tvg-id="环球电视" tvg-name="环球电视" tvg-logo="https://live.fanmingming.cn/tv/环球电视台.png" group-title="央视频道",环球电视
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
 
 #卫视频道
