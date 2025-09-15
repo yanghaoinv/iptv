@@ -1,0 +1,29 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="TVB星河高清" tvg-logo="https://live.fanmingming.cn/tv/TVB星河高清.png",TVB星河高清
+http://36.136.13.248:18181/tsfile/live/1063_1.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png",CHC家庭影院
+http://110.72.55.103:8181/tsfile/live/1078_1.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png",CHC动作电影
+http://110.72.55.103:8181/tsfile/live/1079_1.m3u8
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.cn/tv/CHC高清电影.png",CHC高清电影
+http://110.72.55.103:8181/tsfile/live/1080_1.m3u8
+#EXTINF:-1 tvg-name="精彩影视高清" tvg-logo="https://live.fanmingming.cn/tv/精彩影视高清.png",精彩影视高清
+http://110.72.55.103:8181/tsfile/live/1015_1.m3u8
+#EXTINF:-1 tvg-name="私人影院高清" tvg-logo="https://live.fanmingming.cn/tv/私人影院高清.png",私人影院高清
+http://117.141.162.238:8181/tsfile/live/1011_1.m3u8
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png",凤凰卫视中文台
+http://103.148.76.2:34850/stream/mux/e5c7614fe50e963376739ff8632a4412
+#EXTINF:-1 tvg-name="KBS国际" tvg-logo="https://live.fanmingming.cn/tv/KBS国际.png",KBS国际
+http://103.148.76.2:34850/stream/mux/af65d25fd28d6cc92c381682f69ed97f?
+#EXTINF:-1 tvg-name="日本动画" tvg-logo="https://live.fanmingming.cn/tv/日本动画.png",日本动画
+http://103.148.76.2:34850/stream/mux/a55384782891679ce2db2354b2754413
+#EXTINF:-1 tvg-name="格斗频道" tvg-logo="https://live.fanmingming.cn/tv/格斗频道.png",格斗频道
+http://103.148.76.2:34850/stream/mux/1c2ce940d17ef8ddc44c640e2b986f7f
+#EXTINF:-1 tvg-name="NBA" tvg-logo="https://live.fanmingming.cn/tv/NBA.png",NBA
+http://103.148.76.2:34850/stream/mux/d9624ec9de1fa4a684d85ad56f5886e2
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://live.fanmingming.cn/tv/天映频道.png",天映频道
+http://103.148.76.2:34850/stream/mux/62a73f6d54c59613e92895787b0e5fb2
+#EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://live.fanmingming.cn/tv/TVBS亚洲.png",TVBS亚洲
+http://103.148.76.2:34850/stream/mux/f5d2eec4b22d9568c123cc659e55c5c1
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.cn/tv/中天新闻.png",中天新闻
+http://[2001:470:c:724::2]:50002/Sub.m3u?token=ofiii&proxy=true
